@@ -1,0 +1,4848 @@
+Itapeva,6.15,Taquarituba
+Apiaí,5.6,Iporanga
+Itu,4.0,Pirapora do Bom Jesus
+Itapirapuã Paulista,6.0,Ribeira
+Apiaí,9.9,Nova Campina
+Avaré,5.5,Taguaí
+Indaiatuba,4.15,Sumaré
+Mirassol,5.0,Nipoã
+Catanduva,3.4,Tabapuã
+Nipoã,6.9,São José do Rio Preto
+Bento de Abreu,3.21,Mirandópolis
+Avaré,6.15,Paranapanema
+Indaiatuba,5.4,Nova Odessa
+Piraju,5.4,Taquarituba
+Cerqueira César,5.45,Santa Cruz do Rio Pardo
+Araçariguama,4.25,Itapevi
+Avaré,5.5,Taquarituba
+Cajobi,3.7,Olímpia
+Pirapora do Bom Jesus,6.25,São Paulo
+Apiaí,7.55,Ribeirão Branco
+Assis,5.5,Pedrinhas Paulista
+Osasco,6.25,Pirapora do Bom Jesus
+Artur Nogueira,5.3,Campinas
+Franco da Rocha,4.65,Jundiaí
+Cajamar,5.65,Jundiaí
+Cruzália,4.0,Paraguaçu Paulista
+Guararema,4.0,Santa Isabel
+Itariri,2.0,Peruíbe
+Manduri,5.45,Santa Cruz do Rio Pardo
+Santa Isabel,6.2,Suzano
+Lins,13.87,Mirandópolis
+Itaberá,5.6,Taquarituba
+Cesário Lange,4.6,Tietê
+Narandiba,4.25,Presidente Prudente
+Mogi das Cruzes,6.4,Salesópolis
+Coronel Macedo,5.0,Itapeva
+Indaiatuba,4.3,Itupeva
+Caiuá,10.1,Presidente Prudente
+Guarantã,7.25,Pongaí
+Lins,2.9,Sabino
+Pirajuí,4.35,Pongaí
+Araraquara,4.4,Rincão
+Ibiúna,4.05,São Roque
+Echaporã,13.05,Getulina
+Artur Nogueira,4.5,Jaguariúna
+Assis,4.5,Cruzália
+Monteiro Lobato,4.55,São José dos Campos
+Pirapora do Bom Jesus,4.55,São Roque
+Americana,6.45,Indaiatuba
+Mairiporã,3.8,Nazaré Paulista
+Mariápolis,6.85,Martinópolis
+Bariri,11.45,Bauru
+Cabreúva,4.6,Jundiaí
+Neves Paulista,4.6,Nipoã
+Adolfo,6.9,Ubarana
+Macaubal,6.9,Monte Aprazível
+Jarinu,3.85,Jundiaí
+Barueri,4.25,Pirapora do Bom Jesus
+Andradina,13.15,Bento de Abreu
+Álvares Machado,7.35,Presidente Venceslau
+Poá,6.2,Santa Isabel
+Bauru,6.25,Santa Cruz do Rio Pardo
+Jales,6.25,Populina
+Cerqueira César,5.5,Óleo
+Cosmópolis,3.95,Holambra
+Mirassolândia,4.75,São José do Rio Preto
+Avaí,7.15,Cafelândia
+Ariranha,4.0,Catanduva
+Bebedouro,4.8,Taiaçu
+Caiuá,5.6,Santo Anastácio
+Cotia,4.8,São Roque
+Indaiatuba,6.4,Jundiaí
+Bento de Abreu,3.21,Lavínia
+Guapiara,10.55,Itapeva
+Cândido Mota,6.5,Ourinhos
+Cafelândia,6.55,Presidente Alves
+Cajamar,4.95,São Paulo
+Bento de Abreu,11.15,Murutinga do Sul
+Assis,17.35,Getulina
+Catanduva,9.95,Olímpia
+Indaiatuba,4.15,Monte Mor
+Indaiatuba,4.15,Vinhedo
+Bariri,6.25,Pederneiras
+Bauru,6.25,Espírito Santo do Turvo
+Campinas,6.25,Holambra
+Herculândia,5.0,Oriente
+Álvares Machado,9.6,Caiuá
+Porto Feliz,5.85,Sorocaba
+Bento de Abreu,9.2,Guaraçaí
+Mairinque,5.05,Sorocaba
+Buritama,7.6,José Bonifácio
+Pontes Gestal,9.35,Tanabi
+Taquarituba,5.1,Tejupá
+Alumínio,3.85,São Roque
+Colina,3.85,Viradouro
+Ipiguá,3.85,São José do Rio Preto
+Miracatu,3.0,Pedro de Toledo
+Avaí,11.6,Lins
+Caiuá,8.6,Presidente Bernardes
+Américo de Campos,6.9,Tanabi
+Amparo,4.75,Jaguariúna
+Ourinhos,4.75,Santa Cruz do Rio Pardo
+Araçatuba,6.5,Bento de Abreu
+Ariranha,13.0,Barrinha
+Iperó,5.2,Sorocaba
+Barrinha,14.75,Pindorama
+Barrinha,5.65,Dumont
+Catanduva,4.35,Paraíso
+Cosmópolis,10.44,São Paulo
+Álvares Machado,3.5,Santo Expedito
+Bauru,9.65,Boracéia
+Andradina,6.15,Pereira Barreto
+Americana,4.4,Monte Mor
+Aparecida d'Oeste,4.4,São Francisco
+Itapevi,4.4,São Roque
+Catanduva,11.9,Ibitinga
+Corumbataí,5.3,Rio Claro
+Ariranha,10.0,Jaboticabal
+Cosmorama,7.55,Mirassol
+Guariba,4.0,Guatapará
+Piquerobi,8.0,Presidente Prudente
+Macaubal,12.45,São José do Rio Preto
+José Bonifácio,4.45,Planalto
+Catanduva,6.25,Marapoama
+Paulistânia,6.25,Santa Cruz do Rio Pardo
+Macaubal,10.25,Mirassol
+Adolfo,8.1,São José do Rio Preto
+Herculândia,8.1,Marília
+Ituverava,4.5,Miguelópolis
+Lins,9.95,Presidente Alves
+José Bonifácio,6.35,Zacarias
+Águas de Lindóia,5.45,Amparo
+Boa Esperança do Sul,5.45,Ribeirão Bonito
+Cotia,5.45,Ibiúna
+Óleo,5.45,Santa Cruz do Rio Pardo
+Adamantina,10.0,Martinópolis
+Canitar,5.0,Santa Cruz do Rio Pardo
+Caiabu,4.55,Mariápolis
+Marabá Paulista,4.1,Mirante do Paranapanema
+Nova Aliança,6.85,Sales
+São Francisco,6.85,Suzanápolis
+Avaré,5.5,Itaí
+Itaí,5.5,Taguaí
+Itapeva,5.5,Ribeirão Branco
+Piraju,5.5,Timburi
+Pindorama,17.9,Sertãozinho
+Cerquilho,4.6,Cesário Lange
+Mendonça,6.9,São José do Rio Preto
+Álvares Machado,13.35,Presidente Epitácio
+Piedade,6.45,Vargem Grande Paulista
+São Lourenço da Serra,10.05,São Paulo
+Nova Aliança,4.15,São José do Rio Preto
+Peruíbe,10.15,São Vicente
+Atibaia,3.7,Jarinu
+Itapecerica da Serra,3.7,Juquitiba
+José Bonifácio,26.85,Presidente Prudente
+Guarulhos,6.5,Santa Isabel
+Jales,12.55,Pereira Barreto
+Campo Limpo Paulista,4.65,Franco da Rocha
+Ribeirão Preto,4.65,Serrana
+Guaimbê,5.6,Marília
+Mendonça,5.6,Ubarana
+Ariranha,15.9,Sertãozinho
+Getulina,7.5,Marília
+Sales,11.25,São José do Rio Preto
+Andradina,13.66,Guararapes
+Mendonça,4.25,Sales
+Biritiba-Mirim,5.2,Mogi das Cruzes
+Duartina,9.95,Vera Cruz
+Jales,9.95,Suzanápolis
+Pereira Barreto,9.95,São Francisco
+Amparo,4.75,Lindóia
+Echaporã,4.75,Marília
+Igaratá,11.4,São José dos Campos
+Itaquaquecetuba,5.7,Santa Isabel
+Itirapina,5.7,São Carlos
+Ibitinga,11.9,Pindorama
+Adamantina,14.3,Presidente Prudente
+Bálsamo,11.45,Pontes Gestal
+Cajati,4.3,Pariquera-Açu
+Pedro de Toledo,4.3,Peruíbe
+Boa Esperança do Sul,10.55,São Carlos
+Bebedouro,3.85,Terra Roxa
+Colina,3.85,Terra Roxa
+José Bonifácio,29.41,Martinópolis
+Américo de Campos,9.65,Bálsamo
+Adolfo,4.35,Nova Aliança
+Águas de Lindóia,4.35,Itapira
+Ariranha,4.35,Vista Alegre do Alto
+Avaí,5.8,Guarantã
+Bebedouro,4.35,Pirangi
+Catanduva,4.35,Embaúba
+Ibiúna,4.35,Piedade
+Bebedouro,8.75,Catanduva
+São José do Rio Preto,10.7,União Paulista
+Mirassol,8.1,União Paulista
+Duartina,11.25,Marília
+Echaporã,18.1,Lins
+Gastão Vidigal,6.85,Santo Antônio do Aracanguá
+Marília,6.85,Quintana
+Apiaí,5.89,Ribeira
+Jaboticabal,11.8,Pindorama
+Álvares Machado,6.9,Piquerobi
+Catanduva,6.9,Monte Azul Paulista
+Poloni,6.9,São José do Rio Preto
+Artur Nogueira,3.95,Holambra
+Araçatuba,5.45,Glicério
+Itaberá,11.9,Itararé
+São José do Rio Preto,11.9,Sebastianópolis do Sul
+Catanduva,9.95,Severínia
+Adamantina,7.5,Caiabu
+Americana,7.0,Elias Fausto
+Avanhandava,5.0,Lins
+Avaré,7.5,Iaras
+Cabreúva,4.0,Pirapora do Bom Jesus
+Caiuá,5.0,Piquerobi
+Cajobi,4.0,Novais
+Catanduva,4.0,Itajobi
+Catanduva,6.0,Urupês
+Franca,4.0,Ribeirão Corrente
+Glicério,8.0,Promissão
+Guararema,4.0,Mogi das Cruzes
+Ipuã,4.5,São Joaquim da Barra
+Itanhaém,6.0,Itariri
+Itanhaém,7.5,Pedro de Toledo
+Macaubal,5.0,Poloni
+Marapoama,5.0,Pindorama
+Mogi das Cruzes,4.0,Santa Isabel
+Monte Aprazível,5.0,São José do Rio Preto
+Nhandeara,5.0,Turiúba
+Oriente,4.0,Quintana
+Osvaldo Cruz,4.0,Rinópolis
+São José do Rio Preto,8.0,Urupês
+Getulina,14.05,Pirajuí
+Araraquara,7.55,Dourado
+Igaratá,5.05,Jacareí
+Guararema,4.55,Jacareí
+Mirante do Paranapanema,9.1,Presidente Venceslau
+Salto de Pirapora,4.55,Sorocaba
+Presidente Prudente,8.6,Presidente Venceslau
+Guaimbê,17.24,Pirajuí
+Boituva,3.05,Iperó
+Bauru,13.25,Reginópolis
+Américo de Campos,14.3,São José do Rio Preto
+Álvares Machado,4.6,Santo Anastácio
+Ribeirão Preto,15.35,Tambaú
+Barra do Turvo,18.45,Registro
+Irapuã,10.25,São José do Rio Preto
+São Roque,4.1,Vargem Grande Paulista
+Araçatuba,6.15,Bilac
+Araçatuba,6.15,Brejo Alegre
+Palmeira d'Oeste,6.15,Suzanápolis
+Buri,4.0,Taquarivaí
+Buritama,15.4,São José do Rio Preto
+Araçatuba,8.25,Gabriel Monteiro
+Juquiá,3.1,Miracatu
+Marília,15.5,Ribeirão do Sul
+Pontal,4.65,Ribeirão Preto
+Birigui,11.4,Promissão
+Cosmópolis,4.15,Limeira
+Dracena,4.15,Monte Castelo
+Dracena,4.15,Santa Mercedes
+Flora Rica,4.15,Junqueirópolis
+Guariba,4.15,Rincão
+Herculândia,4.15,Pompéia
+Inúbia Paulista,8.3,Tupã
+José Bonifácio,4.15,Neves Paulista
+São João do Pau d'Alho,4.15,Tupi Paulista
+Avanhandava,9.35,Birigui
+Cafelândia,9.35,Pongaí
+José Bonifácio,20.79,Parapuã
+Coroados,10.4,Promissão
+Salto de Pirapora,5.2,Sarapuí
+Assis,11.45,Rancharia
+Adolfo,6.25,Bady Bassitt
+Cajobi,6.25,Catanduva
+Dracena,6.25,Flora Rica
+Dracena,6.25,São João do Pau d'Alho
+Jales,6.25,Mesópolis
+Junqueirópolis,6.25,Santo Expedito
+Pindorama,6.25,Vista Alegre do Alto
+Piratininga,6.25,Santa Cruz do Rio Pardo
+Populina,6.25,Vitória Brasil
+Monte Alto,4.7,Pirangi
+Bragança Paulista,11.5,Jundiaí
+Penápolis,11.0,Piacatu
+Araçatuba,9.45,Piacatu
+Araçatuba,10.5,Santópolis do Aguapeí
+Areias,3.15,Queluz
+Planalto,11.05,São José do Rio Preto
+Lucélia,14.25,Presidente Prudente
+Piratininga,9.5,Ubirajara
+Buri,7.5,Itapeva
+Natividade da Serra,9.55,Taubaté
+Atibaia,4.25,Mairiporã
+Atibaia,4.25,Piracaia
+Junqueirópolis,4.25,Tupi Paulista
+Presidente Prudente,4.25,Tarabai
+Jaboticabal,4.8,Taiaçu
+Avanhandava,8.0,Coroados
+Araçatuba,14.2,Nhandeara
+Bento de Abreu,3.74,Guararapes
+Buritama,7.5,Nhandeara
+Ibitinga,9.65,Santa Adélia
+Mirassol,9.65,Sebastianópolis do Sul
+Avanhandava,5.9,Glicério
+Coroados,14.5,Lins
+Guaimbê,6.45,Lins
+Júlio Mesquita,8.6,Pirajuí
+Pariquera-Açu,4.3,Registro
+São José do Rio Preto,14.0,Zacarias
+Presidente Prudente,19.95,Quintana
+Gália,7.55,Marília
+Marília,20.5,Pongaí
+Birigui,12.45,Nhandeara
+Assis,6.5,Ourinhos
+Amparo,7.6,Pinhalzinho
+Bauru,11.95,Guarantã
+Assis,4.35,Echaporã
+Dracena,4.35,Irapuru
+Ibirá,4.35,Irapuã
+Mirassol,4.35,Tanabi
+Monte Azul Paulista,4.35,Palmares Paulista
+Pindorama,4.35,Pirangi
+Quintana,4.35,Tupã
+Sales,4.35,Urupês
+Bernardino de Campos,5.45,Cerqueira César
+Birigui,5.45,Gabriel Monteiro
+Piquerobi,5.45,Presidente Bernardes
+Potirendaba,5.45,São José do Rio Preto
+Presidente Prudente,5.45,Taciba
+Presidente Prudente,11.45,Quatá
+Araçatuba,12.55,Gastão Vidigal
+Glicério,12.55,Lins
+Araçatuba,14.2,Parapuã
+Paraguaçu Paulista,14.8,Presidente Prudente
+Assis,15.35,Martinópolis
+Araçatuba,19.75,Tupã
+Anhumas,3.85,Presidente Prudente
+Araçatuba,7.7,Braúna
+Araçatuba,9.9,Clementina
+Clementina,5.5,Piacatu
+Fartura,5.5,Taquarituba
+Itajobi,3.85,Pindorama
+Piedade,5.5,Pilar do Sul
+Lupércio,13.25,Ourinhos
+Adolfo,5.0,José Bonifácio
+Andradina,10.0,Lavínia
+Bady Bassitt,5.0,Mendonça
+Charqueada,5.0,Limeira
+José Bonifácio,20.0,Rinópolis
+Monte Aprazível,5.0,União Paulista
+Santa Cruz do Rio Pardo,5.0,Chavantes
+Santa Rosa de Viterbo,4.45,Tambaú
+Barrinha,7.8,Pradópolis
+Assis,7.25,Salto Grande
+Agudos,3.35,Borebi
+Jacupiranga,3.35,Pariquera-Açu
+José Bonifácio,3.35,Ubarana
+Pirapozinho,6.15,Sandovalina
+Dracena,5.6,Nova Guataporanga
+Dracena,5.6,Paulicéia
+Jacareí,5.6,Santa Isabel
+Mirassol,5.6,Poloni
+Pradópolis,5.6,Ribeirão Preto
+Araçatuba,16.8,Iacri
+Piquerobi,8.4,Presidente Epitácio
+Catanduva,4.5,Ibirá
+Cruzália,4.5,Florínia
+Itatinga,4.5,Pardinho
+Morro Agudo,4.5,São Joaquim da Barra
+Piacatu,4.5,Santópolis do Aguapeí
+Presidente Prudente,18.02,Santópolis do Aguapeí
+Araçatuba,7.55,Buritama
+Monte Mor,3.95,Nova Odessa
+Lupércio,11.3,Ribeirão do Sul
+Catiguá,3.4,Tabapuã
+Itapetininga,6.8,São Miguel Arcanjo
+Pindorama,3.4,Santa Adélia
+Guararapes,13.06,Murutinga do Sul
+Águas de Lindóia,12.5,Bragança Paulista
+Bauru,6.25,Paulistânia
+Ibirá,6.25,Sales
+Monte Aprazível,6.25,Sebastianópolis do Sul
+Nova Independência,6.25,Tupi Paulista
+Araçatuba,4.55,Coroados
+Avaí,4.55,Pirajuí
+Birigui,4.55,Brejo Alegre
+Bragança Paulista,4.55,Tuiuti
+Guatapará,4.55,Pradópolis
+Lorena,4.55,Piquete
+Morro Agudo,9.1,Pontal
+Penápolis,4.55,Promissão
+Novo Horizonte,14.8,São José do Rio Preto
+Guatapará,12.55,Jaboticabal
+Araçatuba,16.55,Murutinga do Sul
+Alfredo Marcondes,6.85,Irapuru
+Álvares Machado,6.85,Emilianópolis
+Aparecida d'Oeste,6.85,Jales
+Aparecida d'Oeste,6.85,Pereira Barreto
+Artur Nogueira,6.85,Mogi Mirim
+Birigui,6.85,Piacatu
+Emilianópolis,6.85,Presidente Prudente
+Barra do Turvo,12.0,Cajati
+Limeira,4.0,Santa Gertrudes
+Adamantina,14.3,Indiana
+Icém,5.15,Onda Verde
+Martinópolis,11.45,Paraguaçu Paulista
+Barra do Turvo,13.75,Jacupiranga
+Amparo,4.6,Morungaba
+Óleo,4.6,Piraju
+Piedade,4.6,Tapiraí
+Itápolis,6.9,Santa Adélia
+Pindamonhangaba,6.9,Santo Antônio do Pinhal
+Herculândia,19.05,Presidente Prudente
+Cedral,4.05,Potirendaba
+Dracena,8.1,Nova Independência
+Pindamonhangaba,4.05,Roseira
+Araçatuba,36.52,Tupi Paulista
+Mirandópolis,5.8,Murutinga do Sul
+Buri,6.15,Capão Bonito
+Barrinha,7.55,Taquaral
+Cabrália Paulista,7.55,Ubirajara
+Francisco Morato,4.65,Jundiaí
+Angatuba,3.5,Campina do Monte Alegre
+Barrinha,7.0,Monte Alto
+Bragança Paulista,7.0,Itatiba
+Cristais Paulista,3.5,Jeriquara
+Dumont,3.5,Pradópolis
+Elisiário,3.5,Urupês
+Iacri,7.0,Piacatu
+Matão,3.5,Santa Ernestina
+Monte Alegre do Sul,3.5,Serra Negra
+Bragança Paulista,11.7,Lindóia
+Nantes,11.7,Presidente Prudente
+Elias Fausto,4.1,Indaiatuba
+Lupércio,4.1,Ubirajara
+Turiúba,10.55,Votuporanga
+Bragança Paulista,4.7,Pedra Bela
+Santo Antônio do Pinhal,5.88,São Bento do Sapucaí
+Catanduva,10.6,Monte Alto
+Barretos,8.25,Ipuã
+Monções,8.25,Votuporanga
+Bauru,14.15,Ubirajara
+Cândido Mota,6.5,Ibirarema
+Junqueirópolis,13.0,Presidente Prudente
+Birigui,14.2,Iacri
+Getulina,3.55,Guaimbê
+Monte Aprazível,3.55,Nipoã
+Panorama,3.55,Santa Mercedes
+Presidente Prudente,14.2,Teodoro Sampaio
+Indiana,11.25,Mariápolis
+Mariápolis,11.25,Presidente Prudente
+Divinolândia,11.85,Mococa
+Martinópolis,12.45,Tupã
+Itapira,4.15,Lindóia
+Bilac,13.05,Tupã
+Bady Bassitt,8.9,Sales
+Palmeira d'Oeste,8.9,Pereira Barreto
+Álvaro de Carvalho,4.75,Marília
+Caiabu,4.75,Indiana
+Franca,4.75,São José da Bela Vista
+Guaraçaí,4.75,Lavínia
+Irapuru,4.75,Santo Expedito
+Jales,4.75,Marinópolis
+Jales,4.75,Palmeira d'Oeste
+Marinópolis,4.75,Suzanápolis
+Nova Luzitânia,4.75,Santo Antônio do Aracanguá
+Potirendaba,4.75,Urupês
+Ribeirão Preto,4.75,Serra Azul
+Pirangi,13.55,Sertãozinho
+Barbosa,10.7,São José do Rio Preto
+Gabriel Monteiro,10.7,Tupã
+Onda Verde,6.55,Palestina
+Iepê,14.3,Presidente Prudente
+Jaci,7.15,José Bonifácio
+José Bonifácio,7.15,Mirassol
+Barrinha,10.75,Pirangi
+Marília,10.75,Paraguaçu Paulista
+Fernandópolis,6.58,Ouroeste
+Bebedouro,4.8,Taiúva
+Bilac,8.4,Parapuã
+Cabreúva,3.6,Itu
+Birigui,35.52,Tupi Paulista
+Estrela d'Oeste,14.47,Santa Fé do Sul
+Ibirá,9.65,Novo Horizonte
+Piacatu,9.65,Tupã
+Parapuã,9.05,Quintana
+Andradina,8.45,Itapura
+Redenção da Serra,7.85,Taubaté
+Clementina,16.91,Martinópolis
+Alvinlândia,7.25,Marília
+Ariranha,7.25,Monte Alto
+Avaré,14.5,Botucatu
+Campinas,7.25,Santo Antônio de Posse
+Cândido Mota,7.25,Salto Grande
+Guareí,7.25,Porangaba
+Presidente Epitácio,14.5,Presidente Prudente
+Birigui,5.45,Buritama
+Duartina,5.45,Gália
+Barrinha,10.3,Bebedouro
+Boa Esperança do Sul,4.25,Dourado
+Gabriel Monteiro,8.5,Iacri
+Itu,4.25,Porto Feliz
+Iacanga,7.3,Pongaí
+Ocauçu,7.3,Ribeirão do Sul
+Bragança Paulista,3.66,Vargem
+Bauru,11.0,Lucianópolis
+Ocauçu,11.0,Ourinhos
+Ourinhos,5.5,São Pedro do Turvo
+Eldorado,7.35,Sete Barras
+Birigui,4.9,Braúna
+Oscar Bressane,4.9,Paraguaçu Paulista
+Araçatuba,21.2,Votuporanga
+Araçatuba,13.5,Promissão
+Franca,6.15,Pedregulho
+Iepê,14.15,Oscar Bressane
+Braúna,8.0,Piacatu
+Birigui,19.1,Votuporanga
+Arandu,3.7,Avaré
+Bauru,9.25,Presidente Alves
+Caiuá,3.7,Presidente Venceslau
+Catanduva,3.7,Novais
+Dracena,3.7,Ouro Verde
+Guaraçaí,3.7,Mirandópolis
+Monte Azul Paulista,3.7,Paraíso
+Bebedouro,6.2,Palmares Paulista
+Araçatuba,13.65,Rinópolis
+Braúna,13.65,Tupã
+Buritama,13.65,Votuporanga
+Araçatuba,10.55,Nova Luzitânia
+Barão de Antonina,14.9,Itararé
+Guará,7.45,Orlândia
+São Paulo,760.0,Lima
+Assis,4.35,Paraguaçu Paulista
+Cosmópolis,4.35,Engenheiro Coelho
+Barretos,13.05,São José do Rio Preto
+Guararapes,6.84,Lavínia
+Presidente Prudente,9.95,Sandovalina
+Presidente Prudente,6.85,Santo Expedito
+Birigui,17.45,Tupã
+Águas da Prata,13.1,Santa Cruz das Palmeiras
+Araçatuba,15.6,Guaraçaí
+Dolcinópolis,6.25,Populina
+Herculândia,7.5,Parapuã
+Iepê,11.25,Regente Feijó
+Ipaussu,5.0,Ourinhos
+Itapira,7.5,Socorro
+Jaboticabal,5.0,Pitangueiras
+João Ramalho,5.0,Paraguaçu Paulista
+Lucélia,11.25,Martinópolis
+Macatuba,3.75,Pederneiras
+Mesópolis,6.25,Vitória Brasil
+Mirante do Paranapanema,5.0,Tarabai
+Neves Paulista,5.0,São José do Rio Preto
+Nhandeara,5.0,Votuporanga
+Ribeirão Preto,11.25,Rincão
+Santo Antônio do Jardim,5.0,São João da Boa Vista
+Duartina,9.4,Garça
+Monte Alto,9.4,Pindorama
+Barão de Antonina,6.9,Riversul
+João Ramalho,6.9,Tupã
+Bauru,12.55,Bocaina
+Areiópolis,11.3,Bauru
+Ipeúna,5.65,Rio Claro
+Coroados,15.7,Tupã
+Campos Novos Paulista,8.8,Marília
+Campos Novos Paulista,8.8,Ourinhos
+São Simão,7.55,Tambaú
+Aparecida,151.4,Brasília
+Araçatuba,13.0,Monções
+Barrinha,10.1,Vista Alegre do Alto
+Divinolândia,3.8,São Sebastião da Grama
+Jacareí,3.8,Santa Branca
+Louveira,3.8,Vinhedo
+Marabá Paulista,3.8,Presidente Venceslau
+Pirapozinho,11.4,Teodoro Sampaio
+Águas de São Pedro,4.45,Charqueada
+Nantes,8.9,Regente Feijó
+Clementina,11.45,Tupã
+Pirajuí,11.45,Ubirajara
+Mirante do Paranapanema,5.1,Pirapozinho
+Matão,15.35,Ribeirão Preto
+Bilac,6.4,Rinópolis
+Bilac,10.25,Iacri
+Catanduva,10.25,Itápolis
+Birigui,10.9,Monções
+Amparo,3.85,Pedreira
+Amparo,3.85,Serra Negra
+Andradina,3.85,Castilho
+Aparecida d'Oeste,3.85,Palmeira d'Oeste
+Bastos,3.85,Tupã
+Birigui,7.7,Clementina
+Iperó,3.85,Tatuí
+Mendonça,3.85,Nova Aliança
+Monções,3.85,Nhandeara
+Monte Castelo,3.85,São João do Pau d'Alho
+Nova Guataporanga,3.85,Tupi Paulista
+Quatá,3.85,Rancharia
+Lavínia,3.21,Valparaíso
+Olímpia,44.33,Parapuã
+Birigui,12.85,Parapuã
+Alfredo Marcondes,9.0,Junqueirópolis
+Assis,4.5,Florínia
+Assis,4.5,Platina
+Dracena,9.0,Santo Expedito
+Marília,18.0,Rancharia
+Iepê,19.3,Marília
+Cravinhos,5.15,São Simão
+Presidente Bernardes,11.6,Presidente Epitácio
+Borebi,20.65,Botucatu
+Herculândia,9.05,Osvaldo Cruz
+Pindamonhangaba,14.25,São Bento do Sapucaí
+Cajuru,14.9,São José do Rio Pardo
+Alfredo Marcondes,4.55,Presidente Prudente
+Altinópolis,4.55,Batatais
+Andradina,3.9,Murutinga do Sul
+Avaí,6.5,Bauru
+Fernão,5.2,Garça
+Iepê,13.0,Lutécia
+Monte Alto,3.9,Vista Alegre do Alto
+Natividade da Serra,3.9,Redenção da Serra
+Pilar do Sul,4.55,Sarapuí
+Ribeirão Preto,11.7,Santa Rosa de Viterbo
+Jaguariúna,11.09,Serra Negra
+Nhandeara,13.05,São José do Rio Preto
+Martinópolis,29.41,Penápolis
+Boituva,6.55,Sorocaba
+Coroados,5.9,Penápolis
+Martinópolis,55.75,Olímpia
+Ribeirão Preto,13.15,Taquaral
+Barrinha,16.45,Catanduva
+Altinópolis,11.85,Ribeirão Preto
+Divinolândia,7.9,São José do Rio Pardo
+Jaguariúna,3.95,Santo Antônio de Posse
+Araçatuba,11.2,Lavínia
+Guaraçaí,12.54,Guararapes
+Tarabai,10.58,Teodoro Sampaio
+Boracéia,7.3,Jaú
+Álvaro de Carvalho,4.0,Garça
+Arco-Íris,4.0,Tupã
+Arujá,4.0,Santa Isabel
+Barbosa,20.0,Parapuã
+Barretos,12.0,Morro Agudo
+Franca,4.0,Itirapuã
+Guarantã,6.0,Lins
+Itajobi,4.0,Novo Horizonte
+Itariri,2.0,Pedro de Toledo
+José Bonifácio,4.0,Mendonça
+Maracaí,4.0,Paraguaçu Paulista
+Mirassol,4.0,Monte Aprazível
+Morungaba,4.0,Tuiuti
+Taiaçu,2.0,Taiúva
+Ribeirão Preto,26.7,São José do Rio Pardo
+Alfredo Marcondes,10.7,Dracena
+Braúna,10.7,Iacri
+Santa Cruz das Palmeiras,12.05,São João da Boa Vista
+Atibaia,6.7,Itatiba
+Itirapina,6.7,Rio Claro
+Monte Aprazível,3.35,Poloni
+São Caetano do Sul,20.11,São Vicente
+Cravinhos,8.05,Santa Rosa de Viterbo
+Assis,14.8,Guaimbê
+Bauru,8.75,Itapuí
+Assis,20.2,Lins
+Araçatuba,28.34,Presidente Prudente
+Águas de Lindóia,4.05,Serra Negra
+Álvares Machado,16.2,Dracena
+Araçariguama,4.05,São Roque
+Araraquara,8.1,Guariba
+Itapeva,4.05,Nova Campina
+Juquiá,4.05,Registro
+Laranjal Paulista,4.05,Pereiras
+Monte Alegre do Sul,4.05,Pinhalzinho
+Osvaldo Cruz,4.05,Salmourão
+Araçatuba,12.15,Avanhandava
+Barretos,5.4,Jaborandi
+Barretos,13.5,São Joaquim da Barra
+Iacri,2.7,Tupã
+Coroados,12.85,Iacri
+Amparo,4.06,Santo Antônio de Posse
+Bauru,16.25,Pongaí
+Itajobi,29.8,Júlio Mesquita
+Cabrália Paulista,6.1,Lucianópolis
+Catanduva,19.0,Sertãozinho
+Lucélia,4.75,Parapuã
+Monte Castelo,4.75,Nova Independência
+Presidente Epitácio,9.5,Santo Anastácio
+Aramina,11.54,Miguelópolis
+São Paulo,440.0,Santiago
+Indiana,14.95,Lucélia
+Presidente Epitácio,6.8,Presidente Venceslau
+Guarantã,24.5,Itajobi
+Alfredo Marcondes,5.45,Flora Rica
+Andradina,5.45,Nova Independência
+Araraquara,5.45,Gavião Peixoto
+Buritama,5.45,Monções
+Novo Horizonte,7.5,Urupês
+Bragança Paulista,8.2,Piracaia
+Dumont,4.1,Sertãozinho
+Ourinhos,4.1,Chavantes
+Pirapora do Bom Jesus,4.1,Santana de Parnaíba
+Santópolis do Aguapeí,10.25,Tupã
+Sandovalina,6.15,Tarabai
+Euclides da Cunha Paulista,23.27,Tarabai
+Itariri,24.64,Santos
+Caiabu,6.85,Presidente Prudente
+Castilho,8.22,Murutinga do Sul
+Jaboticabal,4.8,Taiúva
+Campina do Monte Alegre,15.1,Itapetininga
+Auriflama,8.25,Jales
+Canitar,2.75,Ourinhos
+Sertãozinho,13.75,Vista Alegre do Alto
+Rio Claro,16.55,São Pedro
+Ipeúna,10.35,São Pedro
+Presidente Bernardes,6.9,Presidente Venceslau
+Bálsamo,4.15,São José do Rio Preto
+Bastos,8.3,Inúbia Paulista
+Boracéia,4.15,Pederneiras
+Iacri,4.15,Rinópolis
+Inúbia Paulista,4.15,Parapuã
+Itajobi,37.35,Marília
+Presidente Venceslau,4.15,Santo Anastácio
+Taguaí,4.15,Taquarituba
+Adamantina,6.25,Parapuã
+Amparo,12.5,Campinas
+Apiaí,12.5,Itapeva
+São Paulo,600.0,Puerto Maldonado
+Itapira,6.95,Mogi Guaçu
+Jaguariúna,14.6,Lindóia
+Conchal,8.35,Mogi Guaçu
+Jaguariúna,3.48,Pedreira
+Cafelândia,12.59,Guaimbê
+Eldorado,9.1,Pariquera-Açu
+Jambeiro,5.6,São José dos Campos
+Nhandeara,5.6,Poloni
+São José do Rio Preto,5.6,Tanabi
+Franca,3.5,Patrocínio Paulista
+Gália,4.2,Garça
+Guatapará,3.5,Rincão
+Iepê,10.5,Paraguaçu Paulista
+Marília,8.4,Ocauçu
+Tapiratiba,12.62,Vargem Grande do Sul
+Águas da Prata,18.95,Porto Ferreira
+Praia Grande,28.1,São Caetano do Sul
+Monte Alto,12.65,Ribeirão Preto
+Barretos,11.25,Guapiaçu
+Andradina,10.55,Monte Castelo
+Monte Alto,9.85,Sertãozinho
+Barbosa,19.0,Rinópolis
+Birigui,32.4,Dracena
+Cajati,14.1,Cananéia
+São Paulo,660.0,Cuzco
+Castilho,16.94,Pereira Barreto
+Castilho,5.65,Itapura
+Guararapes,4.24,Valparaíso
+Araçariguama,9.9,Osasco
+Birigui,9.9,Santópolis do Aguapeí
+Campinas,4.95,Jaguariúna
+Pereiras,9.9,Tatuí
+Bilac,4.25,Birigui
+Birigui,4.25,Glicério
+Emilianópolis,4.25,Presidente Bernardes
+Fartura,4.25,Piraju
+Getulina,4.25,Lins
+Jales,4.25,São Francisco
+Marília,4.25,Oriente
+Regente Feijó,4.25,Taciba
+Santa Rosa de Viterbo,4.25,São Simão
+Ariranha,3.55,Pirangi
+Boracéia,3.55,Itapuí
+Águas da Prata,10.65,Casa Branca
+Itapetininga,17.06,Porangaba
+Catanduva,12.8,Jaboticabal
+Itaberá,44.09,Sorocaba
+Bauru,15.65,Uru
+José Bonifácio,22.78,Osvaldo Cruz
+Araçoiaba da Serra,8.55,Tatuí
+Pongaí,5.7,Reginópolis
+Marília,33.5,Novo Horizonte
+Itariri,24.95,São Vicente
+Echaporã,10.7,Guaimbê
+Osvaldo Cruz,10.7,Quintana
+Anhembi,12.85,Botucatu
+Cesário Lange,10.0,Torre de Pedra
+Dobrada,5.0,Jaboticabal
+Irapuã,5.0,Novo Horizonte
+Itapetininga,5.0,Sarapuí
+Ouro Verde,5.0,Panorama
+Parapuã,5.0,Santópolis do Aguapeí
+Fernandópolis,11.45,Santa Salete
+Castilho,11.46,Guaraçaí
+Caconde,8.6,São Sebastião da Grama
+Cruzália,4.3,Maracaí
+Pontal,4.3,Sertãozinho
+Mogi Mirim,11.47,Santo Antônio do Jardim
+Juquitiba,10.05,São Paulo
+Holambra,3.6,Jaguariúna
+Barão de Antonina,49.0,Sorocaba
+Itaporanga,13.0,Itararé
+Júlio Mesquita,13.0,Pongaí
+Ourinhos,6.5,Palmital
+Estrela d'Oeste,7.95,Santa Salete
+Araçatuba,18.8,Jales
+Birigui,30.4,Junqueirópolis
+São Paulo,113.0,Brasília
+Guaimbê,15.94,Guarantã
+Guaiçara,2.9,Lins
+Jacupiranga,4.35,Registro
+Junqueirópolis,4.35,Pacaembu
+Martinópolis,4.35,Rancharia
+Paulicéia,4.35,Tupi Paulista
+Pereiras,8.7,Tietê
+Poloni,4.35,Sebastianópolis do Sul
+Santa Cruz das Palmeiras,8.7,Vargem Grande do Sul
+São Sebastião da Grama,4.35,Vargem Grande do Sul
+Barretos,67.48,Martinópolis
+Caçapava,39.95,São Bernardo do Campo
+Bragança Paulista,24.71,São Bernardo do Campo
+Piedade,6.55,Sorocaba
+Birigui,11.65,Rinópolis
+Coroados,11.65,Parapuã
+Pedreira,8.74,Serra Negra
+Presidente Prudente,10.2,Rancharia
+Arujá,8.75,Igaratá
+Marília,16.8,Parapuã
+Birigui,9.5,Turiúba
+Araçatuba,26.32,Martinópolis
+Conchal,5.85,Mogi Mirim
+Indiana,11.7,Osvaldo Cruz
+Limeira,5.85,Rio Claro
+Nova Granada,5.85,São José do Rio Preto
+Guará,4.39,São Joaquim da Barra
+Mogi das Cruzes,35.13,Praia Grande
+Alto Alegre,4.4,Luiziânia
+Alto Alegre,4.4,Penápolis
+Atibaia,4.4,Bragança Paulista
+Bilac,4.4,Piacatu
+Cravinhos,4.4,Ribeirão Preto
+Luís Antônio,8.8,Ribeirão Preto
+Porangaba,4.4,Torre de Pedra
+Espírito Santo do Pinhal,2.94,Santo Antônio do Jardim
+Ibirarema,19.11,Maracaí
+Bauru,12.5,Cafelândia
+Irapuru,12.5,Presidente Prudente
+Borborema,22.8,Júlio Mesquita
+Cotia,15.45,Piedade
+Catanduva,44.15,Marília
+Marília,18.4,Osvaldo Cruz
+Ibiúna,14.75,Sorocaba
+Duartina,5.9,Piratininga
+Lutécia,2.95,Oscar Bressane
+Campinas,17.72,Conchal
+Cerquilho,11.1,Pereiras
+Cachoeira Paulista,3.7,Lorena
+Guaratinguetá,3.7,Lorena
+Jaboticabal,3.7,Monte Alto
+Piquerobi,3.7,Presidente Venceslau
+Poloni,3.7,União Paulista
+Cubatão,24.45,Peruíbe
+Campinas,25.2,Conchas
+Itapetininga,40.05,Taguaí
+Jales,4.45,Santa Salete
+Araçatuba,31.16,Dracena
+Oriente,15.6,Osvaldo Cruz
+Igarapava,14.86,Miguelópolis
+Castilho,26.8,Guararapes
+Tupã,26.8,Tupi Paulista
+Assis,11.17,João Ramalho
+Porto Ferreira,17.9,São João da Boa Vista
+Conchal,3.73,Engenheiro Coelho
+Dracena,22.38,Presidente Epitácio
+Parapuã,22.4,Tupi Paulista
+Campos do Jordão,13.45,Taubaté
+Igaratá,13.45,Mogi das Cruzes
+Praia Grande,22.42,Ribeirão Pires
+Aramina,17.19,Orlândia
+Parapuã,18.69,Penápolis
+Adamantina,11.25,Bastos
+Agudos,4.5,Lençóis Paulista
+Araraquara,11.25,Jaboticabal
+Avanhandava,6.0,Guaiçara
+Bento de Abreu,3.0,Valparaíso
+Boituva,6.75,Tietê
+Campinas,6.0,Louveira
+Cruzália,4.5,Tarumã
+Divinolândia,28.5,Ribeirão Preto
+Flora Rica,10.5,Presidente Prudente
+Flórida Paulista,5.25,Irapuru
+Garça,12.0,Ubirajara
+Guaíra,4.5,Ipuã
+Guarantã,18.75,Novo Horizonte
+Itaí,10.5,Itaporanga
+Itapuí,4.5,Pederneiras
+Itariri,12.0,Juquiá
+Itatiba,4.5,Morungaba
+Ituverava,12.0,Orlândia
+Lins,3.75,Promissão
+Monte Castelo,3.0,Nova Guataporanga
+Monte Castelo,3.0,Tupi Paulista
+Nova Canaã Paulista,6.0,Santa Fé do Sul
+Panorama,3.0,Paulicéia
+Rubinéia,3.0,Santa Fé do Sul
+Angatuba,27.03,Fartura
+Álvares Machado,14.3,Junqueirópolis
+Botucatu,22.6,Guareí
+Palestina,10.55,São José do Rio Preto
+Itariri,7.54,Miracatu
+Getulina,9.05,Queiroz
+Ouroeste,24.15,Votuporanga
+Areias,7.55,Lavrinhas
+Marinópolis,7.55,Pereira Barreto
+Coronel Macedo,6.8,Itaí
+Itápolis,13.6,Matão
+Boa Esperança do Sul,7.56,Bocaina
+Areias,9.85,Cruzeiro
+Jaguariúna,20.47,Socorro
+Altair,9.1,Olímpia
+Araçatuba,4.55,Guararapes
+Buritama,4.55,Planalto
+Guariba,4.55,Motuca
+Osvaldo Cruz,13.65,Pompéia
+Pereira Barreto,4.55,Sud Mennucci
+Pereira Barreto,4.55,Suzanápolis
+Araçatuba,30.4,Junqueirópolis
+Artur Nogueira,7.6,Limeira
+Bofete,15.2,Tatuí
+Caçapava,7.6,Tremembé
+Monte Alegre do Sul,7.6,Socorro
+Tatuí,15.2,Torre de Pedra
+Bauru,10.65,Jaú
+Limeira,9.13,Piracicaba
+Pindorama,20.55,Ribeirão Preto
+Buri,9.15,Campina do Monte Alegre
+Campos do Jordão,12.2,São Bento do Sapucaí
+Barretos,21.4,Matão
+Marília,10.7,Tupã
+Orlândia,4.59,São Joaquim da Barra
+Cajuru,14.55,Luís Antônio
+Bastos,18.4,Nantes
+Bragança Paulista,4.6,Pinhalzinho
+Estrela do Norte,4.6,Pirapozinho
+Estrela do Norte,4.6,Tarabai
+Pinhalzinho,4.6,Socorro
+Rinópolis,34.5,São José do Rio Preto
+Aguaí,6.9,Águas da Prata
+Lindóia,12.27,Pedreira
+Santo André,30.68,São José dos Campos
+Campinas,18.42,Espírito Santo do Pinhal
+Catanduva,29.95,Guarantã
+Araraquara,6.15,Motuca
+Bauru,6.15,Pederneiras
+Cesário Lange,6.15,Porangaba
+Paraibuna,6.15,São José dos Campos
+Bastos,10.0,Lucélia
+Guatapará,10.0,Ribeirão Preto
+Jacareí,30.01,Santo André
+Avaí,3.85,Presidente Alves
+Bocaina,3.85,Jaú
+Castilho,18.48,Lavínia
+Catanduva,3.85,Palmares Paulista
+Gabriel Monteiro,7.7,Parapuã
+Indiana,3.85,Presidente Prudente
+Jaborandi,3.85,Viradouro
+Pedreira,16.94,Socorro
+Presidente Prudente,3.85,Regente Feijó
+José Bonifácio,20.8,Santópolis do Aguapeí
+Guareí,9.25,Itapetininga
+Piquerobi,3.7,Santo Anastácio
+Lucélia,5.4,Sagres
+Pedregulho,4.63,Rifaina
+Osasco,139.0,Brasília
+Campinas,21.65,Santo Antônio do Jardim
+Aramina,2.32,Igarapava
+Olímpia,55.7,Presidente Prudente
+Alvinlândia,9.3,Garça
+Avaré,15.5,Fartura
+Brodowski,4.65,Ribeirão Preto
+Campinas,9.3,Morungaba
+Espírito Santo do Pinhal,6.2,São João da Boa Vista
+Mococa,12.4,Santa Cruz da Esperança
+Juquiá,10.09,Pedro de Toledo
+Garça,7.0,Lupércio
+Ribeirão Preto,14.0,Santa Rita do Passa Quatro
+Guapiaçu,5.45,Olímpia
+Matão,5.45,Taquaritinga
+Osvaldo Cruz,11.7,Presidente Prudente
+Parapuã,11.7,Presidente Prudente
+Pradópolis,7.8,Sertãozinho
+Guararapes,42.92,Ilha Solteira
+Praia Grande,28.1,Santo André
+Bebedouro,6.25,Paraíso
+Dolcinópolis,6.25,Mesópolis
+Jales,6.25,Paranapuã
+Jales,6.25,Santa Albertina
+Capão Bonito,18.77,Sorocaba
+Águas de Lindóia,4.7,Socorro
+Cafelândia,9.4,Getulina
+Caiuá,4.7,Presidente Epitácio
+Glicério,4.7,Penápolis
+Itatiba,4.7,Louveira
+Joanópolis,4.7,Vargem
+Lins,9.4,Pongaí
+Bastos,26.65,Tupi Paulista
+Euclides da Cunha Paulista,18.84,Mirante do Paranapanema
+Ariranha,18.85,Ribeirão Preto
+Martinópolis,46.38,São José do Rio Preto
+Castilho,17.31,Mirandópolis
+Birigui,3.15,Coroados
+Caconde,3.15,Tapiratiba
+Gastão Vidigal,3.15,Nova Luzitânia
+Marinópolis,3.15,Palmeira d'Oeste
+Marinópolis,3.15,São Francisco
+Nova Granada,3.15,Onda Verde
+Palmeira d'Oeste,3.15,São Francisco
+Águas de Lindóia,18.12,Jaguariúna
+Assis,10.25,Marília
+Irapuru,10.25,Lucélia
+Itirapina,22.87,Jaú
+Saltinho,15.78,Tatuí
+Andradina,11.85,Valparaíso
+Itaberá,61.64,São Paulo
+Caconde,17.4,Casa Branca
+Adamantina,4.75,Osvaldo Cruz
+Adamantina,4.75,Pacaembu
+Adolfo,4.75,Sales
+Araraquara,4.75,Boa Esperança do Sul
+Buri,25.65,Itapetininga
+Guará,19.0,Ribeirão Preto
+Guarantã,4.75,Júlio Mesquita
+Lucianópolis,9.5,Piratininga
+Lupércio,4.75,Marília
+Marília,4.75,Pompéia
+Martinópolis,4.75,Presidente Prudente
+Morro Agudo,9.5,Ribeirão Preto
+Ourinhos,4.75,Ribeirão do Sul
+Barretos,50.74,Parapuã
+São José dos Campos,11.1,Tremembé
+Igarapava,20.63,Orlândia
+Arapeí,6.35,São José do Barreiro
+Araras,6.35,Conchal
+Catiguá,12.7,Pirangi
+Jundiaí,20.66,Santo André
+Dracena,3.18,Junqueirópolis
+Penápolis,28.63,Presidente Prudente
+Queluz,8.75,São José do Barreiro
+Aramina,27.86,Ribeirão Preto
+Getulina,12.75,Guarantã
+Aparecida,14.35,Cruzeiro
+Presidente Prudente,81.33,São Joaquim da Barra
+Martinópolis,11.17,Parapuã
+São Bento do Sapucaí,19.15,São José dos Campos
+Mineiros do Tietê,7.98,Torrinha
+Nova Granada,4.79,Palestina
+Cosmorama,25.55,Santa Salete
+Adamantina,4.0,Mariápolis
+Araçatuba,44.0,Itapura
+Arapeí,4.0,Bananal
+Areiópolis,4.0,Lençóis Paulista
+Ariranha,3.2,Pindorama
+Cajuru,3.2,Santa Cruz da Esperança
+Capão Bonito,3.2,Ribeirão Grande
+Cerquilho,6.4,Laranjal Paulista
+Conchas,6.4,Laranjal Paulista
+Franca,8.0,Jeriquara
+Herculândia,3.2,Quintana
+Holambra,4.0,Mogi Mirim
+Holambra,3.2,Santo Antônio de Posse
+Itaporanga,4.0,Riversul
+Jaboticabal,4.0,Taquaritinga
+Jaú,4.8,Pederneiras
+Jumirim,6.4,Pereiras
+Leme,3.2,Santa Cruz da Conceição
+Lucélia,17.6,Tupi Paulista
+Macaubal,3.2,União Paulista
+Marília,6.4,Oscar Bressane
+Mogi Mirim,4.8,Santo Antônio de Posse
+Parapuã,6.4,Piacatu
+Paulicéia,3.2,Santa Mercedes
+Porangaba,11.2,Tatuí
+Oriente,25.65,Presidente Prudente
+Oriente,13.65,Parapuã
+Lins,12.85,Marília
+Jaboticabal,8.85,Pradópolis
+Mogi Mirim,41.85,São Bernardo do Campo
+Barra Bonita,8.05,São Manuel
+Porto Feliz,7.25,Tietê
+Coroados,10.5,Rinópolis
+Cristais Paulista,20.2,Ribeirão Preto
+Buritizal,18.59,Franca
+Boituva,19.4,Indaiatuba
+Porto Ferreira,14.55,Vargem Grande do Sul
+Espírito Santo do Pinhal,6.47,Mogi Guaçu
+São Bernardo do Campo,59.05,São Pedro
+Ilha Solteira,34.8,Lavínia
+Adamantina,4.05,Inúbia Paulista
+Aparecida,8.1,Pindamonhangaba
+Araçariguama,4.05,Pirapora do Bom Jesus
+Estrela d'Oeste,6.48,Urânia
+Guaiçara,4.05,Promissão
+Mogi Guaçu,9.72,Santo Antônio do Jardim
+Barretos,4.7,Colina
+Urânia,15.4,Valentim Gentil
+Águas de Lindóia,14.6,Pedreira
+Borborema,14.6,Guarantã
+Flórida Paulista,7.3,Junqueirópolis
+Araraquara,10.55,Ribeirão Bonito
+Guararapes,10.55,Mirandópolis
+Igaraçu do Tietê,6.5,Jaú
+Inúbia Paulista,3.25,Osvaldo Cruz
+Aramina,13.83,São Joaquim da Barra
+Itaberá,83.0,São José dos Campos
+Aparecida,5.7,Lorena
+Catiguá,19.55,Monte Alto
+São Bernardo do Campo,48.09,Taubaté
+Andradina,13.05,Dracena
+Ipaussu,40.8,Itapetininga
+Andradina,22.85,Junqueirópolis
+Barra Bonita,6.53,Dois Córregos
+Atibaia,12.25,Joanópolis
+Cubatão,29.4,Mogi das Cruzes
+Itaju,12.25,Jaú
+Junqueirópolis,12.25,Lucélia
+Paranapuã,11.45,Santa Fé do Sul
+São Bernardo do Campo,35.99,São José dos Campos
+Franca,78.53,Parapuã
+Caçapava,54.82,Praia Grande
+Espírito Santo do Turvo,6.55,Santa Cruz do Rio Pardo
+Angatuba,14.25,Buri
+Lins,14.75,Queiroz
+Guarani d'Oeste,3.28,Ouroeste
+Indaiatuba,4.1,Salto
+Jundiaí,26.24,São Bernardo do Campo
+Lucélia,8.2,Pacaembu
+Artur Nogueira,7.38,Conchal
+Borborema,20.5,Lins
+Clementina,19.7,José Bonifácio
+Fernandópolis,5.75,Guarani d'Oeste
+Morungaba,11.5,Serra Negra
+Rosana,23.0,Teodoro Sampaio
+Águas da Prata,37.0,Ribeirão Preto
+Dracena,14.8,Presidente Prudente
+Dracena,19.75,Parapuã
+Araçatuba,27.21,José Bonifácio
+Altinópolis,9.9,Serrana
+Barretos,67.66,Presidente Prudente
+Birigui,23.94,José Bonifácio
+Irapuru,16.52,Parapuã
+Limeira,19.85,Porto Ferreira
+Santa Albertina,9.1,Santa Fé do Sul
+Coronel Macedo,29.8,Itapetininga
+Eldorado,28.99,Pedro de Toledo
+Capivari,9.94,Indaiatuba
+Águas de Lindóia,16.57,Morungaba
+Águas da Prata,5.8,Vargem Grande do Sul
+Cafelândia,5.8,Pirajuí
+Iepê,9.95,Taciba
+Ilha Solteira,9.95,Santa Fé do Sul
+Bastos,4.15,Parapuã
+Paraguaçu Paulista,4.15,Quatá
+Marília,29.9,Presidente Prudente
+Apiaí,22.8,Capão Bonito
+Jaú,13.32,Torrinha
+Barrinha,30.0,Catiguá
+Canitar,5.0,Ipaussu
+Cardoso,12.5,Ouroeste
+Casa Branca,5.0,Santa Cruz das Palmeiras
+Charqueada,5.0,Piracicaba
+Clementina,5.0,Rinópolis
+Coronel Macedo,5.0,Itaberá
+Guariba,5.0,Pradópolis
+Guarujá,40.0,Mogi das Cruzes
+Itaberá,5.0,Itapeva
+Manduri,5.0,Óleo
+Manduri,5.0,Piraju
+Mirandópolis,5.0,Valparaíso
+Monte Aprazível,7.5,Nhandeara
+Parapuã,5.0,Tupã
+Pratânia,5.0,São Manuel
+Caçapava,39.17,Santo André
+Franca,13.34,Rifaina
+São Bernardo do Campo,170.11,Brasília
+Pompéia,24.2,Presidente Prudente
+São Paulo,300.42,Paso de los Libres
+Jacupiranga,22.54,Pedro de Toledo
+Pariquera-Açu,22.54,Pedro de Toledo
+Bragança Paulista,24.24,Santo André
+Areiópolis,3.35,São Manuel
+Bálsamo,3.35,Mirassol
+Bálsamo,3.35,Tanabi
+Boa Esperança do Sul,13.4,Jaú
+Cajati,3.35,Jacupiranga
+Elisiário,3.35,Ibirá
+Guará,13.4,Sales Oliveira
+Ibirá,3.35,Potirendaba
+Ibirá,3.35,Uchoa
+Ibirá,3.35,Urupês
+Irapuru,3.35,Junqueirópolis
+Jaú,13.4,São Manuel
+Monte Aprazível,3.35,Neves Paulista
+Nova Guataporanga,3.35,São João do Pau d'Alho
+Pompéia,3.35,Quintana
+Birigui,33.52,Pacaembu
+Ourinhos,42.75,Promissão
+Casa Branca,15.1,Santa Rita do Passa Quatro
+Divinolândia,7.55,Vargem Grande do Sul
+Ilha Comprida,15.1,Registro
+Amparo,13.43,Socorro
+Matão,20.15,Monte Azul Paulista
+Lagoinha,16.8,Taubaté
+Presidente Prudente,16.8,Tupã
+Capivari,10.09,Itu
+Flórida Paulista,10.1,Parapuã
+Guaraci,15.15,Monte Azul Paulista
+Icém,10.1,São José do Rio Preto
+José Bonifácio,15.15,Tanabi
+Ituverava,23.58,Ribeirão Preto
+Barretos,55.59,Osvaldo Cruz
+Angatuba,30.33,Taguaí
+Cruzeiro,5.9,Queluz
+Guarantã,5.9,Presidente Alves
+Jacupiranga,50.6,Sorocaba
+Nova Odessa,103.0,Santa Fé do Sul
+Atibaia,15.2,Jundiaí
+Aparecida,71.0,Porto Ferreira
+Campinas,30.45,Socorro
+Itariri,20.3,Juquitiba
+Mongaguá,20.3,Pedro de Toledo
+Marília,22.85,Promissão
+Iacri,24.55,Penápolis
+Ribeirão Preto,12.7,Taquaritinga
+Angatuba,36.42,Ipaussu
+Dracena,14.4,Lucélia
+Pedro de Toledo,33.06,São Paulo
+Bauru,23.74,Torrinha
+Caconde,20.35,São João da Boa Vista
+Catanduva,22.05,Ribeirão Preto
+Bofete,10.2,Cesário Lange
+Bom Jesus dos Perdões,2.55,Nazaré Paulista
+Divinolândia,13.6,São João da Boa Vista
+Dobrada,3.4,Matão
+Dumont,3.4,Ribeirão Preto
+Itapetininga,40.8,Chavantes
+Itu,3.4,Salto
+Jales,6.8,Santana da Ponte Pensa
+Piracicaba,3.4,Rio das Pedras
+Piraju,5.1,Tejupá
+Registro,22.95,Tapiraí
+São João da Boa Vista,5.1,Vargem Grande do Sul
+Agudos,4.25,Bauru
+Atibaia,4.25,Nazaré Paulista
+Bananal,11.05,São José do Barreiro
+Conchas,11.9,Tietê
+Maracaí,17.85,Palmital
+Pirapozinho,4.25,Presidente Prudente
+Aparecida,57.83,São Bernardo do Campo
+Ourinhos,65.6,Santa Bárbara d'Oeste
+Cananéia,15.35,Registro
+São Bento do Sapucaí,15.35,Tremembé
+Amparo,11.09,Bragança Paulista
+Cajati,51.2,São Paulo
+Barão de Antonina,68.3,São Paulo
+Orlândia,11.1,São José da Bela Vista
+Araçatuba,40.99,Olímpia
+Álvares Florence,10.25,Pontes Gestal
+Guariba,10.25,Ribeirão Preto
+João Ramalho,10.25,Presidente Prudente
+Coroados,7.7,Santópolis do Aguapeí
+Lindóia,15.4,Morungaba
+São João da Boa Vista,15.4,São José do Rio Pardo
+Igarapava,32.53,Ribeirão Preto
+Nantes,6.85,Taciba
+Botucatu,6.0,Itatinga
+Eldorado,12.0,Registro
+Penápolis,18.0,Rinópolis
+Birigui,39.44,Presidente Prudente
+Adamantina,15.45,Tupi Paulista
+Barra do Turvo,15.45,Pariquera-Açu
+Bastos,15.45,Flórida Paulista
+Santa Fé do Sul,103.0,Sumaré
+Brotas,5.15,Torrinha
+Cafelândia,10.3,Marília
+Nipoã,10.3,Tanabi
+Pirassununga,103.03,Brasília
+Apiaí,14.6,Guapiara
+José Bonifácio,33.5,Marília
+Magda,18.9,Neves Paulista
+Bariri,8.6,Jaú
+Batatais,4.3,Brodowski
+Caconde,8.6,São José do Rio Pardo
+Tatuí,8.6,Tietê
+São Miguel Arcanjo,20.65,Sorocaba
+São Paulo,38.75,Tapiraí
+Bastos,22.4,Junqueirópolis
+Mogi das Cruzes,22.4,Nazaré Paulista
+Osvaldo Cruz,22.4,Tupi Paulista
+Getulina,18.1,Tupã
+Iacri,18.1,Pacaembu
+Irapuru,18.1,Panorama
+Coronel Macedo,43.1,Sorocaba
+Ribeirão Preto,30.18,Rifaina
+Lucianópolis,10.35,Pirajuí
+Assis,3.45,Cândido Mota
+Franca,13.8,Guará
+Ibirá,6.9,São José do Rio Preto
+Jaborandi,6.9,Morro Agudo
+Luiziânia,6.9,Penápolis
+Itaporanga,88.0,São José dos Campos
+Dois Córregos,8.63,Jaú
+Brasília,259.0,Assuncion
+Santo André,20.74,São Vicente
+Rancharia,12.1,Tupã
+Ribeirão Preto,20.75,Santa Cruz das Palmeiras
+Júlio Mesquita,14.7,Uru
+Presidente Epitácio,20.78,Tupi Paulista
+Bastos,20.8,Irapuru
+Biritiba-Mirim,5.2,Salesópolis
+Botucatu,5.2,São Manuel
+Caçapava,5.2,Jambeiro
+Cachoeira Paulista,5.2,Silveiras
+Cajati,15.6,Juquiá
+Itatiba,5.2,Jundiaí
+Lagoinha,5.2,São Luís do Paraitinga
+Meridiano,13.0,Urânia
+Pirapozinho,41.6,Rosana
+Bragança Paulista,39.05,Santos
+Assis,49.5,São José do Rio Preto
+Itariri,27.8,Praia Grande
+Oscar Bressane,18.25,Rancharia
+Santa Salete,20.0,Votuporanga
+Itapeva,63.5,São Bernardo do Campo
+Campinas,4.35,Cosmópolis
+Praia Grande,54.82,São José dos Campos
+Arapeí,12.2,Areias
+Altair,5.23,Guaraci
+Salto de Pirapora,13.95,São Miguel Arcanjo
+Capivari,5.24,Elias Fausto
+Mirassol,34.95,Santa Salete
+Bauru,36.7,Guaimbê
+Buri,43.7,Sorocaba
+Santa Fé do Sul,23.6,Valentim Gentil
+Adamantina,12.25,Iacri
+Amparo,5.25,Tuiuti
+Atibaia,3.5,Bom Jesus dos Perdões
+Avanhandava,3.5,Penápolis
+Avanhandava,3.5,Promissão
+Braúna,3.5,Santópolis do Aguapeí
+Caconde,14.0,Itobi
+Casa Branca,10.5,São João da Boa Vista
+Conchas,8.75,Jumirim
+Eldorado,5.25,Jacupiranga
+Fartura,3.5,Sarutaiá
+Flora Rica,3.5,Irapuru
+Herculândia,3.5,Tupã
+Igaratá,5.25,Santa Isabel
+Irapuã,3.5,Sales
+Irapuru,3.5,Pacaembu
+Itapura,14.0,Pereira Barreto
+Lençóis Paulista,3.5,Macatuba
+Lindóia,3.5,Serra Negra
+Monções,3.5,Turiúba
+Nuporanga,5.25,São José da Bela Vista
+Palmares Paulista,7.0,Vista Alegre do Alto
+Pitangueiras,3.5,Viradouro
+Sales Oliveira,8.75,São José da Bela Vista
+Salesópolis,5.25,Santa Branca
+Salto de Pirapora,5.25,Votorantim
+Santa Maria da Serra,5.25,Torrinha
+Barretos,15.77,Guaraci
+Franca,15.77,Ituverava
+Fartura,22.78,Paranapanema
+Olímpia,24.54,Paulo de Faria
+Bastos,24.55,Dracena
+Laranjal Paulista,24.55,Sorocaba
+Barbosa,10.53,Glicério
+Mira Estrela,6.15,Ouroeste
+Franca,100.18,Martinópolis
+Pedro de Toledo,16.7,Registro
+Araçatuba,10.55,Auriflama
+Mogi das Cruzes,10.55,São José dos Campos
+Arujá,13.2,São José dos Campos
+Junqueirópolis,17.6,Parapuã
+Rincão,4.4,Santa Lúcia
+Santa Bárbara d'Oeste,103.0,Santa Fé do Sul
+Pedregulho,25.55,Ribeirão Preto
+Águas de Lindóia,22.91,Itatiba
+Cajuru,7.05,Santa Rosa de Viterbo
+Cananéia,14.1,Jacupiranga
+Coroados,22.06,José Bonifácio
+Estrela do Norte,10.6,Presidente Prudente
+Meridiano,21.2,Santa Fé do Sul
+Santo André,45.95,Taubaté
+Peruíbe,26.52,Santos
+Santos,19.45,São Caetano do Sul
+Cajuru,14.15,Ribeirão Preto
+Fernandópolis,14.15,Santana da Ponte Pensa
+Eldorado,33.64,Itariri
+Bertioga,24.8,Guarulhos
+Itobi,15.95,São João da Boa Vista
+Jacupiranga,31.9,Tapiraí
+Areias,16.85,Bananal
+Bariri,3.55,Boracéia
+Cafelândia,3.55,Lins
+Dracena,3.55,Tupi Paulista
+Duartina,7.1,Ubirajara
+Fernandópolis,14.2,Pontalinda
+Garça,3.55,Vera Cruz
+Cajati,21.3,Miracatu
+Estrela d'Oeste,10.65,Pontalinda
+Dracena,26.65,Tupã
+Americana,8.0,Cosmópolis
+Araçatuba,16.0,Pontalinda
+Queiroz,8.0,Tupã
+Ribeirão Preto,16.0,São Joaquim da Barra
+Guaratinguetá,13.35,Silveiras
+Pacaembu,13.35,Parapuã
+Paranapuã,4.45,Turmalina
+Dracena,18.7,Osvaldo Cruz
+Águas de São Pedro,14.25,Rio Claro
+Pedro de Toledo,28.5,Taboão da Serra
+Penápolis,142.5,Brasília
+Andradina,10.7,Tupi Paulista
+Álvares Machado,12.5,Irapuru
+Dracena,6.25,Pacaembu
+Paranapuã,6.25,Populina
+Caconde,13.4,Vargem Grande do Sul
+Itaberá,34.0,Itapetininga
+São José do Rio Pardo,8.95,Vargem Grande do Sul
+Eldorado,19.7,Juquiá
+Lorena,9.85,Silveiras
+Arapeí,31.35,Guaratinguetá
+Castilho,10.75,Ilha Solteira
+Cunha,14.35,Ubatuba
+Assis,10.77,Quatá
+Iacri,39.5,José Bonifácio
+Iracemápolis,7.19,Piracicaba
+Itapetininga,32.37,Taquaritinga
+Sorocaba,16.19,Tapiraí
+Campinas,27.0,Laranjal Paulista
+Coronel Macedo,4.5,Itaporanga
+Floreal,14.4,Guzolândia
+Florínia,4.5,Tarumã
+Irapuru,9.9,Tupi Paulista
+Nova Odessa,3.6,Sumaré
+Pedrinhas Paulista,4.5,Tarumã
+Pilar do Sul,7.2,São Miguel Arcanjo
+Ribeirão dos Índios,4.5,Santo Anastácio
+Adolfo,2.7,Mendonça
+Itatiba,5.4,Valinhos
+João Ramalho,2.7,Quatá
+Olímpia,21.6,Orindiúva
+Pirajuí,2.7,Presidente Alves
+Castilho,26.11,Valparaíso
+Bananal,36.05,Guaratinguetá
+Osvaldo Cruz,28.84,Panorama
+Osvaldo Cruz,28.84,Paulicéia
+Ourinhos,31.58,Paranapanema
+Ibitinga,36.1,Promissão
+Monte Mor,14.45,Tietê
+Itapira,51.5,São Bernardo do Campo
+Jacareí,25.3,Paraibuna
+Lençóis Paulista,54.22,Sorocaba
+Casa Branca,10.85,Porto Ferreira
+Guaratinguetá,10.85,Pindamonhangaba
+Brotas,14.47,Mineiros do Tietê
+Araçatuba,19.9,Barbosa
+Jaú,5.43,Mineiros do Tietê
+Irapuru,18.1,Paulicéia
+Bálsamo,32.6,Santa Salete
+Mira Estrela,32.6,Santa Rita d'Oeste
+Pirangi,16.3,Ribeirão Preto
+Bananal,22.65,Silveiras
+Águas da Prata,21.75,Pirassununga
+Itariri,27.19,Jacupiranga
+Itariri,27.19,Pariquera-Açu
+Glicério,19.95,José Bonifácio
+Itariri,38.1,São Paulo
+Araçatuba,5.45,Santo Antônio do Aracanguá
+Auriflama,5.45,Pontalinda
+Auriflama,5.45,Santo Antônio do Aracanguá
+Barra Bonita,5.45,Jaú
+Bernardino de Campos,5.45,Manduri
+Bernardino de Campos,5.45,Santa Cruz do Rio Pardo
+Boituva,5.45,Porto Feliz
+Boituva,5.45,Tatuí
+Caconde,5.45,Divinolândia
+Dobrada,5.45,Taquaritinga
+Ibiúna,5.45,Vargem Grande Paulista
+Itapuí,5.45,Jaú
+José Bonifácio,5.45,Monte Aprazível
+José Bonifácio,5.45,Nipoã
+Monte Aprazível,5.45,Tanabi
+São José do Rio Pardo,5.45,São Sebastião da Grama
+Junqueirópolis,15.45,Osvaldo Cruz
+Aramina,10.0,Guará
+Avaré,10.0,São Manuel
+Indaiatuba,70.0,Itararé
+Lucélia,10.0,Tupã
+Irapuru,24.55,Tupã
+Eldorado,23.65,Miracatu
+Barbosa,16.38,Birigui
+Presidente Bernardes,4.55,Presidente Prudente
+Barbosa,30.95,Iacri
+Ilha Comprida,16.4,Miracatu
+Sales Oliveira,8.2,São Joaquim da Barra
+José Bonifácio,43.75,Tupã
+Martinópolis,11.85,Quatá
+Indaiatuba,27.35,Tatuí
+Avaré,27.36,Itapetininga
+Jaboticabal,12.77,Pirangi
+Bastos,7.3,Rancharia
+Batatais,14.6,Santo Antônio da Alegria
+Cerqueira César,14.6,Sarutaiá
+Iacri,48.4,São José do Rio Preto
+Campinas,71.25,Itararé
+Icém,14.62,Olímpia
+Sorocaba,16.45,Vargem Grande Paulista
+Campinas,10.97,Pedreira
+Clementina,6.4,Coroados
+Flórida Paulista,6.4,Lucélia
+Nuporanga,6.4,Orlândia
+Pindorama,14.65,São José do Rio Preto
+Magda,25.65,São José do Rio Preto
+Águas de Santa Bárbara,5.5,Cerqueira César
+Avaré,5.5,Cerqueira César
+Mirante do Paranapanema,33.0,Rosana
+Santa Cruz do Rio Pardo,5.5,São Pedro do Turvo
+Sarutaiá,5.5,Timburi
+Caçapava,33.94,Ribeirão Pires
+Guzolândia,18.35,Nhandeara
+Dracena,10.1,Flórida Paulista
+Arapeí,39.5,São José dos Campos
+Santa Salete,39.5,São José do Rio Preto
+Bananal,19.3,Queluz
+Flórida Paulista,19.3,Tupã
+Arujá,16.55,Nazaré Paulista
+Junqueirópolis,33.1,Pompéia
+Presidente Epitácio,16.55,Santa Mercedes
+Franca,80.0,Lins
+Boituva,4.6,Cerquilho
+Guaimbê,13.8,Promissão
+Itaí,4.6,Taquarituba
+Presidente Bernardes,4.6,Santo Anastácio
+Olímpia,53.38,Osvaldo Cruz
+Areias,15.65,Lorena
+Brotas,11.05,Santa Maria da Serra
+São Luís do Paraitinga,11.05,Taubaté
+Paranapanema,14.75,Taquarituba
+Cerqueira César,11.07,Piraju
+Itararé,66.45,Salto
+Presidente Prudente,48.0,Rosana
+Araçatuba,35.08,Guarantã
+Nhandeara,27.7,Sud Mennucci
+Bastos,15.7,Iepê
+Parapuã,155.21,Brasília
+Amparo,11.09,Itapira
+Aramina,6.47,Ituverava
+Piedade,30.51,São Paulo
+Alfredo Marcondes,3.7,Santo Expedito
+Araçatuba,3.7,Birigui
+Arealva,7.4,Bauru
+Bariri,3.7,Itaju
+Bebedouro,3.7,Taquaral
+Bilac,3.7,Gabriel Monteiro
+Boituva,11.1,Laranjal Paulista
+Cachoeira Paulista,3.7,Canas
+Cajobi,3.7,Severínia
+Campinas,16.65,Engenheiro Coelho
+Dourado,3.7,Ribeirão Bonito
+Irapuã,3.7,Urupês
+Jacareí,11.1,Salesópolis
+Júlio Mesquita,11.1,Lins
+Juquiá,33.3,Mongaguá
+Lupércio,3.7,Ocauçu
+Macaubal,3.7,Sebastianópolis do Sul
+Mirassol,3.7,Neves Paulista
+Olímpia,3.7,Severínia
+Piracicaba,3.7,Saltinho
+Registro,3.7,Sete Barras
+Santa Mercedes,3.7,Tupi Paulista
+Igarapava,18.51,São Joaquim da Barra
+Guarulhos,50.0,São Sebastião
+Bastos,17.6,Pacaembu
+Itapetininga,42.62,Lençóis Paulista
+Itaí,26.89,Ourinhos
+Itapetininga,40.8,Ourinhos
+Campinas,122.46,Brasília
+Euclides da Cunha Paulista,11.14,Teodoro Sampaio
+Jundiaí,18.58,São Caetano do Sul
+Birigui,15.8,Lins
+Capão Bonito,8.74,Guapiara
+Cristais Paulista,3.72,Pedregulho
+Mira Estrela,27.9,Santa Albertina
+Campo Limpo Paulista,4.65,Francisco Morato
+Paranapanema,20.47,Taguaí
+São Miguel Arcanjo,20.47,Votorantim
+Mogi das Cruzes,36.29,São Vicente
+Bauru,33.51,Getulina
+Araçatuba,33.52,Pacaembu
+Santana da Ponte Pensa,22.35,Votuporanga
+Águas de Lindóia,27.94,Campinas
+Águas de Lindóia,50.3,São Bernardo do Campo
+José Bonifácio,10.25,Penápolis
+Juquiá,39.15,São Paulo
+Braúna,18.65,José Bonifácio
+Botucatu,5.6,Pardinho
+Espírito Santo do Pinhal,11.2,Mogi Mirim
+Guapiara,22.4,Ribeira
+Guareí,11.2,Tatuí
+Jales,5.6,Pontalinda
+Magda,22.4,Mirassol
+Panorama,5.6,Tupi Paulista
+Rinópolis,11.2,Tupã
+Santa Albertina,5.6,Santa Rita d'Oeste
+Barrinha,8.4,Taquaritinga
+Andradina,189.49,Brasília
+Amparo,13.07,Itatiba
+Lorena,21.5,São José do Barreiro
+Presidente Prudente,48.62,Salto Grande
+Cerquilho,6.55,Tatuí
+Andradina,40.25,Osvaldo Cruz
+Cachoeira Paulista,16.85,São José do Barreiro
+Aparecida,56.18,Santo André
+Jales,10.3,Meridiano
+Arapeí,24.35,Cachoeira Paulista
+Cerquilho,14.05,Conchas
+Itanhaém,28.1,Juquiá
+Arapeí,29.05,Lorena
+Bananal,29.05,Cachoeira Paulista
+Capão Bonito,51.56,São Bernardo do Campo
+Adamantina,11.25,Tupã
+Alvinlândia,3.75,Ubirajara
+Americana,3.75,Sumaré
+Areias,11.25,Cachoeira Paulista
+Bananal,33.75,Lorena
+Barão de Antonina,45.0,Itapetininga
+Bragança Paulista,11.25,Joanópolis
+Bragança Paulista,7.5,Mairiporã
+Iepê,22.5,Tupã
+Inúbia Paulista,3.75,Sagres
+Ituverava,18.75,Sales Oliveira
+Osvaldo Cruz,3.75,Sagres
+Serra Negra,9.38,Socorro
+Conchas,24.4,Monte Mor
+Registro,42.24,Sorocaba
+Pompéia,39.5,Tupi Paulista
+Campinas,26.35,Lindóia
+Araras,16.94,Piracicaba
+Guarantã,16.95,Tupã
+Pirassununga,16.95,São João da Boa Vista
+Aguaí,5.65,São João da Boa Vista
+Ibiúna,22.6,São Paulo
+Porto Ferreira,5.65,Santa Cruz das Palmeiras
+Ipuã,12.25,Orlândia
+Morro Agudo,12.25,Nuporanga
+Cajuru,13.2,Tambaú
+Santa Bárbara d'Oeste,47.15,São Bernardo do Campo
+Santo André,33.97,Sorocaba
+Duartina,7.55,Pirajuí
+Junqueirópolis,24.55,Tupã
+Aparecida,75.62,Praia Grande
+Santa Salete,30.25,Tanabi
+Birigui,51.05,Ibitinga
+São João da Boa Vista,10.4,São Sebastião da Grama
+Eldorado,41.65,Peruíbe
+Campina do Monte Alegre,34.1,Sorocaba
+Olímpia,34.1,Riolândia
+Americana,90.0,Assis
+Arapeí,18.0,Silveiras
+Analândia,7.58,Pirassununga
+Brotas,18.95,São Pedro
+Gavião Peixoto,7.58,Tabatinga
+Guaraci,7.58,Olímpia
+Batatais,21.8,Morro Agudo
+Conchal,9.48,Cosmópolis
+Araçatuba,55.02,Barretos
+Capivari,7.59,Porto Feliz
+Capivari,7.59,Salto
+Lutécia,11.39,Marília
+Franca,108.25,Presidente Prudente
+Itirapina,32.29,Pederneiras
+Santo Antônio do Jardim,39.89,São Paulo
+Pirassununga,16.15,Tambaú
+Barbosa,5.7,José Bonifácio
+Buritizal,7.6,Ituverava
+Cardoso,7.6,Mira Estrela
+Casa Branca,3.8,Itobi
+Embaúba,2.85,Novais
+Flórida Paulista,22.8,Herculândia
+Guaraçaí,26.6,Ilha Solteira
+Itajobi,2.85,Marapoama
+Itariri,28.5,Taboão da Serra
+Jacupiranga,42.75,Piedade
+Peruíbe,28.5,Taboão da Serra
+Planalto,3.8,Zacarias
+Rancharia,95.0,Ribeirão Preto
+Ribeirão Preto,3.8,Sertãozinho
+Bauru,19.02,Dois Córregos
+Catiguá,34.25,Sertãozinho
+Flórida Paulista,13.32,Tupi Paulista
+Campinas,22.86,Serra Negra
+Águas da Prata,28.58,Campinas
+Itararé,74.35,São Bernardo do Campo
+Lucélia,26.69,Panorama
+Lucélia,26.69,Paulicéia
+Araçatuba,55.3,Ibitinga
+Jaboticabal,82.0,Rancharia
+Fartura,45.77,Itapetininga
+Palmital,42.91,Presidente Prudente
+Adamantina,13.35,Dracena
+Araras,26.7,Tambaú
+Cafelândia,44.83,Valparaíso
+Assis,57.25,Jaboticabal
+Itatiba,22.9,Lindóia
+São Bernardo do Campo,45.8,Socorro
+Ribeirão Preto,34.35,Vargem Grande do Sul
+Álvares Machado,10.5,Flora Rica
+Itaporanga,48.7,Sorocaba
+Lavínia,11.46,Murutinga do Sul
+Pirassununga,17.2,São Simão
+Santa Fé do Sul,34.4,Tanabi
+Miracatu,29.64,Mongaguá
+Campinas,7.65,Nova Odessa
+Itapetininga,29.65,Taquarituba
+Piedade,35.4,Registro
+Sorocaba,57.42,Taguaí
+Rancharia,90.0,Sertãozinho
+Dois Córregos,3.83,Mineiros do Tietê
+Cafelândia,13.41,Uru
+Araraquara,15.33,Bocaina
+Cosmópolis,11.5,Santa Bárbara d'Oeste
+Engenheiro Coelho,5.75,Mogi Mirim
+Campinas,37.4,Tapiratiba
+Braúna,14.4,Parapuã
+Paulicéia,14.4,Presidente Epitácio
+Mogi Mirim,42.25,Santo André
+Santana da Ponte Pensa,42.25,São José do Rio Preto
+Parapuã,73.95,Ribeirão Preto
+Guará,13.45,Igarapava
+Piracicaba,21.15,Tatuí
+Itirapina,22.12,Mineiros do Tietê
+Jacareí,15.39,Mogi das Cruzes
+Campinas,32.72,São José do Rio Pardo
+Anhumas,3.85,Regente Feijó
+Bebedouro,15.4,Ribeirão Preto
+Bebedouro,3.85,Viradouro
+Caçapava,26.95,Suzano
+Caiabu,3.85,Martinópolis
+Dolcinópolis,3.85,Paranapuã
+Dolcinópolis,3.85,Turmalina
+Ibaté,3.85,São Carlos
+Jaborandi,3.85,Terra Roxa
+Jales,3.85,Urânia
+Lucélia,3.85,Osvaldo Cruz
+Santa Salete,3.85,Urânia
+Botucatu,32.73,Itapetininga
+Mogi Guaçu,53.94,São Bernardo do Campo
+Itatiba,19.27,Serra Negra
+Ibitinga,21.2,Jaú
+Cosmópolis,20.25,Piracicaba
+Andradina,37.61,Lucélia
+Lins,138.88,Brasília
+Praia Grande,63.69,Taubaté
+São Caetano do Sul,38.6,Socorro
+Catiguá,41.5,Ribeirão Preto
+Araçatuba,11.6,Turiúba
+Areias,20.3,Guaratinguetá
+Itapetininga,17.4,Torre de Pedra
+Parapuã,2.9,Rinópolis
+Pirangi,2.9,Vista Alegre do Alto
+Pongaí,2.9,Uru
+Americana,26.1,Pirassununga
+Araçatuba,42.54,Presidente Alves
+Fartura,62.85,Sorocaba
+Areiópolis,39.65,Marília
+Águas de Lindóia,50.3,Santo André
+Orlândia,11.61,Ribeirão Preto
+Itirapuã,3.87,Patrocínio Paulista
+Marília,150.95,Brasília
+Birigui,162.57,Brasília
+São José do Rio Preto,55.18,Tupã
+Charqueada,7.75,Rio Claro
+Coroados,34.89,São José do Rio Preto
+Águas de Lindóia,45.6,São Caetano do Sul
+Rosana,45.6,Tarabai
+Cristais Paulista,15.53,Igarapava
+Itaí,8.74,Piraju
+Piracicaba,25.25,Torrinha
+Bernardino de Campos,40.8,Itapetininga
+Casa Branca,27.2,São Simão
+Pedro de Toledo,27.2,São Vicente
+São José do Rio Preto,18.47,Ubarana
+Adamantina,8.75,Irapuru
+Itapetininga,35.0,Itaporanga
+Sertãozinho,8.75,Viradouro
+Itariri,21.4,Registro
+Nova Granada,16.54,Paulo de Faria
+Americana,77.84,Ourinhos
+Fartura,14.6,Manduri
+Osvaldo Cruz,20.44,Penápolis
+Guzolândia,35.05,Mirassol
+Campinas,10.71,Itatiba
+José Bonifácio,55.5,Ourinhos
+Nuporanga,20.45,Viradouro
+Bauru,11.7,Garça
+Catanduva,23.4,Pongaí
+Gabriel Monteiro,5.85,Rinópolis
+Ituverava,5.85,Jeriquara
+Monte Alto,11.7,Palmares Paulista
+Pilar do Sul,11.7,Sorocaba
+Bauru,15.6,Marília
+Cachoeira Paulista,3.9,Cruzeiro
+Ribeirão Preto,9.75,Santa Cruz da Esperança
+Jaú,158.27,Brasília
+Jaboticabal,66.45,Parapuã
+Dois Córregos,18.57,Itirapina
+Cajuru,37.15,Leme
+Lindóia,52.8,São Bernardo do Campo
+Lins,26.4,Tupã
+Barão de Antonina,88.0,São José dos Campos
+Itapetininga,31.29,Salto
+Cafelândia,51.85,Mirandópolis
+Campinas,58.71,Praia Grande
+Porto Feliz,6.85,Rafard
+Limeira,46.98,São Bernardo do Campo
+Catanduva,29.37,Penápolis
+Ilha Comprida,33.3,Peruíbe
+Capela do Alto,19.6,Conchas
+Indiaporã,4.9,Mira Estrela
+Lutécia,4.9,Paraguaçu Paulista
+Batatais,7.45,Ribeirão Preto
+Paulínia,23.55,Piracicaba
+Birigui,38.28,São José do Rio Preto
+Pariquera-Açu,55.0,São Paulo
+Caçapava,33.4,Cruzeiro
+Eldorado,57.0,São Paulo
+Capela do Alto,8.85,Sorocaba
+Colina,17.7,Guaíra
+Bauru,11.8,Iacanga
+Joanópolis,5.9,Piracaia
+São José do Barreiro,37.4,São José dos Campos
+Rafard,6.89,Rio das Pedras
+Arapeí,15.75,Queluz
+Bauru,15.75,Gália
+Capela do Alto,15.75,Pereiras
+Campos do Jordão,9.85,Tremembé
+Dracena,37.45,Pompéia
+Cruzeiro,6.9,Piquete
+São Caetano do Sul,29.58,Sorocaba
+Parapuã,35.5,São José do Rio Preto
+Porto Ferreira,17.75,Ribeirão Preto
+Porto Ferreira,142.0,Brasília
+Glicério,32.55,São José do Rio Preto
+Catiguá,14.8,Vista Alegre do Alto
+Joanópolis,29.6,São Paulo
+Panorama,39.48,Tupã
+Paulicéia,39.48,Tupã
+Alambari,3.95,Itapetininga
+Jundiaí,3.95,Vinhedo
+Ribeirão Preto,41.5,São João da Boa Vista
+Mococa,21.75,Ribeirão Preto
+Americana,74.15,Barretos
+Águas de Santa Bárbara,18.79,Fartura
+Barrinha,22.75,Palmares Paulista
+Itararé,64.3,Itu
+Bauru,67.27,Junqueirópolis
+Águas da Prata,13.85,Mogi Guaçu
+Indaiatuba,35.64,Itapetininga
+Americana,101.0,Irapuru
+Peruíbe,15.85,Praia Grande
+Bauru,42.6,Itirapina
+Cosmorama,32.7,Santa Fé do Sul
+Bauru,71.35,Irapuru
+Junqueirópolis,41.63,Marília
+São Miguel Arcanjo,45.61,São Paulo
+Capela do Alto,5.95,Tatuí
+Leme,11.9,Porto Ferreira
+São Roque,11.9,Sorocaba
+Araras,17.85,Porto Ferreira
+Ibitinga,44.65,Penápolis
+Santos,178.62,Brasília
+Areias,32.75,São José dos Campos
+Santa Fé do Sul,40.7,São José do Rio Preto
+Assis,71.52,Rosana
+Bertioga,29.8,São Sebastião
+Ourinhos,166.97,Brasília
+Capivari,9.94,Santa Bárbara d'Oeste
+Pereiras,24.85,Sorocaba
+Catanduva,51.7,Osvaldo Cruz
+Dracena,43.75,Marília
+Fernandópolis,16.92,Três Fronteiras
+Santo André,45.8,Socorro
+Garça,51.8,Pacaembu
+Apiaí,39.45,Itapetininga
+Indiaporã,27.9,Santa Rita d'Oeste
+Lutécia,14.95,Rancharia
+Águas de Lindóia,33.9,Mairiporã
+Capivari,17.95,Conchas
+Conchas,17.95,Rafard
+Barbosa,38.9,Tupã
+Cardoso,39.9,Santa Rita d'Oeste
+Itapetininga,35.91,Piraju
+Jaú,67.83,Presidente Prudente
+Paraibuna,19.95,Taubaté
+Piquete,233.74,Brasília
+Bauru,17.97,Mineiros do Tietê
+Avaré,22.97,Bernardino de Campos
+Adamantina,31.97,Birigui
+Águas de Santa Bárbara,14.99,Avaré
+Adamantina,10.0,Junqueirópolis
+Alvinlândia,4.0,Lupércio
+Bálsamo,5.0,Cosmorama
+Bastos,8.0,Osvaldo Cruz
+Cabrália Paulista,4.0,Duartina
+Cafelândia,32.0,Catanduva
+Campinas,12.0,Capivari
+Casa Branca,6.0,Vargem Grande do Sul
+Cotia,18.0,Sorocaba
+Fernão,4.0,Gália
+Guariba,4.0,Jaboticabal
+Iepê,4.0,Nantes
+Itapeva,4.0,Taquarivaí
+Itaporanga,7.0,Taquarituba
+Jaci,3.0,Neves Paulista
+Jaci,7.0,São José do Rio Preto
+Marília,30.0,São José do Rio Preto
+Mombuca,8.0,Piracicaba
+Paulo de Faria,25.0,São José do Rio Preto
+Piracicaba,8.0,Santa Bárbara d'Oeste
+Bauru,80.06,Panorama
+Cristais Paulista,10.01,Rifaina
+Marília,48.05,Tupi Paulista
+Araras,8.01,Santa Gertrudes
+Araçatuba,12.02,Valparaíso
+Borborema,51.11,Parapuã
+Cananéia,46.1,Peruíbe
+Juquiá,38.1,Praia Grande
+Barbosa,14.04,Coroados
+Assis,48.15,Presidente Epitácio
+Jacareí,16.05,Nazaré Paulista
+Botucatu,45.15,Sorocaba
+Araçatuba,21.08,Osvaldo Cruz
+Jales,13.05,Valentim Gentil
+Campinas,45.18,Itapetininga
+Itanhaém,24.1,Miracatu
+Piracicaba,12.05,Tietê
+Alambari,47.2,Itararé
+Araçatuba,92.45,Piracicaba
+Boa Esperança do Sul,22.11,Pederneiras
+Mococa,10.05,São José do Rio Pardo
+Bauru,48.25,Rancharia
+Sorocaba,65.38,Chavantes
+Penápolis,17.1,São José do Rio Preto
+Lençóis Paulista,38.23,Tatuí
+Águas de São Pedro,23.15,Brotas
+Angatuba,36.24,Chavantes
+Mirassol,15.1,Nhandeara
+Campinas,22.15,Tietê
+Flórida Paulista,29.2,Pompéia
+Guzolândia,29.2,Monte Aprazível
+Barretos,36.25,Orindiúva
+Assis,191.33,Puerto Suárez
+Bernardino de Campos,7.05,Piraju
+Ibirarema,36.26,Iepê
+Americana,32.24,Brotas
+Manduri,11.09,Sarutaiá
+Mauá,36.3,São José dos Campos
+Ribeirão Preto,69.6,Tupã
+Lindóia,50.45,Santo André
+Aparecida,40.4,Suzano
+Dracena,10.1,Panorama
+Itu,20.2,Tatuí
+Pacaembu,10.1,Tupi Paulista
+Santa Fé do Sul,5.05,Santa Rita d'Oeste
+Americana,15.15,Araras
+Euclides da Cunha Paulista,31.32,Pirapozinho
+Caçapava,14.15,Paraibuna
+Igarapava,10.11,Ituverava
+Pirajuí,54.6,Valparaíso
+Mogi Mirim,40.45,São Caetano do Sul
+Araraquara,22.25,Jaú
+Americana,96.08,Birigui
+Pedro de Toledo,25.3,Praia Grande
+Adamantina,36.44,Andradina
+Borborema,4.05,Novo Horizonte
+Buritama,4.05,Turiúba
+Cesário Lange,4.05,Pereiras
+Ibitinga,4.05,Itápolis
+Lavrinhas,4.05,Queluz
+Nuporanga,4.05,Sales Oliveira
+Itapira,48.6,São Caetano do Sul
+Piracaia,24.3,São Paulo
+Ilha Solteira,23.29,Murutinga do Sul
+Lindóia,45.6,São Caetano do Sul
+Birigui,88.18,Piracicaba
+Águas da Prata,73.01,São Bernardo do Campo
+Franca,24.36,Igarapava
+Gavião Peixoto,19.29,São Carlos
+Campinas,32.5,São Bernardo do Campo
+Cesário Lange,34.55,São Manuel
+Itobi,11.18,Tapiratiba
+Campos do Jordão,12.2,Pindamonhangaba
+Cunha,12.2,Guaratinguetá
+São José do Barreiro,12.2,Silveiras
+Indaiatuba,9.15,Itu
+Leme,18.3,Santa Cruz das Palmeiras
+Aparecida,48.81,Ribeirão Pires
+Santo André,56.95,São Pedro
+Araçatuba,30.52,Lucélia
+Cafelândia,78.34,Ilha Solteira
+Juquiá,40.7,São Vicente
+Santa Cruz das Palmeiras,20.35,São Simão
+Ribeira,91.6,São Paulo
+Guzolândia,14.25,Magda
+Águas de Lindóia,32.58,Jundiaí
+Floreal,22.4,Sud Mennucci
+Agudos,67.2,Sorocaba
+Jacupiranga,55.0,São Paulo
+Santana da Ponte Pensa,32.6,Tanabi
+São Paulo,391.42,Buenos Aires
+Flórida Paulista,31.6,Oriente
+Itapeva,51.0,Itu
+Monte Azul Paulista,10.2,Olímpia
+Porto Ferreira,10.2,Tambaú
+Cerqueira César,21.42,Fartura
+Águas de São Pedro,17.35,Torrinha
+Pirajuí,44.91,São José do Rio Preto
+Panorama,12.25,Presidente Epitácio
+Salto,24.5,Tatuí
+Guarujá,27.57,Mauá
+Araraquara,147.08,Brasília
+Cerquilho,14.3,Piracicaba
+Ipaussu,24.53,Paranapanema
+Cruzeiro,9.2,Lorena
+Adamantina,24.54,Panorama
+Adamantina,24.54,Paulicéia
+Amparo,12.27,Mogi Mirim
+Barretos,40.9,Paulo de Faria
+Guaiçara,12.27,Ubarana
+Jaguariúna,12.27,Mogi Mirim
+Nova Granada,24.54,Riolândia
+Pilar do Sul,12.27,Votorantim
+Mirandópolis,61.37,Pirajuí
+Araras,24.55,Santa Cruz das Palmeiras
+Araras,24.55,Santa Rita do Passa Quatro
+Bananal,49.1,São José dos Campos
+São Joaquim da Barra,125.84,Brasília
+São José dos Campos,294.69,Puerto Suárez
+Águas da Prata,49.12,São Paulo
+Espírito Santo do Pinhal,36.84,São Paulo
+Franca,92.14,Santópolis do Aguapeí
+Pedro de Toledo,29.69,Santos
+Altinópolis,8.2,Santo Antônio da Alegria
+Cafelândia,20.5,Novo Horizonte
+Canitar,4.1,Chavantes
+Duartina,4.1,Lucianópolis
+Ipaussu,4.1,Chavantes
+Itápolis,10.25,Pindorama
+Itu,10.25,Sorocaba
+Jacupiranga,14.35,Juquiá
+Juquiá,14.35,Pariquera-Açu
+Palmares Paulista,4.1,Pirangi
+Bofete,6.15,Porangaba
+Cesário Lange,6.15,Tatuí
+Bauru,80.06,Paulicéia
+Campinas,44.15,Divinolândia
+Guzolândia,40.05,São José do Rio Preto
+Bragança Paulista,23.62,São Caetano do Sul
+Descalvado,11.3,Pirassununga
+São Manuel,54.45,Sorocaba
+Capão Bonito,37.0,Itaporanga
+Cardoso,34.95,Santa Albertina
+Angatuba,31.87,Sorocaba
+Ilha Comprida,39.1,Tapiraí
+Americana,12.35,Piracicaba
+Guaiçara,31.93,São José do Rio Preto
+Jaboticabal,10.3,Matão
+Magda,5.15,Nhandeara
+Americana,64.9,Bebedouro
+Osvaldo Cruz,13.4,Pacaembu
+Mogi Guaçu,51.55,Santo André
+Iacri,8.25,Osvaldo Cruz
+Paulínia,16.5,Santa Bárbara d'Oeste
+Americana,55.7,Jaboticabal
+Palmares Paulista,27.85,Sertãozinho
+Caconde,50.55,Campinas
+Assis,65.0,Ribeirão Preto
+Três Fronteiras,25.8,Votuporanga
+São José do Barreiro,59.86,São Paulo
+Pindamonhangaba,14.45,São José dos Campos
+Cordeirópolis,52.65,São Bernardo do Campo
+Mogi Guaçu,47.49,São Caetano do Sul
+São Paulo,340.98,San Carlos
+Americana,31.0,Porto Ferreira
+Capela do Alto,12.4,Cesário Lange
+Iguape,12.4,Registro
+Ilha Comprida,55.8,Santos
+Magda,15.5,Monte Aprazível
+Marília,18.6,Ourinhos
+Andradina,74.41,Pirajuí
+Araçatuba,43.45,Pirajuí
+Juquiá,43.45,Santos
+Cosmorama,15.52,Estrela d'Oeste
+Birigui,34.15,Guarantã
+General Salgado,10.35,Guzolândia
+Suzano,31.05,Taubaté
+São Paulo,298.18,Chuy
+Mira Estrela,42.45,Santa Fé do Sul
+Barretos,49.7,Riolândia
+Águas da Prata,68.34,Santo André
+Indaiatuba,14.5,Porto Feliz
+Mirante do Paranapanema,15.54,Presidente Prudente
+Rio Claro,55.95,São Bernardo do Campo
+Indiaporã,23.84,Votuporanga
+Campinas,31.1,Cerquilho
+Cananéia,62.2,São Paulo
+Auriflama,24.9,Monte Aprazível
+Cajuru,16.6,Santa Cruz das Palmeiras
+Campo Limpo Paulista,16.6,São Paulo
+Guará,4.15,Ituverava
+Guaraçaí,4.15,Murutinga do Sul
+Icém,4.15,Nova Granada
+Jaboticabal,4.15,Santa Ernestina
+Piacatu,4.15,Rinópolis
+Ribeirão Preto,16.6,Vista Alegre do Alto
+São Paulo,16.6,Várzea Paulista
+Palestina,18.68,Riolândia
+Jundiaí,26.99,Serra Negra
+Guaraci,39.45,Matão
+Riolândia,34.27,São José do Rio Preto
+Flórida Paulista,20.77,Panorama
+Flórida Paulista,20.77,Paulicéia
+Leme,22.85,Tambaú
+Bauru,28.05,Dourado
+Pirassununga,20.78,Rio Claro
+Dracena,91.05,Jaboticabal
+Dracena,108.1,Piracicaba
+Barbosa,19.75,Santópolis do Aguapeí
+Águas da Prata,17.68,Mogi Mirim
+Ilha Solteira,87.36,Pirajuí
+Jaú,17.68,Ribeirão Bonito
+Areias,5.2,São José do Barreiro
+Reginópolis,5.2,Uru
+Iacri,11.45,Lucélia
+Avanhandava,81.22,Piracicaba
+Pirassununga,23.95,Santa Rosa de Viterbo
+Araraquara,62.5,Penápolis
+Barão de Antonina,12.5,Itaberá
+Bauru,6.25,Cabrália Paulista
+Dolcinópolis,6.25,Jales
+Nantes,25.0,Tupã
+Ribeirão Preto,12.5,Viradouro
+São Paulo,250.0,Assuncion
+Botucatu,38.55,Monte Mor
+Botucatu,33.35,Capela do Alto
+Guará,9.38,São José da Bela Vista
+Campina do Monte Alegre,60.45,São Paulo
+Itapetininga,29.19,Itu
+Campos do Jordão,14.6,Monteiro Lobato
+Conchas,29.2,São Manuel
+Pederneiras,23.99,Ribeirão Bonito
+Campinas,29.21,Itobi
+Irapuru,38.6,Oriente
+Cananéia,25.04,Miracatu
+Areiópolis,39.65,Vera Cruz
+General Salgado,8.35,Nhandeara
+Limeira,18.8,Pirassununga
+Morro Agudo,9.4,Sales Oliveira
+Garça,50.17,Junqueirópolis
+Panorama,50.17,Pompéia
+Paulicéia,50.17,Pompéia
+Parapuã,12.55,Pompéia
+Itapetininga,42.9,Itararé
+Jundiaí,37.7,São Pedro
+Monte Aprazível,37.7,Sud Mennucci
+Euclides da Cunha Paulista,37.72,Presidente Prudente
+Marília,56.59,Panorama
+Marília,56.59,Paulicéia
+Jaboticabal,52.4,Pompéia
+Penápolis,34.6,Tupã
+José Bonifácio,25.17,Olímpia
+São José do Rio Preto,47.2,Três Fronteiras
+Cerquilho,5.25,Jumirim
+Coroados,3.15,Glicério
+Iguape,18.9,Juquiá
+Inúbia Paulista,3.15,Lucélia
+Ipiguá,3.15,Mirassolândia
+Irapuru,15.75,Osvaldo Cruz
+Jaci,3.15,Mirassol
+João Ramalho,3.15,Rancharia
+Oriente,3.15,Pompéia
+Osvaldo Cruz,3.15,Parapuã
+Pacaembu,24.15,Tupã
+São José do Rio Preto,13.65,Votuporanga
+Boituva,56.7,Itararé
+Igaratá,8.4,Nazaré Paulista
+Lindóia,4.2,Socorro
+Santa Isabel,16.8,São Paulo
+Garça,65.12,Panorama
+Garça,65.12,Paulicéia
+Jaboticabal,60.95,Tupã
+Andradina,10.51,Guaraçaí
+Mogi das Cruzes,34.69,Santos
+Lins,15.77,Ubarana
+Monte Alto,27.34,Uchoa
+Araçatuba,164.07,Brasília
+Echaporã,16.83,Maracaí
+Assis,25.25,Tupã
+Bananal,71.55,São Paulo
+Itariri,18.95,Mongaguá
+Boituva,16.85,Salto
+Ipaussu,63.19,Sorocaba
+Osasco,54.8,São Pedro
+Jundiaí,12.65,Morungaba
+Praia Grande,46.4,São Roque
+Bertioga,21.1,Mogi das Cruzes
+Osvaldo Cruz,44.32,São José do Rio Preto
+Paulicéia,124.55,Piracicaba
+Barão de Antonina,19.0,Itapeva
+Jales,95.0,Sumaré
+Juquiá,19.0,Peruíbe
+Bauru,32.74,Ribeirão Bonito
+Cerquilho,68.65,Ourinhos
+Americana,133.1,Paulicéia
+Pontes Gestal,15.85,Votuporanga
+Águas da Prata,65.52,São Caetano do Sul
+Nova Odessa,21.15,São Pedro
+Areias,6.35,Silveiras
+Assis,19.05,Presidente Prudente
+Birigui,41.29,Presidente Alves
+Franca,16.94,São Joaquim da Barra
+Divinolândia,29.65,Mogi Guaçu
+Areiópolis,34.95,Garça
+Sorocaba,45.55,Taquarituba
+Miracatu,37.09,São Vicente
+Itapira,5.3,Mogi Mirim
+Caconde,36.05,Mogi Guaçu
+Americana,86.99,Avanhandava
+Americana,91.26,Penápolis
+Panorama,127.35,Piracicaba
+Pirassununga,23.35,São Carlos
+Itapira,50.95,Santo André
+Campinas,135.9,Tupi Paulista
+Assis,86.0,Rio Claro
+Nova Odessa,15.93,Piracicaba
+Aparecida d'Oeste,4.25,Suzanápolis
+Colina,4.25,Jaborandi
+Guarujá,25.5,Santo André
+Boituva,40.38,Lençóis Paulista
+Buri,70.15,São Paulo
+Itapetininga,28.7,São Roque
+Jaboticabal,10.63,Vista Alegre do Alto
+Americana,101.0,Flórida Paulista
+Sumaré,83.0,Votuporanga
+Altair,22.35,Barretos
+Ourinhos,70.25,Tietê
+Ouroeste,25.55,Santa Rita d'Oeste
+Guaiçara,13.84,Pirajuí
+Cajuru,29.81,Pirassununga
+Sales Oliveira,18.1,Viradouro
+São Paulo,57.5,Tapiratiba
+Cordeirópolis,50.05,Santo André
+Osvaldo Cruz,76.68,São Joaquim da Barra
+São José do Rio Pardo,51.14,São Paulo
+Barão de Antonina,70.32,Salto
+Jaboticabal,44.75,Marília
+Lindóia,34.1,Mairiporã
+Bady Bassitt,3.2,Nova Aliança
+Floreal,3.2,Magda
+Guarulhos,12.8,Nazaré Paulista
+Itararé,62.3,São Vicente
+Itaí,26.67,Itapetininga
+Bastos,43.75,Lins
+Adamantina,91.78,Ribeirão Preto
+Casa Branca,14.95,Tapiratiba
+Pariquera-Açu,38.45,Peruíbe
+Itararé,17.09,Taquarivaí
+Indiaporã,23.5,Santa Albertina
+São Paulo,384.58,Montevideo
+Ilha Solteira,64.1,Penápolis
+Penápolis,83.35,Piracicaba
+Campinas,25.65,Piracaia
+Lins,25.65,Novo Horizonte
+Caçapava,61.99,Santos
+Bauru,62.0,Itapetininga
+Ribeirão Pires,38.5,Taubaté
+Barretos,70.6,Limeira
+Guaraci,19.27,Orindiúva
+Mirassol,19.27,Olímpia
+Bebedouro,38.55,Tanabi
+Limeira,44.98,Santo André
+Jaboticabal,88.9,Junqueirópolis
+Arujá,9.64,Jacareí
+Colina,27.85,Miguelópolis
+Americana,51.42,Pederneiras
+Assis,30.0,Bauru
+Botucatu,30.0,Piracicaba
+Jundiaí,15.0,Salto
+Altair,6.43,Icém
+Leme,32.15,São Carlos
+Catanduva,24.65,Tanabi
+Parapuã,66.45,Taquaritinga
+Caraguatatuba,48.25,Guarujá
+Botucatu,19.3,Pereiras
+São Paulo,19.3,São Roque
+Sorocaba,21.45,Tietê
+Cananéia,39.7,Pedro de Toledo
+Ribeirão Preto,27.9,Santo Antônio da Alegria
+Americana,126.7,Tupi Paulista
+Bebedouro,42.95,Nhandeara
+Piracicaba,122.45,Santa Mercedes
+Porto Feliz,12.89,Tatuí
+Conchas,30.08,Sorocaba
+Irapuru,101.0,Piracicaba
+Águas de São Pedro,52.65,Osasco
+Angatuba,23.65,Taquarituba
+Araçoiaba da Serra,4.3,Capela do Alto
+Araraquara,30.1,Pederneiras
+Cardoso,12.9,Indiaporã
+Conchas,15.05,Tatuí
+Leme,17.2,Santa Rita do Passa Quatro
+Pompéia,64.5,Ribeirão Preto
+Santa Cruz das Palmeiras,4.3,Tambaú
+Andradina,69.88,Cafelândia
+Flórida Paulista,26.9,Quintana
+Colina,65.65,Limeira
+Borborema,8.61,Ibitinga
+Luís Antônio,8.61,Santa Rosa de Viterbo
+Bebedouro,59.2,Limeira
+Luís Antônio,16.15,Pirassununga
+Barretos,46.32,Penápolis
+Itapuí,70.05,Jundiaí
+Colina,17.25,Jaboticabal
+Campinas,142.35,Paulicéia
+Auriflama,15.1,Nhandeara
+Bebedouro,30.2,Mirassol
+Iguape,37.75,Tapiraí
+Ribeirão Preto,61.49,Santa Bárbara d'Oeste
+Bebedouro,35.6,Monte Aprazível
+São José do Barreiro,28.05,Taubaté
+Leme,23.74,Piracicaba
+Itapetininga,22.67,Porto Feliz
+Piracicaba,30.23,Pirassununga
+Pereiras,32.4,São Manuel
+Monte Azul Paulista,5.4,Severínia
+Jundiaí,48.62,Torrinha
+Campinas,38.9,Tatuí
+Santo André,19.45,Santos
+Guaraci,33.5,Jaboticabal
+Piracicaba,71.33,Santa Cruz do Rio Pardo
+Campinas,77.84,Ourinhos
+Ourinhos,77.84,Piracicaba
+Araras,15.14,Mogi Mirim
+José Bonifácio,31.37,Pirajuí
+Araras,11.9,Pirassununga
+Pirassununga,11.9,Santa Cruz das Palmeiras
+Pirassununga,11.9,Santa Rita do Passa Quatro
+São Luís do Paraitinga,15.15,Ubatuba
+Magda,40.05,Olímpia
+Itobi,47.63,São Paulo
+São José do Rio Preto,133.19,Brasília
+Promissão,7.58,Ubarana
+Bauru,75.81,Tupi Paulista
+Americana,13.0,Paulínia
+Apiaí,6.5,Barra do Chapéu
+Apiaí,6.5,Itaóca
+Areias,22.75,Taubaté
+Assis,6.5,Palmital
+Bebedouro,6.5,Pitangueiras
+Boituva,13.0,Itu
+Bom Sucesso de Itararé,13.0,Itapeva
+Bom Sucesso de Itararé,13.0,Itararé
+Braúna,6.5,Penápolis
+Cândido Mota,6.5,Palmital
+Guaimbê,26.0,José Bonifácio
+Ibirarema,6.5,Ourinhos
+Indiaporã,3.25,Ouroeste
+Itapetininga,16.25,Paranapanema
+Jales,9.75,Três Fronteiras
+Ourinhos,65.0,São José do Rio Preto
+Palmital,6.5,Salto Grande
+Registro,52.0,Santos
+Jacareí,49.84,Praia Grande
+Miracatu,34.69,Praia Grande
+Barretos,36.86,José Bonifácio
+Jaboticabal,41.2,Miguelópolis
+Pirassununga,65.06,Santos
+Jaboticabal,84.6,Pacaembu
+Jundiaí,59.67,Mineiros do Tietê
+Bebedouro,10.85,Jaboticabal
+Barra Bonita,78.15,São Bernardo do Campo
+Ilha Comprida,27.14,Pedro de Toledo
+Ibirarema,44.51,Martinópolis
+Bernardino de Campos,7.6,Chavantes
+Itu,15.2,Jundiaí
+Bertioga,39.1,Caraguatatuba
+Araras,56.5,Guaíra
+Bálsamo,32.6,Urânia
+Caçapava,16.3,Guaratinguetá
+Jaboticabal,78.25,Lucélia
+Nhandeara,61.95,Ribeirão Preto
+Campinas,50.02,Mineiros do Tietê
+Estrela d'Oeste,4.35,Fernandópolis
+Jaboticabal,17.4,Palmares Paulista
+Laranjal Paulista,4.35,Tietê
+Presidente Prudente,52.2,São José do Rio Preto
+Americana,84.86,Promissão
+São Paulo,365.63,Punta del Este
+Rafard,6.53,Tietê
+Fernandópolis,87.11,Nova Odessa
+Herculândia,29.4,Pacaembu
+Campinas,58.82,Pederneiras
+Bebedouro,84.97,Presidente Prudente
+Americana,45.78,Jaú
+Bauru,10.9,Pirajuí
+Bernardino de Campos,5.45,Óleo
+Campinas,146.06,Panorama
+Leme,5.45,Pirassununga
+Palmares Paulista,32.7,Ribeirão Preto
+Santos,52.35,São Sebastião
+Riolândia,113.44,São Paulo
+Presidente Prudente,192.0,Brasília
+Rancharia,72.0,São José do Rio Preto
+Assis,10.91,Ibirarema
+Americana,130.95,Santa Mercedes
+Bauru,32.74,Boa Esperança do Sul
+Bauru,48.02,Parapuã
+Catanduva,19.65,Mirassol
+Adamantina,48.05,Garça
+Atibaia,37.13,Pindamonhangaba
+Ipuã,28.4,Ribeirão Preto
+Pirajuí,27.32,Ubarana
+Jundiaí,32.8,Lindóia
+Piracicaba,120.3,Tupi Paulista
+Botucatu,14.22,Lençóis Paulista
+Iaras,60.17,Martinópolis
+Ibirarema,53.61,Presidente Prudente
+Itapeva,19.7,Itaporanga
+Itapuí,82.1,São Paulo
+Atibaia,48.17,Campos do Jordão
+Olímpia,33.94,São Joaquim da Barra
+Araraquara,30.66,Bebedouro
+Barra Bonita,4.38,Mineiros do Tietê
+Guaíra,23.0,Orlândia
+São Pedro,13.15,Torrinha
+São Caetano do Sul,54.8,São Pedro
+Miracatu,39.49,Santos
+Garça,79.0,Itapetininga
+Santópolis do Aguapeí,40.6,São José do Rio Preto
+Dracena,108.7,Ribeirão Preto
+Coronel Macedo,61.5,São Paulo
+Itapeva,52.72,Salto
+Assis,65.93,Euclides da Cunha Paulista
+Cardoso,49.45,Santa Fé do Sul
+Piracicaba,76.94,Promissão
+Mineiros do Tietê,71.49,São Paulo
+Araçatuba,13.2,Mirandópolis
+Araras,6.6,Leme
+Bofete,11.0,Itatinga
+Cruzeiro,13.2,Guaratinguetá
+Guareí,6.6,Quadra
+Iacanga,6.6,Uru
+Iguape,13.2,Miracatu
+Ilha Comprida,30.8,Itariri
+Ilha Comprida,23.1,Juquiá
+Quadra,6.6,Tatuí
+Artur Nogueira,4.4,Engenheiro Coelho
+Limeira,59.42,Praia Grande
+Franca,135.38,Brasília
+Penápolis,73.75,São Carlos
+Marília,57.25,Sertãozinho
+Americana,136.52,Panorama
+Adamantina,103.5,Americana
+Pacaembu,103.5,Piracicaba
+Americana,23.13,Leme
+Bebedouro,52.87,Rio Claro
+Itapetininga,57.3,Ribeira
+Jaú,44.1,Piracicaba
+Novo Horizonte,108.05,Santo André
+Paraibuna,19.85,Santa Branca
+Flórida Paulista,38.6,Marília
+Cerquilho,18.75,Sorocaba
+Araçatuba,17.65,Lins
+Dolcinópolis,17.65,Santa Fé do Sul
+São José do Rio Preto,17.65,Severínia
+Areias,55.16,São Paulo
+Casa Branca,177.64,Brasília
+Paraguaçu Paulista,15.45,Tupã
+Americana,120.3,Junqueirópolis
+Campinas,59.6,Santa Rosa de Viterbo
+Andradina,13.25,Ilha Solteira
+Bananal,39.75,Taubaté
+Bocaina,13.25,Pederneiras
+Piracicaba,68.48,Chavantes
+Jales,95.0,Nova Odessa
+Itápolis,68.5,Rancharia
+Descalvado,33.15,Limeira
+Descalvado,11.05,São Carlos
+Itobi,11.05,Vargem Grande do Sul
+Campinas,42.0,São Sebastião da Grama
+Iacanga,38.7,São Carlos
+Dumont,8.85,Guariba
+Campinas,129.5,Junqueirópolis
+Avaré,15.5,Piraju
+Campinas,93.0,Marília
+Americana,42.08,Lençóis Paulista
+Caraguatatuba,59.8,Santos
+Itapira,44.3,São Paulo
+Martinópolis,11.08,Osvaldo Cruz
+Ilha Solteira,78.69,Lins
+Americana,46.55,Matão
+Campinas,46.55,Tambaú
+Monte Aprazível,39.9,Pereira Barreto
+Agudos,13.3,São Manuel
+Cerquilho,66.5,Santa Cruz do Rio Pardo
+Andradina,31.04,Pacaembu
+Águas de São Pedro,37.7,Jaú
+Porto Feliz,11.09,Salto
+Campinas,66.54,Campos do Jordão
+Nantes,12.2,Rancharia
+Ribeirão Pires,23.3,São Vicente
+Agudos,57.7,Itapetininga
+Itapeva,56.83,São Vicente
+Aguaí,11.1,Pirassununga
+Cajuru,11.1,Mococa
+Itápolis,5.55,Tabatinga
+Santa Cruz das Palmeiras,11.1,Santa Rita do Passa Quatro
+São Manuel,22.2,São Pedro
+São Bernardo do Campo,71.04,São João da Boa Vista
+Praia Grande,29.98,Suzano
+Santa Gertrudes,54.41,Santo André
+Itapetininga,83.3,Marília
+Santo André,66.64,São João da Boa Vista
+Caçapava,31.1,Cachoeira Paulista
+Catanduva,62.2,Santa Fé do Sul
+Itapetininga,31.1,Vargem Grande Paulista
+Barra Bonita,76.65,Santo André
+Jaboticabal,25.55,Olímpia
+Jaú,35.55,São Pedro
+Paraguaçu Paulista,10.0,Rancharia
+Rifaina,50.0,São José do Rio Preto
+Irapuru,88.9,Jaboticabal
+Bauru,73.35,Sorocaba
+Botucatu,24.45,Tietê
+Araraquara,30.01,Limeira
+Barra Bonita,72.25,São Caetano do Sul
+Campinas,42.25,Santa Rita do Passa Quatro
+Assis,34.47,Presidente Bernardes
+Birigui,112.32,Campinas
+Irapuru,45.6,Marília
+Jaboticabal,50.05,Limeira
+Bauru,27.81,Guaiçara
+Auriflama,4.45,Guzolândia
+Barrinha,4.45,Jaboticabal
+Caçapava,62.3,São Vicente
+Iacanga,13.35,Itápolis
+Olímpia,22.25,Pitangueiras
+Santana da Ponte Pensa,4.45,Urânia
+Junqueirópolis,109.03,Ribeirão Preto
+Araçatuba,33.38,Cafelândia
+Novo Horizonte,110.2,São Bernardo do Campo
+Palestina,12.25,Paulo de Faria
+Anhembi,15.6,Piracicaba
+Araras,40.12,São Carlos
+Nova Granada,12.26,Orindiúva
+Garça,60.2,Ribeirão Preto
+Flórida Paulista,82.5,Jaboticabal
+Catanduva,44.6,Fernandópolis
+Leme,14.5,Limeira
+Avaré,12.27,Manduri
+Cardoso,27.9,Paranapuã
+Guaíra,37.95,Ribeirão Preto
+Nantes,21.21,Paraguaçu Paulista
+Marília,33.49,Pederneiras
+Igaraçu do Tietê,78.15,São Bernardo do Campo
+Cafelândia,3.35,Guarantã
+Cajobi,3.35,Embaúba
+Cajuru,13.4,São Simão
+Catanduva,13.4,Novo Horizonte
+Floreal,13.4,Monte Aprazível
+Iacri,3.35,Parapuã
+Itaporanga,67.0,São Paulo
+Lindóia,13.4,Pinhalzinho
+Mairiporã,13.4,Piracaia
+Pompéia,50.25,Taquaritinga
+Americana,20.1,São Pedro
+Igarapava,10.05,Pedregulho
+Itápolis,13.41,Novo Horizonte
+Junqueirópolis,111.75,Piracicaba
+Bebedouro,76.0,Santa Fé do Sul
+Cajuru,64.85,Campinas
+Catiguá,24.6,Jaboticabal
+Bernardino de Campos,13.42,Ourinhos
+Nova Odessa,42.5,São Bernardo do Campo
+São José dos Campos,57.05,São Vicente
+Barretos,66.0,Campinas
+Itaí,41.39,Sorocaba
+Leme,32.45,Santa Rosa de Viterbo
+Cosmorama,23.5,Urânia
+Mococa,29.1,Mogi Guaçu
+Itápolis,95.15,São Bernardo do Campo
+Bebedouro,71.66,Campinas
+Rio Claro,53.75,Santo André
+Auriflama,11.2,Floreal
+Icém,11.2,Paulo de Faria
+Estrela d'Oeste,12.32,Votuporanga
+Monte Azul Paulista,45.92,São Carlos
+Ituverava,118.8,Brasília
+Cafelândia,14.57,Promissão
+Águas de Lindóia,13.45,Pinhalzinho
+Altair,13.45,Orindiúva
+Capão Bonito,26.9,Itararé
+Piraju,13.45,Santa Cruz do Rio Pardo
+Borborema,40.35,Pompéia
+Catanduva,40.35,Lins
+Nova Odessa,83.0,Votuporanga
+Bocaina,12.34,Ribeirão Bonito
+Americana,101.0,Inúbia Paulista
+Clementina,10.1,Parapuã
+São Bernardo do Campo,20.2,São Vicente
+Jundiaí,69.59,Pederneiras
+Novo Horizonte,12.35,Pongaí
+Porto Ferreira,12.35,São Simão
+São Caetano do Sul,62.88,São João da Boa Vista
+Iaras,48.29,João Ramalho
+Bebedouro,58.4,Fernandópolis
+Campinas,60.65,Jaboticabal
+João Ramalho,10.11,Martinópolis
+Boituva,33.7,Botucatu
+Queluz,52.81,São Paulo
+Guarantã,21.35,Itápolis
+Americana,20.23,Tietê
+Paraibuna,30.35,Ubatuba
+Indaiatuba,67.45,Itapeva
+Americana,103.5,Lucélia
+Barbosa,4.5,Penápolis
+Batatais,13.5,Franca
+Bofete,9.0,Pardinho
+Borá,4.5,Paraguaçu Paulista
+Charqueada,6.75,São Pedro
+Cruzália,4.5,Pedrinhas Paulista
+Florínia,4.5,Pedrinhas Paulista
+Ituverava,11.25,São Joaquim da Barra
+Lucianópolis,4.5,Ubirajara
+Santa Cruz das Palmeiras,11.25,Santa Rosa de Viterbo
+São Vicente,67.5,Taubaté
+Americana,42.8,Descalvado
+Monte Alto,33.79,São José do Rio Preto
+Ipaussu,15.77,Itaí
+Boituva,33.8,Campinas
+Guaíra,16.9,São Joaquim da Barra
+Bebedouro,63.1,Guzolândia
+Itapetininga,43.95,São Manuel
+Cafelândia,67.62,Piracicaba
+Ibaté,27.05,Tabatinga
+Iepê,10.15,Rancharia
+Dois Córregos,57.52,Jundiaí
+Santa Rita d'Oeste,162.45,São Paulo
+Aparecida,81.23,São Vicente
+Guaraci,31.59,Riolândia
+Iguape,54.16,Santos
+Barretos,68.85,Rio Claro
+Bastos,70.0,São José do Rio Preto
+Paranapanema,16.94,Piraju
+Garça,58.74,Tupi Paulista
+Barão de Antonina,87.0,Campinas
+Pinhalzinho,33.9,São Caetano do Sul
+Bebedouro,54.25,General Salgado
+Arapeí,35.05,Taubaté
+Mairiporã,29.4,Socorro
+Arujá,27.15,Atibaia
+Altair,18.1,Paulo de Faria
+Iacanga,9.05,Ibitinga
+Panorama,162.92,São Bernardo do Campo
+Paulicéia,162.92,São Bernardo do Campo
+Campinas,193.48,Euclides da Cunha Paulista
+Adamantina,80.35,Jaboticabal
+Cajuru,24.9,Porto Ferreira
+Mirassol,35.1,Urânia
+Guzolândia,54.35,Olímpia
+Angatuba,18.12,Itaí
+Piraju,4.53,Sarutaiá
+Irapuru,36.25,Pompéia
+Barão de Antonina,3.4,Itaporanga
+Catanduva,3.4,Catiguá
+Estrela d'Oeste,6.8,Meridiano
+Iepê,34.0,Palmital
+Piracicaba,10.2,São Pedro
+Santa Fé do Sul,6.8,Santa Salete
+Bebedouro,52.15,Magda
+Limeira,54.42,São Vicente
+Pacaembu,31.75,Quintana
+Pirajuí,17.01,Promissão
+Araraquara,78.25,Birigui
+Pacaembu,104.34,Ribeirão Preto
+Campinas,34.07,Santo André
+Jundiaí,47.7,Praia Grande
+Irapuru,109.03,Ribeirão Preto
+Americana,124.95,Dracena
+Campinas,134.15,Dracena
+São Paulo,62.54,Torrinha
+Garça,39.8,São Manuel
+Alfredo Marcondes,4.55,Álvares Machado
+Álvares Machado,4.55,Presidente Bernardes
+Cosmópolis,4.55,Paulínia
+Garça,4.55,Marília
+Jaboticabal,4.55,Taquaral
+Motuca,4.55,Rincão
+Onda Verde,4.55,São José do Rio Preto
+Bauru,13.65,Vera Cruz
+Campinas,140.0,Santa Mercedes
+Campinas,97.9,Palestina
+Iporanga,68.32,Salto
+Guaimbê,41.0,São José do Rio Preto
+Assis,52.39,Teodoro Sampaio
+Descalvado,43.3,Jaboticabal
+Assis,46.72,Mirante do Paranapanema
+Itapeva,77.49,Santo André
+Santo André,152.71,Teodoro Sampaio
+Oriente,38.75,Pacaembu
+Pinhalzinho,38.75,Santo André
+Ilha Comprida,50.15,Piedade
+Campinas,47.88,Dois Córregos
+Campinas,181.28,Teodoro Sampaio
+Bauru,42.21,Ubarana
+Campinas,41.08,Torrinha
+Campinas,93.61,Nova Granada
+Araçatuba,82.2,Araraquara
+Botucatu,20.55,Jaú
+Cafelândia,27.4,Itajobi
+Campinas,27.4,São Caetano do Sul
+Pinhalzinho,41.1,São Bernardo do Campo
+Flórida Paulista,47.95,Garça
+Adamantina,31.97,Araçatuba
+São Joaquim da Barra,47.98,São José do Rio Preto
+Santa Rita d'Oeste,70.85,São José do Rio Preto
+Águas de São Pedro,8.0,Ipeúna
+Casa Branca,8.0,São José do Rio Pardo
+Casa Branca,34.3,Ribeirão Preto
+Dois Córregos,13.72,Pederneiras
+Águas de Lindóia,43.45,São Paulo
+Marília,43.45,Pacaembu
+Cândido Mota,16.01,Maracaí
+Estrela d'Oeste,9.15,Valentim Gentil
+Bauru,44.61,José Bonifácio
+Piracicaba,54.91,Ribeirão Preto
+Praia Grande,68.64,Rio Claro
+Bebedouro,24.03,Guaraci
+Américo Brasiliense,20.6,Ribeirão Preto
+Fernandópolis,10.3,Urânia
+Paranapuã,10.3,Santa Rita d'Oeste
+Barão de Antonina,44.64,Capão Bonito
+Araçatuba,91.6,São Carlos
+Jaú,82.45,São Bernardo do Campo
+Angatuba,10.31,Itapetininga
+Alambari,13.75,Sorocaba
+Cananéia,41.25,Itariri
+Garça,27.5,Lençóis Paulista
+Mogi Guaçu,27.5,São Sebastião da Grama
+Lins,72.2,Piracicaba
+Barra Bonita,14.9,Botucatu
+Nantes,29.8,Oscar Bressane
+Ribeirão Preto,14.9,Sales Oliveira
+Lençóis Paulista,38.98,Santa Bárbara d'Oeste
+São Carlos,50.45,Severínia
+Araras,37.85,Santa Rosa de Viterbo
+Tanabi,37.85,Três Fronteiras
+Limeira,40.15,Matão
+Franca,79.17,Penápolis
+Mirassol,44.75,Santa Fé do Sul
+Elias Fausto,4.59,Monte Mor
+Campinas,80.35,Novo Horizonte
+Guarantã,62.0,Presidente Prudente
+Capivari,6.89,Rio das Pedras
+Ribeirão Preto,34.45,Santa Adélia
+Avaré,24.12,Ipaussu
+Novo Horizonte,105.7,São Caetano do Sul
+Auriflama,10.35,Magda
+Adamantina,23.0,Herculândia
+Catanduva,13.8,Vista Alegre do Alto
+Ibirarema,3.45,Salto Grande
+Itu,13.8,Itupeva
+Jaboticabal,21.85,Severínia
+Jaboticabal,33.36,São José do Rio Preto
+Piracicaba,57.55,São Bernardo do Campo
+Barrinha,25.35,Santa Adélia
+Campinas,25.35,Porto Feliz
+Jaboticabal,100.25,Presidente Prudente
+Caçapava,24.2,Lorena
+Ilha Solteira,48.4,Monte Aprazível
+Campinas,101.42,Santa Cruz do Rio Pardo
+Cafelândia,56.48,Ribeirão Preto
+Americana,66.86,Pirajuí
+Floreal,20.75,São José do Rio Preto
+Bauru,76.1,Dracena
+Orindiúva,6.92,Palestina
+Borborema,73.82,Campinas
+São Paulo,281.44,Puerto Suárez
+Campos do Jordão,41.54,São Paulo
+Americana,43.85,São Bernardo do Campo
+Araçatuba,69.24,Jaboticabal
+Bauru,189.27,Brasília
+São José dos Campos,34.65,São Sebastião
+Atibaia,23.1,Santa Isabel
+Cardoso,11.55,Votuporanga
+Mongaguá,55.45,São Roque
+Itajobi,20.8,Pongaí
+Aparecida,9.25,Cachoeira Paulista
+Campinas,107.54,Penápolis
+Limeira,48.58,São Carlos
+Ourinhos,204.77,Puerto Suárez
+Itapetininga,83.3,Vera Cruz
+Registro,48.6,São Paulo
+Marília,118.1,São Vicente
+Santo Anastácio,110.0,São Paulo
+Osvaldo Cruz,11.58,Tupã
+Araçariguama,13.9,São Paulo
+Matão,34.75,Olímpia
+Capivari,11.59,Piracicaba
+Piracicaba,11.59,Rafard
+Franca,69.59,José Bonifácio
+Jumirim,3.48,Tietê
+Estrela d'Oeste,31.34,São José do Rio Preto
+Catanduva,53.4,Jales
+Limeira,118.43,Santa Fé do Sul
+Itararé,55.75,Tatuí
+Fernandópolis,87.11,Santa Bárbara d'Oeste
+Arapeí,61.56,São Paulo
+Guarulhos,34.85,São Vicente
+Clementina,39.5,São José do Rio Preto
+Guaíra,41.85,Matão
+Itápolis,93.0,Santo André
+Rinópolis,4.65,Santópolis do Aguapeí
+Bauru,58.15,Boituva
+Bauru,58.15,Tatuí
+Santa Gertrudes,50.01,São Caetano do Sul
+José Bonifácio,10.47,São José do Rio Preto
+Cordeirópolis,47.7,São Caetano do Sul
+Jaú,109.6,Praia Grande
+Jaú,80.3,Santo André
+Birigui,52.39,Ilha Solteira
+Capivari,6.99,Monte Mor
+Iaras,44.27,Rancharia
+Marília,58.25,Ribeirão Preto
+Monte Aprazível,23.3,Olímpia
+Monte Azul Paulista,23.3,São José do Rio Preto
+Caconde,73.4,São Paulo
+Piracicaba,58.32,Pirajuí
+Americana,75.82,Cafelândia
+Adamantina,3.5,Flórida Paulista
+Araraquara,70.0,Assis
+Araras,21.0,Santa Bárbara d'Oeste
+Estrela do Norte,3.5,Sandovalina
+Flórida Paulista,3.5,Pacaembu
+Reginópolis,98.0,São Paulo
+Pacaembu,18.67,Panorama
+Pacaembu,18.67,Paulicéia
+Bauru,11.67,Lençóis Paulista
+Lorena,30.35,São José dos Campos
+Bebedouro,15.18,Olímpia
+Bauru,81.74,Mirandópolis
+Americana,88.75,Marília
+Lutécia,26.86,Nantes
+Adamantina,29.2,Pompéia
+Araraquara,80.6,São Bernardo do Campo
+Santa Fé do Sul,28.05,Votuporanga
+Campinas,90.0,Garça
+Cafelândia,35.07,Taquaritinga
+Floreal,24.55,Pereira Barreto
+Paranapanema,26.89,Chavantes
+Cubatão,18.71,Mauá
+Lucélia,26.9,Pompéia
+Garça,62.0,Piracicaba
+Cosmorama,11.7,Fernandópolis
+Iacanga,52.65,Rio Claro
+Jales,23.4,Tanabi
+Americana,81.9,Garça
+Araraquara,58.5,Promissão
+Campinas,76.06,Pirajuí
+Piraju,56.17,Sorocaba
+Itupeva,110.0,Taubaté
+Americana,77.25,Vera Cruz
+Campinas,51.5,Matão
+Martinópolis,51.51,Salto Grande
+Guarujá,42.15,São Sebastião
+Cristais Paulista,11.71,Ituverava
+Ilha Solteira,38.65,Nhandeara
+Igaraçu do Tietê,8.2,São Manuel
+Lorena,44.53,São Paulo
+Andradina,18.75,Araçatuba
+Pitangueiras,18.75,Severínia
+Dois Córregos,71.49,São Paulo
+Barra Bonita,39.85,Piracicaba
+Auriflama,60.95,Bebedouro
+São Sebastião,49.25,Taubaté
+Araçatuba,12.9,Penápolis
+Araçatuba,91.48,Ribeirão Preto
+Jales,95.0,Santa Bárbara d'Oeste
+Campinas,110.25,Parapuã
+Campinas,103.25,Nhandeara
+Limeira,105.62,Urânia
+Araraquara,54.0,Guaraci
+Garça,38.75,Itápolis
+Brotas,28.19,Pederneiras
+Dracena,56.4,Garça
+Morro Agudo,7.05,Orlândia
+Itobi,4.7,São José do Rio Pardo
+Júlio Mesquita,4.7,Marília
+Santa Cruz do Rio Pardo,68.15,Tietê
+Ipaussu,8.23,Piraju
+Adamantina,31.75,Oriente
+Lucélia,29.4,Oriente
+Igaraçu do Tietê,78.8,Santo André
+Americana,103.5,Osvaldo Cruz
+Floreal,35.3,Ilha Solteira
+Santa Albertina,162.45,São Paulo
+Promissão,67.1,São Carlos
+Bauru,110.66,Ilha Solteira
+Bastos,106.0,Campinas
+Mira Estrela,21.2,Paranapuã
+Ouroeste,21.2,Santa Albertina
+Assis,31.8,Guarantã
+Campinas,86.0,Itaporanga
+Atibaia,18.85,Campinas
+Jaboticabal,45.95,Rio Claro
+Cosmorama,54.2,Santa Rita d'Oeste
+Guarujá,33.0,Ribeirão Pires
+Colina,28.3,Matão
+São Vicente,28.3,Suzano
+Amparo,23.59,Jundiaí
+Penápolis,74.31,São Joaquim da Barra
+Araçatuba,51.91,Pereira Barreto
+Araras,5.9,Cordeirópolis
+Juquiá,23.6,Piedade
+Nova Europa,5.9,Tabatinga
+Americana,96.8,Bastos
+Limeira,170.0,Brasília
+Santa Rita d'Oeste,15.35,Turmalina
+Bauru,75.57,Valparaíso
+Pacaembu,151.14,São Bernardo do Campo
+Nova Odessa,40.15,Santo André
+Campinas,53.15,São Simão
+Paulo de Faria,113.41,São Paulo
+Agudos,52.0,Tatuí
+Bebedouro,52.0,Votuporanga
+Dolcinópolis,13.0,Santa Rita d'Oeste
+Santa Albertina,66.2,São José do Rio Preto
+Avanhandava,105.22,Campinas
+Praia Grande,56.75,Sorocaba
+Águas de São Pedro,20.1,Nova Odessa
+Tietê,63.85,Chavantes
+Rosana,186.85,Santo André
+Araraquara,7.1,Ibaté
+Floreal,3.55,Nhandeara
+Lins,53.25,Rancharia
+Birigui,89.95,São Carlos
+Lucélia,94.7,Ribeirão Preto
+São José do Rio Preto,45.0,Sertãozinho
+Campinas,18.95,Itapira
+São Paulo,18.95,Vinhedo
+Araras,30.8,Luís Antônio
+Campinas,94.8,Monte Aprazível
+Campinas,23.7,Rio Claro
+Ribeirão Preto,90.06,Santo André
+Rio Claro,63.99,São Vicente
+Iguape,33.19,Peruíbe
+Apiaí,56.9,Sorocaba
+Cananéia,28.45,Juquiá
+Limeira,42.68,São Caetano do Sul
+Ilha Comprida,61.65,Sorocaba
+Águas de São Pedro,16.6,Americana
+Pitangueiras,35.6,São José do Rio Preto
+Cosmorama,84.26,Limeira
+Campinas,38.0,Porto Ferreira
+Ilha Solteira,4.75,Itapura
+Ipaussu,4.75,Santa Cruz do Rio Pardo
+Itaí,23.75,Santa Cruz do Rio Pardo
+Juquitiba,28.5,Peruíbe
+Ourinhos,4.75,Salto Grande
+Ribeirão do Sul,4.75,Salto Grande
+Serra Azul,4.75,Serrana
+Birigui,16.63,Valparaíso
+Santa Mercedes,163.97,São Bernardo do Campo
+Limeira,82.0,Marília
+Araraquara,78.45,Santo André
+Bebedouro,21.4,Matão
+Itu,14.27,Tietê
+Lins,40.44,Valparaíso
+Dourado,22.6,Pederneiras
+Guapiara,42.85,Sorocaba
+Presidente Prudente,170.22,Puerto Suárez
+Campinas,30.95,Pirassununga
+Ribeirão Preto,57.15,Tanabi
+Boituva,16.67,Itapetininga
+Divinolândia,69.1,São Paulo
+Aparecida,71.52,Piracicaba
+Catanduva,38.15,Votuporanga
+Jundiaí,214.6,Brasília
+Ribeirão Preto,101.34,Brasília
+Andradina,116.85,Limeira
+Aguaí,26.25,Campinas
+João Ramalho,121.8,Santo André
+Guapiara,71.65,São Paulo
+Colina,65.7,Rio Claro
+Americana,100.35,Araçatuba
+Ourinhos,46.6,Parapuã
+Cesário Lange,23.9,Sorocaba
+Borborema,49.0,Tupã
+Irapuru,155.39,São Bernardo do Campo
+Itápolis,90.9,São Caetano do Sul
+Bariri,15.55,Itápolis
+Boituva,47.85,Itapeva
+Campinas,100.5,Guaíra
+Presidente Prudente,25.13,Tupi Paulista
+Alambari,39.49,Itapeva
+Americana,123.27,Andradina
+Americana,95.76,Palestina
+Rio Claro,43.1,Taquaritinga
+Lençóis Paulista,33.53,Marília
+Bebedouro,39.52,São Carlos
+Miracatu,35.93,São Paulo
+Caraguatatuba,26.35,Santa Branca
+Ribeirão Preto,55.1,Uchoa
+São Paulo,230.0,Coronel Oviedo
+Franca,93.46,Osvaldo Cruz
+Jacupiranga,38.35,Peruíbe
+Franca,21.58,Ribeirão Preto
+Itapetininga,23.98,Taquarivaí
+José Bonifácio,14.39,Promissão
+Assis,82.77,Sorocaba
+Bertioga,30.0,Ferraz de Vasconcelos
+Caçapava,4.8,Taubaté
+Matão,50.4,Miguelópolis
+Clementina,14.4,Iacri
+Ibitinga,14.4,Reginópolis
+Pederneiras,115.2,Praia Grande
+Santa Adélia,28.8,Sertãozinho
+Campinas,57.62,Pindamonhangaba
+Águas de São Pedro,60.04,Marília
+Flórida Paulista,148.98,São Bernardo do Campo
+Birigui,136.98,São Bernardo do Campo
+Franca,74.5,Guarantã
+Campinas,64.9,Monte Alto
+Cordeirópolis,32.45,Jundiaí
+Iacanga,93.75,São Paulo
+Cerquilho,60.1,Ipaussu
+Jaú,78.15,São Caetano do Sul
+Porangaba,24.05,São Manuel
+Santa Bárbara d'Oeste,83.0,Votuporanga
+Campinas,61.35,Taquaritinga
+Aguaí,19.25,Mococa
+Joanópolis,19.25,Mairiporã
+Mirassol,56.55,Paranapuã
+Orindiúva,110.7,São Paulo
+Guaraci,67.4,São Carlos
+Matão,14.45,Monte Alto
+Praia Grande,71.05,Santa Bárbara d'Oeste
+Adamantina,25.3,Quintana
+Bocaina,80.73,São Bernardo do Campo
+Cosmorama,44.6,Paranapuã
+Americana,86.8,Chavantes
+Paranapuã,61.5,São José do Rio Preto
+Andradina,84.42,Jaú
+Brotas,26.54,Limeira
+Nova Europa,24.14,São Carlos
+Santa Bárbara d'Oeste,77.25,Vera Cruz
+Bauru,45.87,São Carlos
+Presidente Prudente,170.22,Puerto Quijarro
+Bauru,84.55,Jundiaí
+Bebedouro,76.1,Pereira Barreto
+Clementina,101.47,Franca
+Borborema,7.25,Pongaí
+Campinas,58.0,Piraju
+Franca,29.0,Sertãozinho
+Guareí,7.25,Torre de Pedra
+Olímpia,58.0,São Carlos
+Presidente Venceslau,110.0,São Paulo
+Agudos,13.3,Areiópolis
+Lençóis Paulista,31.44,Piracicaba
+São Paulo,65.3,Taquarituba
+Botucatu,24.2,Cesário Lange
+Pirassununga,6.05,Porto Ferreira
+Roseira,18.15,São José dos Campos
+Andradina,65.34,São José do Rio Preto
+Campinas,102.86,Promissão
+Capão Bonito,83.5,São José dos Campos
+Garça,53.25,Jaboticabal
+Guarantã,53.25,Ribeirão Preto
+Jaboticabal,87.17,Mirandópolis
+Pacaembu,33.9,Pompéia
+Campinas,96.86,Chavantes
+Santa Bárbara d'Oeste,44.8,Santo André
+Lindóia,43.6,São Paulo
+Itápolis,15.75,Jaú
+Botucatu,30.3,Tatuí
+Bebedouro,84.85,Ilha Solteira
+Americana,105.47,Fernandópolis
+Aparecida,145.48,Assis
+Andradina,98.21,Jaboticabal
+Bragança Paulista,14.55,Socorro
+Ilha Comprida,58.2,São Paulo
+Cafelândia,87.38,Campinas
+Mirandópolis,59.47,São José do Rio Preto
+Guaraçaí,15.78,Valparaíso
+Ribeira,67.98,Sorocaba
+Angatuba,58.27,São Paulo
+Borborema,17.0,Cafelândia
+Bebedouro,29.15,São José do Rio Preto
+Jaú,29.15,Santa Maria da Serra
+Fartura,14.58,Itaí
+Auriflama,40.1,São José do Rio Preto
+Indiaporã,40.1,Santa Fé do Sul
+Santos,54.69,São José dos Campos
+Araraquara,48.65,Olímpia
+Jaú,29.19,São Carlos
+Borborema,29.2,Marília
+Catiguá,7.3,Palmares Paulista
+Matão,29.2,Severínia
+Boituva,25.55,Conchas
+Igaraçu do Tietê,76.65,São Caetano do Sul
+Jaboticabal,31.64,Uchoa
+Pederneiras,36.51,São Carlos
+Parapuã,92.55,Piracicaba
+Osvaldo Cruz,95.0,Ribeirão Preto
+Panorama,160.77,Santo André
+Paulicéia,160.77,Santo André
+Jaboticabal,80.39,Valparaíso
+Borborema,13.4,Itajobi
+Barretos,29.24,Icém
+Bauru,45.08,Piracicaba
+Apiaí,87.74,São Paulo
+Monte Alto,87.75,São Paulo
+Reginópolis,45.1,São Carlos
+São Paulo,103.65,Severínia
+Barretos,65.85,Descalvado
+Pilar do Sul,6.1,Salto de Pirapora
+São Bernardo do Campo,158.62,Tupi Paulista
+Fernandópolis,117.15,São Paulo
+Campinas,65.9,Itápolis
+Juquiá,20.75,Juquitiba
+Birigui,30.52,Lucélia
+Alambari,23.2,Capão Bonito
+Campinas,109.9,Miguelópolis
+Assis,88.0,Limeira
+Pirassununga,33.0,Santa Bárbara d'Oeste
+Avaré,26.89,Sarutaiá
+Euclides da Cunha Paulista,176.02,Santo André
+Ibitinga,85.6,São Paulo
+Ribeirão Pires,29.35,São José dos Campos
+Jaboticabal,15.9,Monte Azul Paulista
+Ribeirão Preto,95.43,São Bernardo do Campo
+São Paulo,64.85,São Sebastião da Grama
+Iguape,58.75,Sorocaba
+Adamantina,146.88,São Bernardo do Campo
+Jales,107.77,Limeira
+Junqueirópolis,154.34,São Bernardo do Campo
+Braúna,12.25,Rinópolis
+Iacri,12.25,Santópolis do Aguapeí
+Júlio Mesquita,24.5,Novo Horizonte
+Salto,12.25,Sorocaba
+Brotas,9.8,Itirapina
+Itu,125.0,Presidente Prudente
+Cordeirópolis,45.35,Osasco
+Bastos,88.25,Piracicaba
+São Manuel,38.0,Tatuí
+Itararé,58.85,Sorocaba
+São Vicente,50.29,Sorocaba
+Guaraci,24.54,Paulo de Faria
+Dolcinópolis,58.9,São José do Rio Preto
+Monte Azul Paulista,99.4,São Paulo
+Cosmorama,83.45,Rio Claro
+Miguelópolis,135.0,São Paulo
+Botucatu,46.65,Vera Cruz
+Monte Alto,46.65,Rio Claro
+Iepê,127.68,São Paulo
+Araras,33.15,São Simão
+Araçatuba,146.14,São Bernardo do Campo
+Campinas,110.54,Riolândia
+São Bernardo do Campo,71.25,São Carlos
+Araraquara,34.4,Reginópolis
+Caçapava,44.25,São Sebastião
+São José dos Campos,44.25,Ubatuba
+Brotas,29.52,Piracicaba
+Cosmorama,6.15,Valentim Gentil
+Monte Azul Paulista,12.3,Pitangueiras
+Pirajuí,6.15,Uru
+Monte Mor,33.24,São Paulo
+Pindamonhangaba,36.94,São Paulo
+Bocaina,8.62,Dourado
+Marília,80.05,Tatuí
+Dolcinópolis,54.2,Mirassol
+Catanduva,73.92,Jundiaí
+Araçariguama,51.75,Mongaguá
+José Bonifácio,17.25,Lins
+Ilha Solteira,11.09,Pereira Barreto
+Barra Bonita,106.01,Praia Grande
+Campinas,82.6,Severínia
+Americana,101.1,Parapuã
+Floreal,94.95,Limeira
+Aguaí,11.1,Itobi
+Fernandópolis,25.9,São José do Rio Preto
+Flórida Paulista,11.1,Osvaldo Cruz
+Rio Claro,74.0,Tanabi
+Brotas,46.88,Garça
+Limeira,86.36,Poloni
+Pompéia,123.38,São Bernardo do Campo
+Cajuru,87.6,São Paulo
+Presidente Prudente,103.67,Sorocaba
+Bauru,66.65,Flórida Paulista
+Ipaussu,61.75,Tietê
+Agudos,54.35,Boituva
+Colina,50.65,São Carlos
+Ibitinga,17.3,Taquaritinga
+São Carlos,30.9,Tabatinga
+Jaú,105.36,São Vicente
+Cruzeiro,37.1,São José dos Campos
+Americana,93.99,Santa Cruz do Rio Pardo
+Cardoso,23.5,Turmalina
+Aparecida,76.69,Santos
+Bastos,90.31,Ribeirão Preto
+Borborema,99.0,São Caetano do Sul
+Guararema,19.8,São Paulo
+Itararé,9.9,Riversul
+Marília,95.3,Sorocaba
+Borborema,82.94,Presidente Prudente
+Bastos,71.8,Jaboticabal
+Leme,26.0,São Simão
+Ribeirão Preto,89.18,São Caetano do Sul
+São José do Rio Preto,52.03,Valparaíso
+Euclides da Cunha Paulista,11.15,Rosana
+Assis,57.0,Ibitinga
+Guzolândia,89.25,Ribeirão Preto
+Presidente Prudente,96.7,Taquaritinga
+Bauru,50.83,Birigui
+Aparecida,133.9,Catanduva
+Ribeirão Preto,32.25,Severínia
+Araraquara,33.5,Pirassununga
+Ilha Solteira,29.78,Mirandópolis
+Aparecida,52.12,Mauá
+Mongaguá,78.2,Santa Bárbara d'Oeste
+Limeira,47.18,Pederneiras
+Marília,74.5,Rio Claro
+Araçatuba,142.82,Santo André
+São Paulo,44.71,Serra Negra
+Barretos,12.42,Olímpia
+Jaboticabal,12.42,Ribeirão Preto
+Americana,86.95,Ipaussu
+Cosmorama,42.25,Dolcinópolis
+Jundiaí,34.8,Rio Claro
+Capivari,3.73,Mombuca
+Mombuca,3.73,Rafard
+Campinas,78.35,Monte Azul Paulista
+Casa Branca,9.95,Mococa
+Nhandeara,29.85,Pereira Barreto
+Campinas,52.25,Luís Antônio
+Americana,134.38,Santa Rita d'Oeste
+Itaju,11.2,Itápolis
+Bebedouro,67.2,Jales
+São Bernardo do Campo,131.92,Tupã
+Oriente,13.69,Tupã
+Assis,57.25,Itápolis
+Fernandópolis,82.17,Ribeirão Preto
+Miracatu,12.45,Registro
+Garça,77.2,Limeira
+Birigui,23.66,Osvaldo Cruz
+Birigui,136.98,Santo André
+Águas de São Pedro,54.8,Santo André
+Guarantã,13.7,Uru
+Araras,44.85,Cajuru
+Arealva,17.45,Ibitinga
+Bebedouro,34.9,Miguelópolis
+Campinas,17.45,Itu
+Porto Feliz,34.9,São Paulo
+Laranjal Paulista,42.38,São Paulo
+Fernandópolis,7.48,Jales
+Lucélia,103.5,Piracicaba
+Porto Ferreira,21.2,Santa Rosa de Viterbo
+Brotas,61.12,São Paulo
+Iacanga,47.4,Ribeirão Preto
+Campinas,137.25,Irapuru
+Conchal,39.93,São Paulo
+Limeira,52.42,Santos
+Itápolis,33.7,São Carlos
+Garça,74.9,Santa Bárbara d'Oeste
+Itapetininga,41.2,Osasco
+Botucatu,44.95,Garça
+Bauru,56.2,Santa Bárbara d'Oeste
+Americana,79.93,Piraju
+Avaré,49.98,Piracicaba
+Ilha Solteira,131.22,Limeira
+Adamantina,38.75,Marília
+Avaré,10.0,Pratânia
+Campinas,20.0,São Paulo
+Franca,60.0,São José do Rio Preto
+Guarantã,10.0,Marília
+Ibitinga,11.25,Nova Europa
+Iguape,50.0,Piedade
+Magda,75.0,Ribeirão Preto
+Mesópolis,6.25,Paranapuã
+Osasco,42.5,Santa Bárbara d'Oeste
+Paranapuã,6.25,Vitória Brasil
+Rio Claro,118.81,Santa Fé do Sul
+Guarulhos,37.54,Praia Grande
+Itapetininga,31.3,Itapeva
+Itu,26.3,Piracicaba
+Americana,116.5,Mirandópolis
+Campinas,60.15,Itapuí
+Águas de São Pedro,52.65,São Caetano do Sul
+Olímpia,32.6,Sertãozinho
+Campinas,130.45,Lucélia
+Bauru,71.5,Pacaembu
+Piracicaba,55.2,Santo André
+Leme,26.35,Santa Bárbara d'Oeste
+Araraquara,75.3,São Caetano do Sul
+Capivari,7.53,Tietê
+Campinas,121.75,Floreal
+Araras,8.79,Limeira
+Limeira,120.58,Pereira Barreto
+Araraquara,30.15,Iacanga
+Americana,10.05,Campinas
+General Salgado,20.1,Monte Aprazível
+Itapetininga,10.05,Tatuí
+Auriflama,86.7,Ribeirão Preto
+São José do Rio Preto,56.55,Turmalina
+Boituva,75.4,Garça
+Garça,75.4,Tatuí
+Urânia,18.85,Votuporanga
+Lucélia,36.45,Marília
+Mogi das Cruzes,45.25,São Sebastião
+Mongaguá,64.11,Sorocaba
+Campos Novos Paulista,8.8,Lupércio
+Maracaí,26.41,Marília
+Campinas,57.88,São Vicente
+Americana,7.55,Limeira
+Garça,90.6,Sorocaba
+Miracatu,15.1,Peruíbe
+Santa Maria da Serra,7.55,São Pedro
+Santa Rita do Passa Quatro,7.55,Tambaú
+Itajobi,35.25,Lins
+Maracaí,118.36,São Paulo
+Americana,129.7,Pacaembu
+Brotas,55.42,Marília
+Bálsamo,32.75,Jales
+General Salgado,32.75,São José do Rio Preto
+Jaborandi,181.4,São Bernardo do Campo
+Matão,74.35,São Paulo
+Americana,98.3,Tupã
+Campinas,97.04,Ipaussu
+Itanhaém,83.2,Santa Bárbara d'Oeste
+Indiaporã,17.65,Paranapuã
+Limeira,15.13,Mogi Mirim
+Bocaina,80.73,Santo André
+Campinas,32.8,São João da Boa Vista
+Andradina,94.66,Taquaritinga
+Águas de Lindóia,80.8,Praia Grande
+Campinas,15.15,Mogi Guaçu
+Flórida Paulista,101.0,Piracicaba
+Inúbia Paulista,101.0,Piracicaba
+Pitangueiras,10.1,Ribeirão Preto
+Santa Fé do Sul,5.05,Santana da Ponte Pensa
+São João da Boa Vista,53.05,São Paulo
+Marília,61.9,São Pedro
+Aparecida,37.9,Mogi das Cruzes
+Birigui,132.65,São Caetano do Sul
+Braúna,37.9,São José do Rio Preto
+Itaí,7.58,Paranapanema
+Pilar do Sul,44.22,São Paulo
+Brotas,49.28,Jundiaí
+Iguape,27.8,Itariri
+Bernardino de Campos,63.19,Sorocaba
+Cafelândia,40.45,Jaboticabal
+Olímpia,41.72,Penápolis
+Iacanga,30.35,Jaboticabal
+Itanhaém,91.05,Piracicaba
+Mirassol,51.85,Turmalina
+Avaré,35.42,Ourinhos
+General Salgado,79.7,Ribeirão Preto
+Jaboticabal,83.5,São Paulo
+Águas de São Pedro,56.95,São Bernardo do Campo
+Barretos,129.13,Santo André
+Bauru,31.65,Botucatu
+Itaí,60.77,São Paulo
+Araraquara,65.85,Miguelópolis
+Águas de São Pedro,7.6,Piracicaba
+Cesário Lange,7.6,Conchas
+Matão,19.0,São Carlos
+Santa Adélia,11.4,Taquaritinga
+Botucatu,51.95,Marília
+Dracena,159.69,São Bernardo do Campo
+Guaratinguetá,25.35,São José dos Campos
+Boituva,82.4,Marília
+Auriflama,107.77,Limeira
+Bocaina,50.72,Campinas
+Bauru,45.65,Jaboticabal
+Altair,27.9,Riolândia
+Cardoso,27.9,Dolcinópolis
+Campinas,49.47,Jaú
+Bauru,91.36,São Bernardo do Campo
+Campinas,53.31,Santos
+Guapiara,25.39,Itapetininga
+Campinas,114.3,Poloni
+Catanduva,12.7,Pirangi
+Mogi Guaçu,12.7,São João da Boa Vista
+São Paulo,38.1,Tietê
+Aramina,86.37,Campinas
+Ilha Solteira,76.22,Olímpia
+Iguape,24.14,Pedro de Toledo
+Aparecida,86.41,Rio Claro
+Juquiá,15.25,Tapiraí
+Lucélia,24.15,Quintana
+Americana,80.1,Lins
+Caraguatatuba,35.6,Jacareí
+Guaíra,35.6,Jaboticabal
+Lins,26.7,São José do Rio Preto
+Matão,35.6,São José do Rio Preto
+Birigui,25.43,Mirandópolis
+Americana,109.37,Ouroeste
+Garça,45.8,Lucélia
+Presidente Prudente,11.45,Santo Anastácio
+Mirandópolis,35.64,Penápolis
+Osvaldo Cruz,142.58,São Bernardo do Campo
+Bastos,16.55,Pompéia
+Mirassol,66.2,Santa Rita d'Oeste
+Jundiaí,25.47,Limeira
+Osasco,86.6,Tabatinga
+São Paulo,84.08,Taguaí
+Guaraci,124.85,São Paulo
+Franca,91.75,Marília
+Bocaina,76.46,São Caetano do Sul
+Maracaí,112.17,Osasco
+Araraquara,25.5,Ribeirão Preto
+Capão Bonito,10.2,Taquarivaí
+Limeira,45.9,Ribeirão Preto
+Lins,12.75,Pirajuí
+Mogi Mirim,30.6,Taubaté
+Araçatuba,51.01,Ilha Solteira
+Penápolis,135.2,São Bernardo do Campo
+Araçatuba,99.51,Franca
+Guarantã,37.0,Jaboticabal
+Campinas,102.1,Guaraci
+Salto de Pirapora,37.02,São Paulo
+Rinópolis,134.05,São Paulo
+Osvaldo Cruz,99.6,Piracicaba
+Limeira,97.05,Magda
+Pereira Barreto,103.45,Ribeirão Preto
+Americana,63.86,Avaré
+Agudos,56.2,Americana
+Guzolândia,109.87,Limeira
+Cerquilho,66.5,Chavantes
+Borborema,39.65,São Carlos
+Paranapuã,162.45,São Paulo
+Capão Bonito,16.63,Itapeva
+São Paulo,148.4,Teodoro Sampaio
+Bálsamo,28.15,Estrela d'Oeste
+Santo André,69.1,São Carlos
+Campinas,107.5,Tupã
+Laranjal Paulista,19.2,Monte Mor
+Lins,122.94,São Bernardo do Campo
+Taquaritinga,76.84,Valparaíso
+Campinas,15.37,Limeira
+Bauru,44.83,Tupã
+Penápolis,28.18,Valparaíso
+Novo Horizonte,47.4,São Carlos
+Icém,20.5,Riolândia
+Americana,14.1,Rio Claro
+São Paulo,200.0,Ciudad del Este
+João Ramalho,121.8,São Paulo
+Assis,66.69,Itapetininga
+Olímpia,115.45,São Paulo
+Guarantã,48.75,Sertãozinho
+Barrinha,3.85,Sertãozinho
+Braúna,3.85,Coroados
+Flora Rica,3.85,Santo Expedito
+Indiana,3.85,Regente Feijó
+Monte Aprazível,53.9,Ribeirão Preto
+Santa Maria da Serra,15.4,São Manuel
+Rio Claro,46.2,Tabatinga
+Barretos,20.54,Miguelópolis
+Cubatão,19.0,Ribeirão Pires
+Assis,100.15,Itu
+Icém,6.42,Orindiúva
+Bauru,62.99,Presidente Prudente
+Itaí,19.29,Chavantes
+Araçatuba,141.46,São Caetano do Sul
+Panorama,154.34,São Paulo
+Campinas,146.65,Santa Fé do Sul
+Botucatu,30.89,Capivari
+Botucatu,30.89,Rafard
+Peruíbe,30.89,Registro
+Cosmorama,39.9,Turmalina
+Campinas,132.6,Flórida Paulista
+Campinas,92.7,Olímpia
+Cosmorama,10.3,Meridiano
+Santa Albertina,10.3,Turmalina
+Itápolis,47.65,Rio Claro
+Aparecida,74.72,Limeira
+Araçatuba,65.71,Taquaritinga
+Jaú,41.23,Marília
+Águas de São Pedro,38.68,Bauru
+Barra Bonita,104.45,São Vicente
+Americana,43.85,Santo André
+Bofete,12.9,Guareí
+Jaú,103.21,Santos
+Bebedouro,82.58,Jundiaí
+Santa Mercedes,162.6,Santo André
+Birigui,67.11,Jaboticabal
+Avaré,24.53,Chavantes
+Colina,108.45,São Paulo
+Tatuí,80.05,Vera Cruz
+Ouroeste,37.45,Santa Fé do Sul
+São Carlos,74.91,Taubaté
+Avaré,38.75,Cerquilho
+Fernandópolis,15.5,Santa Fé do Sul
+Campinas,69.76,Pindorama
+Araraquara,34.9,Monte Azul Paulista
+Mogi Guaçu,34.9,São Paulo
+Bálsamo,9.05,Votuporanga
+Agudos,113.9,Praia Grande
+Jaú,77.66,Mirandópolis
+Barra Bonita,23.3,Santa Maria da Serra
+Cananéia,11.65,Pariquera-Açu
+Avaré,75.08,Campinas
+São José do Rio Preto,37.55,Urânia
+Campinas,125.6,Inúbia Paulista
+Araraquara,38.85,Novo Horizonte
+Barretos,12.95,Colômbia
+Boituva,77.7,Vera Cruz
+Americana,88.1,Tanabi
+Araraquara,31.1,Borborema
+Queluz,35.0,São José dos Campos
+Botucatu,18.15,Conchas
+Iacri,124.48,São Paulo
+Assis,41.51,Pirapozinho
+Campinas,70.05,Catanduva
+Pirapozinho,153.1,Santo André
+Jaú,41.53,Limeira
+Araras,38.95,Ribeirão Preto
+São Paulo,38.95,Socorro
+Piracicaba,49.35,São Caetano do Sul
+Águas de São Pedro,59.75,Vera Cruz
+Araçatuba,59.75,Jaú
+Mirandópolis,85.75,Taquaritinga
+Bauru,16.9,Lins
+Águas de Lindóia,72.8,Santos
+Americana,39.0,São Manuel
+Areiópolis,10.4,Botucatu
+Auriflama,35.1,Mirassol
+Avaré,6.5,Itatinga
+Barretos,58.5,São Carlos
+Bebedouro,10.4,Severínia
+Botucatu,22.1,Porangaba
+Charqueada,3.9,Ipeúna
+General Salgado,35.1,Ilha Solteira
+Ibitinga,6.5,Tabatinga
+Ilha Solteira,37.7,Magda
+Limeira,83.2,Tanabi
+Mirassol,11.7,Votuporanga
+Mombuca,3.9,Rio das Pedras
+Monte Alto,6.5,Taquaritinga
+Porto Ferreira,6.5,Santa Rita do Passa Quatro
+São José do Rio Pardo,6.5,Tapiratiba
+Lençóis Paulista,101.41,Praia Grande
+Itapetininga,97.52,Presidente Prudente
+Rosana,182.04,São Paulo
+Borborema,113.15,São Bernardo do Campo
+Ilha Solteira,62.45,Mirassol
+Assis,82.0,São Carlos
+Boituva,40.35,São Manuel
+Piracicaba,72.91,Piraju
+Catanduva,117.2,São José dos Campos
+Penápolis,132.86,Santo André
+Iepê,127.68,Osasco
+Lindóia,80.8,Praia Grande
+Catanduva,37.8,São Carlos
+Aramina,112.1,São Paulo
+Sorocaba,15.65,Tatuí
+Mongaguá,86.1,Piracicaba
+Americana,134.38,Paranapuã
+Nazaré Paulista,13.05,Santa Isabel
+Atibaia,36.55,Taubaté
+Santa Fé do Sul,23.5,Turmalina
+Monte Aprazível,117.6,São Paulo
+Palmares Paulista,19.6,São José do Rio Preto
+Americana,86.25,Monte Aprazível
+Botucatu,62.75,São Caetano do Sul
+Borborema,17.0,Catanduva
+Bauru,24.85,São Manuel
+Paulicéia,154.34,São Paulo
+Guaíra,125.6,São Paulo
+Limeira,54.95,Taubaté
+Americana,96.85,Nhandeara
+Indaiatuba,142.71,Presidente Prudente
+Piracicaba,20.95,Santa Maria da Serra
+Campinas,68.1,Capão Bonito
+Osasco,47.15,Peruíbe
+Araraquara,39.3,Colina
+Fernandópolis,24.89,Mirassol
+Iguape,13.1,Pariquera-Açu
+Lençóis Paulista,31.44,Vera Cruz
+Orindiúva,5.24,Paulo de Faria
+Adamantina,103.5,Piracicaba
+Campinas,117.93,Ouroeste
+Americana,76.0,Mirassol
+Lorena,18.35,Taubaté
+Lins,120.6,Santo André
+Barretos,23.6,Jaboticabal
+Limeira,56.42,São José dos Campos
+Praia Grande,93.18,São Carlos
+Aguaí,10.5,Casa Branca
+Araraquara,15.75,Monte Alto
+Boituva,31.5,Capão Bonito
+Cafelândia,10.5,Júlio Mesquita
+Campinas,94.5,Igarapava
+Campinas,21.0,Piracicaba
+Campos Novos Paulista,5.25,Ocauçu
+Ourinhos,15.75,Piraju
+Jundiaí,9.19,Valinhos
+Campinas,141.8,Santa Rita d'Oeste
+Osasco,52.55,Piracicaba
+São Paulo,36.79,Taubaté
+Garça,55.2,São Pedro
+Amparo,39.44,São Paulo
+Praia Grande,76.26,Serra Negra
+Santa Rosa de Viterbo,82.84,São Paulo
+Bebedouro,69.7,Osvaldo Cruz
+Campinas,47.35,Descalvado
+Álvares Machado,36.83,Assis
+Ribeirão Preto,51.3,Rio Claro
+Dourado,14.47,Jaú
+Capão Bonito,56.83,São Vicente
+Itararé,78.95,São Paulo
+Itaberá,13.16,Itaporanga
+General Salgado,101.35,Limeira
+Aparecida,151.4,São José do Rio Preto
+Leme,23.7,Luís Antônio
+Ipaussu,89.54,Santa Bárbara d'Oeste
+Bauru,42.15,Taquaritinga
+Palestina,113.29,São Paulo
+Americana,134.38,Santa Albertina
+São José do Rio Preto,22.4,Valentim Gentil
+Herculândia,115.98,São Paulo
+Jaboticabal,58.02,Penápolis
+Campinas,139.8,Pacaembu
+Aparecida,104.2,São Carlos
+Ilha Comprida,40.89,Juquitiba
+Piquete,27.7,São José dos Campos
+Assis,95.0,Franca
+Adamantina,66.0,Bauru
+Barrinha,46.2,São José do Rio Preto
+Mirante do Paranapanema,11.88,Teodoro Sampaio
+Igarapava,116.17,São Paulo
+Brotas,39.63,Campinas
+Caçapava,25.1,Mogi das Cruzes
+Areiópolis,9.25,Borebi
+Borborema,111.0,Santo André
+Rio Claro,107.05,Urânia
+Andradina,120.31,Rio Claro
+Guaratinguetá,23.8,São José do Barreiro
+Barretos,100.5,Jundiaí
+Birigui,29.1,Cafelândia
+São Carlos,29.1,Taquaritinga
+Nhandeara,124.35,São Paulo
+São Paulo,71.45,Taquarivaí
+Sorocaba,95.3,Vera Cruz
+Adamantina,64.9,Ourinhos
+Santo André,129.82,Tupã
+Capão Bonito,67.56,Santo André
+Dolcinópolis,7.95,Santa Albertina
+Jundiaí,26.5,Sorocaba
+Santa Fé do Sul,7.95,Urânia
+Santo André,156.49,Tupi Paulista
+Campinas,126.0,Osvaldo Cruz
+Osasco,79.59,Ribeirão Preto
+Americana,110.11,Riolândia
+Araraquara,68.99,Fernandópolis
+Bernardino de Campos,14.6,Itaí
+Morungaba,29.2,São Paulo
+São Pedro,59.75,Vera Cruz
+Tanabi,11.95,Valentim Gentil
+Águas de São Pedro,55.77,Garça
+Cosmorama,21.25,Jales
+Ribeirão Preto,77.05,Votuporanga
+Tanabi,27.9,Urânia
+Mongaguá,99.65,São Carlos
+Pinhalzinho,31.9,São Paulo
+Ituverava,13.3,São José da Bela Vista
+São Paulo,50.55,São Pedro
+Junqueirópolis,143.68,São Paulo
+Lucélia,62.55,Ourinhos
+Jacareí,21.3,São Paulo
+Nhandeara,31.95,Olímpia
+Barretos,34.62,Franca
+Campinas,39.95,Guarulhos
+Americana,122.55,Indiaporã
+Americana,122.55,Mira Estrela
+Barbosa,18.65,Clementina
+Piraju,79.93,Santa Bárbara d'Oeste
+Assis,143.93,Taubaté
+Piracicaba,53.32,São José dos Campos
+Catanduva,4.0,Santa Adélia
+Cosmorama,4.0,Tanabi
+Dolcinópolis,20.0,Mira Estrela
+Americana,92.05,Pompéia
+Porto Ferreira,58.7,São Paulo
+Birigui,37.36,Pirajuí
+Pederneiras,40.03,Rio Claro
+Rio Claro,64.06,São José dos Campos
+Mirassol,52.05,Pereira Barreto
+Junqueirópolis,152.24,Santo André
+Flórida Paulista,157.6,Santo André
+Barrinha,37.4,Iacanga
+Mirassol,61.5,Santa Albertina
+Capão Bonito,52.15,Salto
+Quatá,10.7,Tupã
+Nova Odessa,37.45,São Caetano do Sul
+Ouroeste,147.14,São Paulo
+Campinas,141.8,Santa Albertina
+Campinas,61.55,Nova Europa
+Araraquara,37.48,Piracicaba
+Boituva,12.05,Jumirim
+Ilha Solteira,40.17,Valparaíso
+Aparecida,116.5,Araraquara
+Jales,93.75,Ribeirão Preto
+Jaú,64.29,Jundiaí
+Bálsamo,24.12,Fernandópolis
+Bauru,13.4,Duartina
+Bernardino de Campos,22.78,Paranapanema
+Garça,34.84,Jaú
+Americana,127.38,Urânia
+Barretos,124.7,São Bernardo do Campo
+Adamantina,132.8,Campinas
+Agudos,42.93,Piracicaba
+Ilha Solteira,132.84,Rio Claro
+Piracicaba,83.2,Praia Grande
+Borborema,25.5,Jaboticabal
+Ilha Solteira,114.15,Ribeirão Preto
+Ribeirão Preto,10.75,São Simão
+Americana,134.38,Dolcinópolis
+Jaboticabal,33.6,São Carlos
+Americana,59.15,Ribeirão Preto
+Paraibuna,24.2,São Sebastião
+Barra Bonita,99.51,Santos
+Campinas,102.2,Pompéia
+Araraquara,26.9,Rio Claro
+Barbosa,13.45,Braúna
+Pirassununga,53.8,São Paulo
+São Paulo,67.25,Tambaú
+Araraquara,41.7,Severínia
+Osvaldo Cruz,57.85,Ourinhos
+Jundiaí,74.0,Pindorama
+Penápolis,130.52,São Caetano do Sul
+Araçatuba,57.87,Itápolis
+Bariri,80.75,São Paulo
+Botucatu,68.65,Santo André
+Agudos,53.85,Santa Bárbara d'Oeste
+Bauru,59.25,Limeira
+Avaré,40.4,Tietê
+Guarantã,66.0,Rio Claro
+Assis,40.41,Santo Anastácio
+Rancharia,133.38,Santo André
+Araçatuba,145.58,Santos
+Lençóis Paulista,97.06,São Vicente
+Bauru,35.05,Promissão
+Analândia,21.57,Piracicaba
+Lindóia,72.8,Santos
+Piracicaba,78.2,Pompéia
+Limeira,91.7,Nhandeara
+Pompéia,129.5,Santo André
+Bebedouro,103.87,São Paulo
+Andradina,90.39,Itápolis
+Campinas,113.33,Paulo de Faria
+Irapuru,164.6,Santo André
+Cafelândia,18.89,Penápolis
+Itápolis,78.29,Mirandópolis
+Assis,4.05,Tarumã
+Cachoeira Paulista,8.1,Guaratinguetá
+Cachoeira Paulista,32.4,São José dos Campos
+Conchas,4.05,Pereiras
+Bastos,2.7,Iacri
+Bebedouro,5.4,Monte Azul Paulista
+Caçapava,13.5,Roseira
+Cajati,10.8,Registro
+Campos do Jordão,24.3,São José dos Campos
+Ribeirão Preto,29.7,São Carlos
+São Paulo,22.95,Valinhos
+São Paulo,104.0,Votuporanga
+João Ramalho,117.55,Osasco
+Getulina,113.5,São Paulo
+Bocaina,74.33,São Paulo
+São Paulo,35.14,Tremembé
+Garça,27.04,Pederneiras
+Quatá,124.41,Santo André
+Araraquara,67.62,Estrela d'Oeste
+Araraquara,23.0,Descalvado
+Jundiaí,158.3,Santa Fé do Sul
+Pacaembu,162.45,Santo André
+Dourado,81.25,São Bernardo do Campo
+Quintana,113.77,São Paulo
+Limeira,81.3,Monte Aprazível
+Aguaí,27.11,Tapiratiba
+Itobi,24.4,Mogi Guaçu
+Araraquara,10.85,Matão
+Araras,21.7,Campinas
+Andradina,147.85,Campinas
+Campinas,73.25,Ibitinga
+Martinópolis,147.86,Santo André
+Taquaritinga,29.86,Uchoa
+Santa Rita do Passa Quatro,65.15,São Paulo
+Assis,73.3,Sertãozinho
+Araçatuba,115.4,Campinas
+Cândido Mota,35.3,Iepê
+Jales,17.65,Votuporanga
+Campinas,157.5,Ilha Solteira
+Colina,95.05,Jundiaí
+José Bonifácio,114.07,São Paulo
+Santos,40.75,São Roque
+Campinas,65.24,Lorena
+Lins,118.28,São Caetano do Sul
+São Bernardo do Campo,138.75,Tanabi
+Dourado,78.9,Santo André
+Monte Alto,32.65,São Carlos
+Fernandópolis,159.18,São Bernardo do Campo
+Mirandópolis,111.58,Ribeirão Preto
+Rancharia,73.5,Taquaritinga
+Catanduva,65.34,Piracicaba
+Iaras,43.57,Paraguaçu Paulista
+Capão Bonito,46.3,Itu
+Caçapava,32.7,São Paulo
+Cerqueira César,5.45,Manduri
+Iacanga,5.45,Reginópolis
+Mairiporã,21.8,Pinhalzinho
+Salto,32.7,São Paulo
+Santa Ernestina,5.45,Taquaritinga
+São José do Rio Preto,5.45,Uchoa
+Itápolis,70.86,Valparaíso
+Euclides da Cunha Paulista,171.76,São Paulo
+Guaraci,12.27,Icém
+Santos,68.17,Serra Negra
+Campinas,141.8,Paranapuã
+Bauru,50.46,Maracaí
+Birigui,84.56,Ribeirão Preto
+Americana,24.55,Cerquilho
+Águas de São Pedro,25.92,Lençóis Paulista
+Itapeva,51.85,Sorocaba
+Piracicaba,118.71,Presidente Prudente
+Jundiaí,60.05,Matão
+Campinas,135.21,Mirandópolis
+Santa Bárbara d'Oeste,42.35,São Caetano do Sul
+Araraquara,82.0,Urânia
+Avaré,65.6,Santa Bárbara d'Oeste
+Catanduva,90.2,Presidente Prudente
+Luís Antônio,4.1,São Simão
+Orlândia,4.1,Sales Oliveira
+Santa Bárbara d'Oeste,16.4,São Pedro
+Piraju,12.3,Chavantes
+Marília,114.82,São Bernardo do Campo
+Matão,39.65,Rio Claro
+Guará,103.95,São Paulo
+Santa Mercedes,155.95,São Paulo
+Franca,90.3,São Paulo
+Jaú,73.9,São Paulo
+Paranapanema,36.95,Sorocaba
+Limeira,120.43,Mirandópolis
+Itápolis,10.95,Taquaritinga
+Três Fronteiras,6.85,Urânia
+Atibaia,41.1,Mogi das Cruzes
+Jundiaí,108.25,Mirassol
+Itapeva,46.6,Tatuí
+Itanhaém,41.15,Osasco
+Assis,139.93,São José dos Campos
+Bauru,64.5,Lucélia
+Campinas,134.5,Urânia
+Bauru,127.65,Praia Grande
+Birigui,52.16,Itápolis
+Ourinhos,43.93,Presidente Prudente
+Jundiaí,32.95,Piracicaba
+Ourinhos,102.97,Santos
+Orindiúva,21.97,São José do Rio Preto
+Araras,26.1,Descalvado
+Santa Fé do Sul,164.85,São Paulo
+Campinas,118.15,Magda
+Bebedouro,24.73,Guaíra
+São Caetano do Sul,65.95,São Carlos
+Bebedouro,6.87,Colina
+Aparecida,16.5,Caçapava
+Fartura,5.5,Taguaí
+Herculândia,19.25,Lucélia
+Itapetininga,16.5,Sorocaba
+Jaboticabal,19.25,Santa Adélia
+Palmares Paulista,2.75,Paraíso
+Queluz,19.25,Taubaté
+Rio Claro,66.0,Santos
+Ituverava,108.65,São Paulo
+Itápolis,61.9,Parapuã
+Limeira,75.72,Mirassol
+Araraquara,60.6,Cosmorama
+Ibitinga,24.8,Jaboticabal
+Amparo,71.65,Praia Grande
+Campinas,66.2,Tabatinga
+Caraguatatuba,16.55,Ubatuba
+Nova Europa,82.78,São Paulo
+Campinas,132.45,Guzolândia
+Ibitinga,6.9,Itaju
+São Paulo,75.9,São Simão
+Tanabi,6.9,Votuporanga
+General Salgado,24.85,Neves Paulista
+Bocaina,62.15,Jundiaí
+Altinópolis,11.05,Cajuru
+Santa Rita do Passa Quatro,11.05,São Simão
+Guarujá,37.3,Suzano
+Campinas,82.91,Ituverava
+Birigui,63.57,Taquaritinga
+Ribeirão Preto,105.07,Valparaíso
+Descalvado,33.2,Matão
+Paraíso,4.15,Pirangi
+Pereiras,41.5,São Paulo
+São Paulo,91.3,Tabatinga
+Americana,120.37,Estrela d'Oeste
+Mirassol,59.5,Ribeirão Preto
+Adamantina,157.75,Santo André
+Cerquilho,35.99,São Paulo
+Araras,11.08,Rio Claro
+Presidente Prudente,126.05,Ribeirão Preto
+Bauru,37.4,Piraju
+Santos,66.49,Taubaté
+Americana,134.38,Turmalina
+Jales,109.45,Rio Claro
+Andradina,126.15,Ribeirão Preto
+Assis,49.92,Presidente Venceslau
+Campinas,95.7,Lins
+Jales,37.45,São José do Rio Preto
+Jaú,41.63,Lins
+Ilha Solteira,62.45,São José do Rio Preto
+São Paulo,58.3,São Sebastião
+Lençóis Paulista,8.33,São Manuel
+Araraquara,113.85,Mongaguá
+Descalvado,69.45,São Paulo
+Campinas,83.35,Colina
+São Paulo,150.09,Tupi Paulista
+Piquete,52.81,São Paulo
+Auriflama,107.01,Rio Claro
+Barra Bonita,68.1,São Paulo
+São Paulo,80.61,Chavantes
+Campinas,141.8,Dolcinópolis
+Ourinhos,43.11,Tupã
+Águas de Lindóia,75.1,São Vicente
+Araçatuba,93.19,Rio Claro
+São Bernardo do Campo,153.0,Votuporanga
+Gavião Peixoto,77.92,São Paulo
+Guarulhos,33.4,Santos
+Bauru,59.85,Osvaldo Cruz
+Andradina,34.81,Birigui
+Olímpia,66.84,Pereira Barreto
+Sertãozinho,27.85,Severínia
+Lins,71.03,Rio Claro
+Caraguatatuba,19.5,Salesópolis
+Franca,39.0,Jaboticabal
+Mirandópolis,112.89,Rio Claro
+Ibitinga,90.6,Osasco
+Borebi,13.95,São Manuel
+Araraquara,29.3,Catanduva
+Botucatu,15.35,Igaraçu do Tietê
+Ouroeste,15.35,Paranapuã
+Mira Estrela,157.75,São Paulo
+Descalvado,18.15,Leme
+Araraquara,19.55,Tabatinga
+Ipaussu,67.03,Piracicaba
+Juquitiba,16.77,Miracatu
+Iguape,58.7,São Paulo
+Jaboticabal,44.73,Lins
+Andradina,47.53,Penápolis
+Assis,5.6,Maracaí
+Paranapuã,5.6,Santa Albertina
+Americana,105.0,Paulo de Faria
+Artur Nogueira,4.2,Cosmópolis
+Bofete,21.0,Itapetininga
+Caraguatatuba,42.0,Taubaté
+Itapeva,14.0,Itararé
+Jundiaí,120.4,Tanabi
+Luís Antônio,14.0,Santa Rita do Passa Quatro
+Fernandópolis,123.28,Jundiaí
+Santa Bárbara d'Oeste,36.45,São Manuel
+Auriflama,50.47,Olímpia
+Juquiá,33.65,Sorocaba
+General Salgado,28.05,Mirassol
+Barretos,113.61,Santos
+Rio Claro,75.75,Taubaté
+Pereira Barreto,134.67,São Paulo
+Andradina,12.63,Mirandópolis
+São Paulo,84.2,Taquaritinga
+São Joaquim da Barra,99.68,São Paulo
+Osasco,33.71,São Vicente
+Meridiano,14.05,Tanabi
+Mirassol,136.3,São Bernardo do Campo
+Ourinhos,137.71,Taubaté
+Agudos,25.3,Garça
+Osasco,179.94,Rosana
+Iacanga,23.9,Taquaritinga
+Bariri,11.25,Ibitinga
+Marília,150.5,Praia Grande
+Osasco,146.3,Teodoro Sampaio
+Bastos,126.62,São Paulo
+Jundiaí,50.67,São Vicente
+Campinas,50.7,Mococa
+Novo Horizonte,101.4,São Paulo
+Birigui,143.66,Santos
+Dracena,160.6,Santo André
+Jundiaí,128.2,Votuporanga
+Americana,36.65,Araraquara
+Sorocaba,86.0,Taubaté
+Ilha Comprida,14.1,Pariquera-Açu
+Andradina,143.83,São Paulo
+Americana,115.67,General Salgado
+Campinas,90.3,Franca
+Paraguaçu Paulista,119.94,Santo André
+Capivari,12.7,Laranjal Paulista
+Laranjal Paulista,12.7,Rafard
+Botucatu,64.95,São Bernardo do Campo
+Campinas,69.2,Itapeva
+Indiaporã,162.45,São Paulo
+Fernandópolis,156.83,Santo André
+Mirante do Paranapanema,156.84,Santo André
+Itapeva,78.0,São Paulo
+São Paulo,32.51,Votorantim
+Mococa,76.35,São Paulo
+Estrela d'Oeste,141.4,Jundiaí
+Andradina,48.09,Presidente Prudente
+Americana,73.55,Catanduva
+Americana,73.55,Mongaguá
+Franca,46.7,Olímpia
+Campinas,48.12,Dourado
+Santa Cruz das Palmeiras,65.15,São Paulo
+Nova Granada,113.31,São Paulo
+Assis,102.0,Campinas
+Campinas,110.5,Orindiúva
+Cosmorama,4.25,Votuporanga
+Itupeva,17.0,São Paulo
+Narandiba,4.25,Pirapozinho
+Narandiba,4.25,Tarabai
+Pereira Barreto,126.1,Rio Claro
+Guzolândia,111.95,Rio Claro
+Mira Estrela,19.84,Votuporanga
+General Salgado,102.04,Rio Claro
+Dourado,76.57,São Caetano do Sul
+Capão Bonito,65.25,Indaiatuba
+São José dos Campos,11.35,Taubaté
+Poloni,83.71,Rio Claro
+Itápolis,85.2,Presidente Prudente
+Americana,125.02,Guzolândia
+São José do Rio Preto,152.05,Taubaté
+Americana,139.35,Pereira Barreto
+Campinas,147.92,Presidente Prudente
+Cardoso,150.8,São Paulo
+Limeira,42.68,Osasco
+Bofete,51.25,São Paulo
+Barretos,113.9,São Pedro
+Cândido Mota,102.55,Osasco
+Floreal,95.43,Rio Claro
+Agudos,25.65,Botucatu
+Cubatão,28.5,Suzano
+Monte Azul Paulista,28.5,Ribeirão Preto
+Sorocaba,39.9,Taquarivaí
+Jundiaí,151.05,Urânia
+Assis,121.14,Indaiatuba
+São Paulo,19.96,Sorocaba
+Americana,81.3,Itanhaém
+Bauru,47.08,Penápolis
+Dolcinópolis,177.0,São Paulo
+Pederneiras,81.37,São Paulo
+Presidente Prudente,148.5,Santo André
+Cândido Mota,102.85,São Paulo
+Americana,108.65,Floreal
+Americana,115.8,Cardoso
+São Paulo,120.1,Tanabi
+Osasco,132.98,Santo Anastácio
+Cerquilho,14.3,Saltinho
+General Salgado,45.78,Olímpia
+Jaú,34.34,Rio Claro
+Dourado,15.74,São Carlos
+Piracicaba,77.27,São José do Rio Preto
+Águas de Lindóia,85.86,Mongaguá
+Botucatu,45.8,Campinas
+Jales,11.45,Santa Fé do Sul
+Martinópolis,143.14,São Paulo
+Itápolis,17.18,Jaboticabal
+Areiópolis,67.3,São Paulo
+Avaré,34.37,Santa Cruz do Rio Pardo
+Campinas,141.8,Turmalina
+Caiuá,160.49,São Paulo
+São José do Rio Preto,143.3,São José dos Campos
+Itirapina,60.19,São Paulo
+Engenheiro Coelho,43.0,São Paulo
+Penápolis,54.47,Taquaritinga
+Piracicaba,88.9,Tupã
+Cardoso,32.7,São José do Rio Preto
+Campinas,111.87,Fernandópolis
+Ribeirão Bonito,78.9,São Bernardo do Campo
+Rancharia,129.12,São Paulo
+Borborema,94.7,São Paulo
+Estrela d'Oeste,86.11,São Carlos
+Campinas,94.75,Tanabi
+Campinas,125.05,General Salgado
+Fernandópolis,17.25,Tanabi
+Campinas,146.65,Pereira Barreto
+Aparecida,60.4,Campinas
+Araraquara,48.9,Campinas
+Cafelândia,25.92,Itápolis
+Campinas,14.4,Salto
+Ibitinga,49.0,Rio Claro
+Marília,135.5,Santos
+Americana,137.0,Santa Fé do Sul
+Americana,85.1,Nova Granada
+Barrinha,10.1,Ribeirão Preto
+Amparo,63.49,Santos
+Agudos,31.75,Marília
+Itápolis,86.6,São Paulo
+Estrela d'Oeste,4.33,Jales
+Auriflama,153.0,São Paulo
+Bastos,24.55,Marília
+Auriflama,130.0,Campinas
+Garça,69.35,Rio Claro
+Campinas,43.35,Jacareí
+Santo André,138.75,Tanabi
+Itapura,161.96,São Paulo
+Presidente Prudente,164.88,Santos
+Catanduva,23.15,Matão
+Pirangi,26.05,São José do Rio Preto
+Santos,86.85,São Carlos
+Fernandópolis,83.96,São Carlos
+Quatá,120.16,São Paulo
+Leme,34.75,Ribeirão Preto
+Itanhaém,78.2,Nova Odessa
+Araraquara,42.0,Guarantã
+Santo André,150.65,Votuporanga
+Fernandópolis,130.42,Osasco
+Piracicaba,28.99,São Carlos
+Lorena,8.7,Roseira
+Pederneiras,113.1,São Vicente
+Praia Grande,113.1,Ribeirão Preto
+São Bernardo do Campo,69.6,São Manuel
+Jacupiranga,20.3,Miracatu
+Miracatu,20.3,Pariquera-Açu
+Bauru,114.6,Santos
+Murutinga do Sul,158.19,São Paulo
+Catanduva,37.75,Júlio Mesquita
+Auriflama,30.5,Ilha Solteira
+Mirante do Paranapanema,152.54,São Paulo
+Jundiaí,43.6,Santos
+São Paulo,174.4,Turmalina
+Cubatão,18.9,Santo André
+Luís Antônio,75.6,São Paulo
+General Salgado,148.3,São Paulo
+Penápolis,14.54,Santópolis do Aguapeí
+Lucélia,148.4,São Paulo
+Bertioga,29.1,Santos
+Regente Feijó,158.61,Santos
+Cosmorama,49.5,Santa Albertina
+Campinas,83.03,Iaras
+São Joaquim da Barra,8.74,São José da Bela Vista
+Olímpia,14.57,São José do Rio Preto
+Analândia,18.95,Araraquara
+Araraquara,102.04,Praia Grande
+Atibaia,17.5,Igaratá
+Floreal,140.0,São Paulo
+Marília,70.0,São Carlos
+Pindamonhangaba,35.0,Ubatuba
+Inúbia Paulista,145.9,São Paulo
+Campinas,89.0,Urupês
+São José dos Campos,23.35,Suzano
+Osasco,52.55,Rio Claro
+Oriente,30.66,Ourinhos
+Lençóis Paulista,94.91,Santos
+Agudos,113.9,São Vicente
+Barretos,113.9,São Paulo
+Americana,99.31,Poloni
+Assis,119.77,Santo André
+Magda,146.1,São Paulo
+Garça,52.6,Irapuru
+Penápolis,78.93,Ribeirão Preto
+Ourinhos,81.86,São Paulo
+Jaboticabal,78.95,Jundiaí
+Borborema,42.4,Ribeirão Preto
+São Paulo,71.65,Ubatuba
+Jales,35.1,Mirassol
+Capão Bonito,17.26,Itapetininga
+Parapuã,128.72,São Paulo
+Morungaba,64.37,Praia Grande
+Americana,149.25,Ilha Solteira
+Franca,49.75,Taquaritinga
+Garça,55.61,Presidente Prudente
+Birigui,130.31,São Paulo
+Casa Branca,20.5,Mogi Guaçu
+Jales,169.95,São Bernardo do Campo
+Batatais,76.19,Campinas
+Bocaina,24.91,São Carlos
+Lençóis Paulista,70.39,São Paulo
+Cordeirópolis,4.4,Limeira
+Cordeirópolis,4.4,Rio Claro
+Guarantã,4.4,Pirajuí
+Palmares Paulista,13.2,Uchoa
+Aguaí,51.35,São Paulo
+Mogi das Cruzes,29.35,Taubaté
+Araçariguama,11.75,Sorocaba
+Auriflama,17.65,Pereira Barreto
+Mira Estrela,17.65,Turmalina
+Ibitinga,39.75,Marília
+Ribeirão Bonito,76.57,Santo André
+Mirassol,134.0,Santo André
+Bauru,55.96,Ribeirão Preto
+Martinópolis,138.48,Osasco
+Bauru,28.0,Ipaussu
+Magda,28.0,Pereira Barreto
+Batatais,82.53,São Paulo
+Jacareí,49.84,São Vicente
+Americana,20.65,Jundiaí
+Jundiaí,17.7,Nova Odessa
+Bernardino de Campos,5.9,Ipaussu
+Cabrália Paulista,5.9,Piratininga
+Coronel Macedo,2.95,Taquarituba
+Floreal,5.9,General Salgado
+Guararapes,129.82,São Paulo
+Promissão,120.99,São Paulo
+Flórida Paulista,150.55,São Paulo
+Bauru,97.45,Santo André
+Iaras,60.55,Piracicaba
+São Paulo,165.43,Urânia
+Ourinhos,35.46,Pompéia
+Penápolis,138.91,Santos
+Santo André,124.15,São José do Rio Preto
+Americana,104.95,Orindiúva
+Taquaritinga,62.1,Tupã
+Fernandópolis,100.55,Limeira
+Piracicaba,11.83,Rio Claro
+Campinas,17.75,Cordeirópolis
+Campinas,71.0,Itaberá
+Cotia,35.5,Itapetininga
+Mogi Mirim,35.5,São Paulo
+Echaporã,42.91,Presidente Prudente
+Estrela d'Oeste,93.25,Limeira
+Botucatu,106.6,Praia Grande
+Bauru,40.0,São Pedro
+Itapetininga,80.0,São José dos Campos
+Cosmorama,136.45,São Paulo
+Americana,62.35,Bauru
+Birigui,126.2,Osasco
+Casa Branca,63.85,São Paulo
+Lins,44.55,Ourinhos
+Guzolândia,160.4,São Paulo
+Guaratinguetá,41.6,São Paulo
+Mongaguá,72.8,Nova Odessa
+Osasco,124.81,Rancharia
+Osvaldo Cruz,153.05,Santo André
+Cruzeiro,59.45,São Paulo
+Irapuru,157.6,São Paulo
+Araçatuba,38.66,São José do Rio Preto
+Euclides da Cunha Paulista,169.56,Osasco
+Descalvado,5.95,Porto Ferreira
+Porto Ferreira,17.85,São Carlos
+Campinas,80.35,Guará
+Bertioga,29.76,São Paulo
+Fartura,102.68,São Paulo
+Inúbia Paulista,145.9,Osasco
+Cananéia,68.5,Taboão da Serra
+Araraquara,101.28,Santos
+Santos,28.3,Suzano
+Santos,49.16,Sorocaba
+Lavínia,2.98,Mirandópolis
+Sarapuí,14.9,Sorocaba
+São Carlos,84.95,São José dos Campos
+Orlândia,95.41,São Paulo
+Piraju,65.6,Presidente Prudente
+Campinas,62.65,Sertãozinho
+Praia Grande,138.75,São José do Rio Preto
+Bauru,125.35,São Vicente
+Piquerobi,152.25,São Paulo
+Bauru,71.65,Campinas
+Poloni,137.33,São Paulo
+Iguape,41.8,Juquitiba
+Americana,74.65,Iaras
+Palmital,103.03,São Paulo
+Piracicaba,23.9,Salto
+Paraguaçu Paulista,113.53,São Paulo
+Conchas,53.8,São Paulo
+Igaraçu do Tietê,70.25,São Paulo
+Osasco,162.95,Santa Fé do Sul
+Águas de São Pedro,34.39,Agudos
+Campinas,62.8,Guaratinguetá
+Araçatuba,134.69,Osasco
+Atibaia,23.95,Jacareí
+Araraquara,86.85,Jales
+Limeira,80.9,Lins
+Campinas,35.96,Itirapina
+Araraquara,50.95,Tanabi
+Araraquara,98.95,Santa Fé do Sul
+Adamantina,3.0,Lucélia
+Águas de Lindóia,3.0,Lindóia
+Ariranha,84.0,São Paulo
+Braúna,3.0,Clementina
+Capão Bonito,63.0,São Paulo
+Catanduva,126.0,Taubaté
+Clementina,3.0,Santópolis do Aguapeí
+Dirce Reis,6.0,Jales
+Dobrada,3.0,Santa Ernestina
+Dolcinópolis,16.5,Indiaporã
+Dourado,58.5,Jundiaí
+Gabriel Monteiro,3.0,Piacatu
+Pederneiras,111.0,Santos
+Santa Adélia,13.5,Vista Alegre do Alto
+Campinas,132.15,Indiaporã
+Lindóia,75.1,São Vicente
+Mongaguá,66.1,Morungaba
+Meridiano,25.55,São José do Rio Preto
+Caçapava,36.1,Caraguatatuba
+Penápolis,30.09,Pirajuí
+Bálsamo,16.55,Valentim Gentil
+Murutinga do Sul,16.55,Valparaíso
+Osasco,123.43,Tupã
+Capivari,36.14,São Paulo
+Paraibuna,33.14,São Paulo
+Boituva,40.7,Santo André
+Campinas,116.13,Estrela d'Oeste
+Campinas,108.6,Cosmorama
+Marília,67.9,Piracicaba
+Aparecida,24.15,São José dos Campos
+Borborema,7.55,Itápolis
+Campinas,45.3,São José dos Campos
+Itu,30.2,São Paulo
+Piracicaba,72.5,Santos
+Itatiba,63.45,Mongaguá
+Castilho,163.18,São Paulo
+Mongaguá,39.3,Osasco
+Águas de São Pedro,48.4,São Paulo
+Nova Odessa,65.1,Praia Grande
+Presidente Prudente,119.61,Tietê
+Marília,122.65,Santo André
+Nhandeara,84.8,Rio Claro
+Dourado,74.23,São Paulo
+Ibaté,69.69,São Paulo
+Mirassol,118.17,São Paulo
+Presidente Epitácio,150.0,São Paulo
+Americana,54.55,São José dos Campos
+São Paulo,95.5,Sarutaiá
+Itapetininga,45.5,São Paulo
+Nova Europa,81.9,Osasco
+Capivari,18.22,Sorocaba
+Bragança Paulista,24.3,São Paulo
+Registro,48.6,Taboão da Serra
+Saltinho,12.15,Tietê
+Águas de Santa Bárbara,78.98,São Paulo
+São Caetano do Sul,121.53,São José do Rio Preto
+Limeira,92.76,Votuporanga
+Avanhandava,123.33,São Paulo
+Catanduva,126.4,Praia Grande
+Ibitinga,42.65,Ribeirão Preto
+São Paulo,123.43,Tupã
+Pirassununga,73.15,São José do Rio Preto
+Juquitiba,30.49,Registro
+Cajati,61.0,Taboão da Serra
+Osasco,27.45,Sorocaba
+Gália,103.75,São Paulo
+São Carlos,64.1,Tanabi
+Lins,128.26,Santos
+Bauru,27.5,Itápolis
+Bertioga,27.5,Suzano
+Fernandópolis,87.11,Sumaré
+Pindorama,36.71,São Carlos
+Osasco,117.78,Quatá
+Agudos,110.15,Santos
+Lucélia,148.4,Osasco
+Mogi Mirim,19.89,São João da Boa Vista
+Pacaembu,159.16,São Paulo
+Guaraçaí,159.22,São Paulo
+Barretos,13.78,Bebedouro
+Buritizal,9.19,Pedregulho
+Americana,70.5,Praia Grande
+Jundiaí,105.77,Urupês
+São Paulo,29.15,Sumaré
+Penápolis,125.82,São Paulo
+Guaimbê,116.69,São Paulo
+Piraju,55.3,Tietê
+Campinas,132.15,Mira Estrela
+Americana,41.5,Osasco
+Araraquara,24.6,Itápolis
+Jales,167.6,Santo André
+Itápolis,46.14,Penápolis
+Americana,78.45,Aparecida
+Adamantina,150.75,Osasco
+Adamantina,150.75,São Paulo
+Mirandópolis,150.79,São Paulo
+Garça,129.25,Santos
+Lins,64.63,Ribeirão Preto
+Cruzeiro,27.7,Taubaté
+Bernardino de Campos,83.11,São Paulo
+Ipaussu,83.11,São Paulo
+Ilha Solteira,177.09,São Paulo
+Catanduva,15.4,São José do Rio Preto
+Pirapozinho,154.0,São Paulo
+Lindóia,86.33,Mongaguá
+Promissão,27.75,São José do Rio Preto
+Osasco,163.43,Presidente Epitácio
+Bauru,64.8,São José do Rio Preto
+Estrela d'Oeste,138.93,São Paulo
+Indaiatuba,30.89,São Paulo
+Campinas,125.15,Cardoso
+Jales,153.0,Osasco
+Borborema,18.55,Taquaritinga
+Santa Fé do Sul,117.5,São Carlos
+Bragança Paulista,20.1,Campinas
+Ribeirão Bonito,74.23,São Caetano do Sul
+Araraquara,63.5,Marília
+Franca,102.25,Tupã
+Aguaí,9.3,Mogi Guaçu
+Botucatu,102.3,São Vicente
+Brotas,18.6,Rio Claro
+Cosmorama,77.5,São Carlos
+Monte Aprazível,74.4,Rio Claro
+Campinas,38.78,Casa Branca
+Eldorado,43.45,Juquitiba
+São José do Rio Preto,32.6,Vista Alegre do Alto
+Araraquara,69.95,Osasco
+Jales,101.05,São Carlos
+Santa Bárbara d'Oeste,65.3,Santos
+Ibirarema,104.17,São Paulo
+São Carlos,63.75,São Paulo
+Jales,155.55,São Paulo
+Capão Bonito,28.0,Itaberá
+Ibirá,101.12,Jundiaí
+Sertãozinho,18.7,Taquaritinga
+Campinas,43.65,Ribeirão Bonito
+Araçatuba,134.11,São Paulo
+Pedregulho,113.85,São Paulo
+Americana,37.45,São Caetano do Sul
+Santa Bárbara d'Oeste,37.45,São Paulo
+Ibaté,37.48,Piracicaba
+Lençóis Paulista,24.99,São Pedro
+Álvares Florence,6.25,Américo de Campos
+Dolcinópolis,6.25,Vitória Brasil
+Iguape,62.5,Taboão da Serra
+Jales,6.25,Vitória Brasil
+Mesópolis,6.25,Populina
+Fernandópolis,100.06,Rio Claro
+Mongaguá,81.35,Serra Negra
+Itirapina,46.95,Jundiaí
+Guarantã,108.01,São Paulo
+Brasília,231.68,Pedro Juan Caballero
+Cosmorama,126.8,Osasco
+Morungaba,56.36,Santos
+Santa Adélia,83.0,São Paulo
+Mirante do Paranapanema,150.38,Osasco
+Araraquara,14.1,Nova Europa
+Itatiba,59.63,Praia Grande
+Campinas,28.25,Sorocaba
+Mogi Guaçu,23.55,Vargem Grande do Sul
+Osasco,146.05,Osvaldo Cruz
+Pirajuí,92.68,São Paulo
+Catanduva,18.87,Taquaritinga
+Bofete,17.3,São Manuel
+Marília,3.15,Vera Cruz
+Barrinha,56.74,Bauru
+Cafelândia,104.1,São Paulo
+Osasco,31.55,Praia Grande
+Águas de São Pedro,14.2,Santa Bárbara d'Oeste
+Osasco,154.74,Presidente Venceslau
+Lavínia,148.43,São Paulo
+Amparo,75.84,Mongaguá
+Garça,41.1,Osvaldo Cruz
+Itaberá,56.96,Salto
+Eldorado,63.3,Taboão da Serra
+Americana,101.3,Cosmorama
+Araçariguama,37.99,Santos
+Álvaro de Carvalho,4.75,Júlio Mesquita
+Bebedouro,19.0,Sertãozinho
+Indiana,4.75,Martinópolis
+Santa Adélia,14.25,Uchoa
+Salto Grande,99.81,São Paulo
+Americana,110.9,Magda
+Campinas,90.33,Ibirá
+Campinas,76.07,São Joaquim da Barra
+Araçatuba,123.63,Sorocaba
+Pedreira,38.06,São Paulo
+São Paulo,149.17,Valparaíso
+Jundiaí,22.22,Pedreira
+Osvaldo Cruz,146.05,São Paulo
+São Carlos,107.95,Urânia
+Santa Adélia,20.65,São José do Rio Preto
+Assis,57.25,Taquaritinga
+Aguaí,19.1,São José do Rio Pardo
+Itápolis,31.85,Ribeirão Preto
+Cordeirópolis,43.0,São Paulo
+Assis,138.62,Santos
+Guarulhos,25.5,São José dos Campos
+Marília,38.25,Nantes
+Regente Feijó,143.54,São Paulo
+São Vicente,70.19,Serra Negra
+Ribeirão Preto,111.69,São Vicente
+Americana,108.5,Votuporanga
+Guaiçara,119.72,São Paulo
+Assis,91.03,Piracicaba
+Ibitinga,33.55,São Carlos
+São Paulo,92.67,Sertãozinho
+Ibirá,116.65,São Paulo
+Osasco,95.9,Reginópolis
+Aparecida,41.6,São Paulo
+Assis,25.6,Iepê
+Jundiaí,16.0,São Paulo
+Pereira Barreto,54.4,São José do Rio Preto
+Araraquara,118.5,Itanhaém
+Águas de Santa Bárbara,22.42,Sarutaiá
+Garça,108.9,São Paulo
+Peruíbe,43.25,São Bernardo do Campo
+Osasco,120.15,Pompéia
+Iaras,100.97,Santos
+Campinas,134.65,Jales
+Americana,139.53,Presidente Prudente
+Campinas,115.5,Votuporanga
+Birigui,117.11,Sorocaba
+Mogi Guaçu,28.95,São José do Rio Pardo
+Araçatuba,54.73,Bauru
+Cachoeira Paulista,54.75,São Paulo
+Campinas,38.65,São Carlos
+Araraquara,22.55,Ibitinga
+Limeira,38.68,São Paulo
+Bofete,12.9,Botucatu
+Campinas,29.05,Leme
+Iaras,74.26,Presidente Prudente
+Americana,122.7,Auriflama
+Itápolis,38.75,Marília
+Osasco,111.43,Paraguaçu Paulista
+Marília,46.85,São Manuel
+Osasco,61.4,São Carlos
+Mirassol,74.35,Rio Claro
+Itápolis,48.5,Pompéia
+Barrinha,32.35,Ibitinga
+Cananéia,55.0,Juquitiba
+Ribeirão Bonito,69.56,São Paulo
+São José do Rio Preto,113.25,São Paulo
+Araraquara,58.25,Jundiaí
+Catanduva,8.1,Uchoa
+São Paulo,121.53,Urupês
+Ariranha,73.0,Jundiaí
+Gavião Peixoto,14.6,Ibitinga
+Ibitinga,29.2,Lins
+Lins,113.58,São Paulo
+Iaras,51.93,Tietê
+Guaíra,12.66,Miguelópolis
+Araraquara,97.45,São José dos Campos
+Cubatão,19.5,São Paulo
+Indiaporã,13.0,Turmalina
+São Carlos,84.5,Votuporanga
+Bálsamo,69.9,São Carlos
+Osasco,136.6,Votuporanga
+Bom Jesus dos Perdões,17.9,Guarulhos
+Araraquara,29.3,Pindorama
+Araraquara,71.65,São Paulo
+Araraquara,11.4,São Carlos
+Catanduva,122.35,São Vicente
+Rio Claro,93.03,Votuporanga
+Presidente Bernardes,146.9,São Paulo
+Osasco,124.08,Penápolis
+Agudos,29.4,Vera Cruz
+Pariquera-Açu,58.8,Taboão da Serra
+Mirassol,62.15,São Carlos
+Ourinhos,68.7,Sorocaba
+Ibirarema,99.81,Osasco
+São Manuel,65.5,São Paulo
+Maracaí,24.58,Presidente Prudente
+Piracicaba,78.7,São Vicente
+Osasco,29.52,Santos
+Atibaia,26.3,São José dos Campos
+Pompéia,120.15,São Paulo
+Bebedouro,67.54,Penápolis
+Jales,145.15,Jundiaí
+Guaratinguetá,13.2,Taubaté
+Atibaia,19.8,Guarulhos
+Hortolândia,29.7,São Paulo
+São José do Rio Preto,36.34,Taquaritinga
+Araçatuba,36.36,Castilho
+Campinas,59.5,Taubaté
+Álvares Machado,138.87,Osasco
+Itanhaém,109.2,São Carlos
+Garça,144.0,Praia Grande
+Barretos,39.75,Ribeirão Preto
+General Salgado,24.85,Pereira Barreto
+Pirassununga,29.83,Ribeirão Preto
+Osasco,145.88,Presidente Bernardes
+Americana,31.5,São Carlos
+Diadema,34.84,Sorocaba
+Franca,59.75,Itápolis
+Cosmorama,121.25,Jundiaí
+Álvares Machado,146.27,São Paulo
+Amparo,65.51,São Vicente
+Ourinhos,56.56,Regente Feijó
+Itanhaém,36.6,São Paulo
+Itapeva,123.16,São José dos Campos
+São José dos Campos,26.65,São Paulo
+Lins,43.31,Taquaritinga
+Águas de Santa Bárbara,5.0,Manduri
+Bertioga,10.0,Guarujá
+Botucatu,100.0,Santos
+Campinas,100.0,Mirassol
+Campinas,100.0,São José do Rio Preto
+Embu das Artes,40.0,Peruíbe
+Limeira,85.0,São José do Rio Preto
+Peruíbe,40.0,São Paulo
+Araraquara,106.8,Taubaté
+Osasco,95.14,Salto Grande
+Americana,92.0,São José do Rio Preto
+Osasco,36.8,Tatuí
+Clementina,13.4,Penápolis
+Guaraci,13.4,Severínia
+Iperó,33.5,São Paulo
+Osasco,120.7,São José do Rio Preto
+Catiguá,11.75,São José do Rio Preto
+Araçatuba,100.72,Limeira
+Orindiúva,13.43,Riolândia
+Lins,15.12,Penápolis
+Itatiba,26.9,São Paulo
+Olímpia,40.35,Ribeirão Preto
+Praia Grande,26.9,São Bernardo do Campo
+Americana,60.6,Santos
+Garça,134.8,São Vicente
+Jundiaí,107.95,São José do Rio Preto
+Barrinha,27.0,Itápolis
+Águas de Santa Bárbara,16.92,Piraju
+Jundiaí,23.7,Santa Bárbara d'Oeste
+Mirassol,121.95,Osasco
+Lins,111.84,Osasco
+Iaras,23.76,Salto Grande
+Guaiçara,18.68,José Bonifácio
+Santos,23.78,São Paulo
+Ibirarema,5.1,Palmital
+Luís Antônio,10.2,Porto Ferreira
+Boituva,34.0,São Paulo
+Marília,115.65,Osasco
+Jundiaí,56.16,Ribeirão Bonito
+Embu das Artes,51.1,Sorocaba
+Campinas,10.25,Indaiatuba
+Guarujá,30.75,São Bernardo do Campo
+General Salgado,18.8,Poloni
+Cosmorama,15.4,São José do Rio Preto
+Analândia,11.98,Rio Claro
+São Manuel,44.5,Vera Cruz
+Bálsamo,18.85,Meridiano
+Ribeirão Preto,109.68,Santos
+Paulínia,30.89,São Paulo
+Agudos,87.55,São Paulo
+Piracicaba,61.84,Taubaté
+Bauru,24.05,Ibitinga
+Itatiba,51.56,Santos
+Mongaguá,13.75,Peruíbe
+Garça,30.94,Parapuã
+Ribeirão Preto,103.35,Santa Fé do Sul
+Osasco,151.59,Pirapozinho
+Guzolândia,22.4,Ilha Solteira
+Cabrália Paulista,96.52,São Paulo
+Dracena,151.75,São Paulo
+Buritama,3.45,Zacarias
+Fernandópolis,8.63,Votuporanga
+Osasco,88.03,Ourinhos
+Leme,51.8,São Paulo
+Guarujá,27.63,São Paulo
+Piraju,86.43,São Paulo
+Santos,138.31,São José do Rio Preto
+São Paulo,41.5,Tatuí
+Morungaba,58.12,São Vicente
+Paulo de Faria,6.92,Riolândia
+Osasco,105.53,Palmital
+Duartina,103.95,São Paulo
+Itápolis,31.2,Lins
+Americana,125.05,Jales
+Guaratinguetá,46.9,Ubatuba
+Jundiaí,73.0,Santa Adélia
+Osasco,139.11,Presidente Prudente
+Barra Bonita,31.3,São Pedro
+Barretos,160.0,Taubaté
+Jumirim,3.48,Laranjal Paulista
+Araraquara,52.35,Mirassol
+Ribeirão Bonito,12.23,São Carlos
+Catanduva,122.35,Santos
+Bauru,40.25,Echaporã
+Garça,15.75,Pompéia
+Guarantã,31.5,Taquaritinga
+Monte Azul Paulista,22.75,Sertãozinho
+Paraibuna,14.0,Salesópolis
+Pirapozinho,3.5,Tarabai
+Marília,115.65,São Paulo
+Araraquara,70.25,Votuporanga
+Iaras,79.05,São Paulo
+Catanduva,65.3,Pirassununga
+Jaboticabal,10.6,Sertãozinho
+Mongaguá,31.8,São Bernardo do Campo
+Mongaguá,31.8,São Paulo
+Lins,63.65,São Carlos
+Cerquilho,56.6,Piraju
+Dolcinópolis,14.15,Ouroeste
+Agudos,35.4,São Pedro
+Caraguatatuba,15.95,Paraibuna
+Penápolis,113.44,Sorocaba
+Buritizal,5.33,Igarapava
+São Carlos,58.66,São José do Rio Preto
+Águas de São Pedro,35.6,Jundiaí
+Marília,81.9,Santa Bárbara d'Oeste
+Botucatu,64.1,São Paulo
+Catiguá,5.35,Uchoa
+Itapeva,123.16,Taubaté
+Cajati,50.0,Juquitiba
+Nova Odessa,62.5,Santos
+São Carlos,87.5,São Vicente
+São Paulo,300.0,Puerto Iguazú
+Campinas,32.15,Osasco
+Taubaté,32.15,Ubatuba
+Assis,85.95,Tietê
+Ouro Verde,168.7,São Paulo
+Araraquara,48.5,São José do Rio Preto
+Bauru,52.1,Rio Claro
+São Bernardo do Campo,129.36,São José do Rio Preto
+Araraquara,28.75,Porto Ferreira
+Santa Gertrudes,54.0,São Paulo
+Santa Cruz do Rio Pardo,86.57,São Paulo
+Pindorama,94.0,São Paulo
+Nazaré Paulista,29.0,São Paulo
+Itatiba,53.32,São Vicente
+Assis,105.19,Osasco
+São Roque,42.19,São Vicente
+Nova Odessa,32.75,São Paulo
+Assis,43.72,Iaras
+Franca,120.25,Rancharia
+São Paulo,350.0,Posadas
+Caraguatatuba,54.7,São Paulo
+Catanduva,105.76,São Paulo
+Avaré,71.14,São Paulo
+Bauru,91.4,Osasco
+Andradina,95.13,Bauru
+Araraquara,99.89,São Vicente
+Itanhaém,36.6,São Bernardo do Campo
+Andradina,62.32,Lins
+Rio Claro,47.7,São Paulo
+Itirapina,11.03,Torrinha
+Águas de São Pedro,31.3,Barra Bonita
+Pitangueiras,11.05,Sertãozinho
+Embu das Artes,35.0,Itanhaém
+Assis,112.73,São Paulo
+Pompéia,11.1,Tupã
+Rio Claro,50.05,São Caetano do Sul
+Estrela d'Oeste,22.27,Tanabi
+Barretos,95.0,Rancharia
+Ribeirão Preto,55.9,São José do Rio Preto
+Iacanga,89.45,Osasco
+Araraquara,44.8,Barretos
+Meridiano,5.6,Votuporanga
+Jundiaí,67.35,São Carlos
+Araraquara,41.19,Bauru
+Lins,101.18,Sorocaba
+Araçariguama,38.99,São Vicente
+Caçapava,37.5,Mauá
+Juquitiba,45.0,Pariquera-Açu
+Santa Bárbara d'Oeste,67.7,São Vicente
+Ribeirão Pires,22.59,Santos
+Fernandópolis,5.65,Valentim Gentil
+Presidente Prudente,144.12,São Paulo
+Roseira,7.6,Taubaté
+Américo de Campos,11.55,Votuporanga
+Brejo Alegre,3.85,Buritama
+Campinas,15.4,Mogi Mirim
+Fernandópolis,3.85,Meridiano
+Meridiano,3.85,Valentim Gentil
+Praia Grande,23.1,São Paulo
+Terra Roxa,3.85,Viradouro
+Araras,46.4,São Paulo
+Cesário Lange,46.75,São Paulo
+Porangaba,46.75,São Paulo
+Valentim Gentil,3.9,Votuporanga
+Nova Odessa,62.5,São Vicente
+São Paulo,113.3,Vera Cruz
+Capão Bonito,35.2,Tatuí
+Campinas,41.15,Vargem Grande do Sul
+Cerqueira César,86.24,São Paulo
+Garça,51.15,Taquaritinga
+Cachoeira Paulista,23.65,Taubaté
+Piracicaba,35.56,São Manuel
+Americana,69.15,Colina
+Garça,27.74,Tupã
+Assis,29.74,Regente Feijó
+Jaguariúna,35.72,São Paulo
+Piracicaba,47.85,São Paulo
+Campinas,71.8,Orlândia
+Manduri,91.95,São Paulo
+Campinas,14.0,Jundiaí
+Fernando Prestes,10.0,Monte Alto
+Iepê,16.01,Maracaí
+Araraquara,56.5,Guaíra
+Caraguatatuba,30.3,São José dos Campos
+Rio Claro,77.2,São José do Rio Preto
+Campinas,12.25,Santa Bárbara d'Oeste
+Cubatão,18.4,São Bernardo do Campo
+Americana,36.85,São Paulo
+Atibaia,18.45,São Paulo
+Marília,43.2,Taquaritinga
+Ouroeste,10.3,Turmalina
+Mauá,43.42,Taubaté
+Birigui,12.43,Penápolis
+São Paulo,68.55,Vargem Grande do Sul
+Magda,97.7,Rio Claro
+São Paulo,25.0,São Vicente
+Campinas,62.51,Ribeirão Preto
+Águas de São Pedro,23.3,São Manuel
+Bauru,33.9,Pompéia
+Americana,67.9,São Vicente
+Angatuba,12.95,Paranapanema
+Itápolis,39.0,Sertãozinho
+Americana,65.2,Taubaté
+Guzolândia,13.05,Pereira Barreto
+Itápolis,56.85,Tupã
+Artur Nogueira,35.0,São Paulo
+Embu das Artes,35.0,Mongaguá
+Itatinga,70.0,São Paulo
+Rio Claro,17.55,São Carlos
+Barretos,17.7,Guaíra
+Barretos,160.0,São José dos Campos
+General Salgado,4.45,Magda
+Bauru,44.98,Ourinhos
+Ribeirão Preto,117.61,São Paulo
+Araraquara,54.3,Lins
+Araçariguama,46.4,Praia Grande
+Santo Antônio do Pinhal,9.2,Tremembé
+Embu das Artes,35.0,São Vicente
+Álvares Florence,7.1,Votuporanga
+Américo de Campos,5.75,Pontes Gestal
+Avaré,60.0,Boituva
+São José do Rio Preto,137.44,São Vicente
+Embu das Artes,35.0,Praia Grande
+Santos,19.45,São Bernardo do Campo
+Aparecida,12.2,Taubaté
+Araraquara,17.15,Taquaritinga
+Auriflama,7.45,General Salgado
+Jaguariúna,19.87,Jundiaí
+Águas de Santa Bárbara,7.5,Iaras
+Bofete,31.7,Conchas
+Itanhaém,10.65,Peruíbe
+Piracicaba,31.99,Sorocaba
+Iaras,46.82,Ourinhos
+Cordeirópolis,3.15,Santa Gertrudes
+Águas de São Pedro,20.1,Santa Maria da Serra
+Boituva,55.0,Itatinga
+Bauru,169.75,São Paulo
+Gavião Peixoto,14.41,Nova Europa
+Bofete,51.25,Pereiras
+Juquitiba,15.46,Pedro de Toledo
